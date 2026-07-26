@@ -3355,7 +3355,7 @@
     <sku>SPP36-13-500</sku>
     <name>Uchwyt ręczny MIG 360 5m seria SPARTUS Pro</name>
     <ean>5900391200889</ean>
-    <quantity>239</quantity>
+    <quantity>10</quantity>
     <price>551.81</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -6495,7 +6495,7 @@
     <sku>SPBOX3-P45H-045</sku>
     <name>CUT BOX pasujący do uchwytu SP45HY</name>
     <ean>5900391231586</ean>
-    <quantity>2479</quantity>
+    <quantity>2477</quantity>
     <price>723.17</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -6505,7 +6505,7 @@
     <sku>SPBOX3-P45M-045</sku>
     <name>CUT BOX pasujący do uchwytu SP45MY</name>
     <ean>5900391231593</ean>
-    <quantity>2479</quantity>
+    <quantity>2477</quantity>
     <price>719.07</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10045,7 +10045,7 @@
     <sku>SPBOX3-P45H-045-M</sku>
     <name>CUT BOX pasujący do uchwytu SP45HY (średni)</name>
     <ean>5900391247549</ean>
-    <quantity>2479</quantity>
+    <quantity>2477</quantity>
     <price>4385.34</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10055,7 +10055,7 @@
     <sku>SPBOX3-P45H-045-L</sku>
     <name>CUT BOX pasujący do uchwytu SP45HY (duży)</name>
     <ean>5900391247556</ean>
-    <quantity>2479</quantity>
+    <quantity>2477</quantity>
     <price>8770.67</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10065,7 +10065,7 @@
     <sku>SPBOX3-P45M-045-M</sku>
     <name>CUT BOX pasujący do uchwytu SP45MY (średni)</name>
     <ean>5900391247563</ean>
-    <quantity>2479</quantity>
+    <quantity>2477</quantity>
     <price>4366.77</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10795,7 +10795,7 @@
     <sku>SP-TR-50</sku>
     <name>Wózek spawalniczy 2 kołowy-boczny (składany)</name>
     <ean>5900391249987</ean>
-    <quantity>37</quantity>
+    <quantity>34</quantity>
     <price>627.09</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11735,7 +11735,7 @@
     <sku>T-316LSI-20-500</sku>
     <name>Pręt spawalniczy ER316LSi 2.0mm 5kg</name>
     <ean>5900391251102</ean>
-    <quantity>60</quantity>
+    <quantity>58</quantity>
     <price>234.95</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -15085,7 +15085,7 @@
     <sku>EASYCUT60-PAK-60H-4</sku>
     <name>EasyCUT 60 pakiet</name>
     <ean>5900391257968</ean>
-    <quantity>111</quantity>
+    <quantity>110</quantity>
     <price>4442.07</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -15525,7 +15525,7 @@
     <sku>EASYCUT60-PAK-80H-6</sku>
     <name>EasyCUT 60 pakiet SP80H 6m</name>
     <ean>5900391010723</ean>
-    <quantity>111</quantity>
+    <quantity>110</quantity>
     <price>4442.07</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
