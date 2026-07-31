@@ -335,7 +335,7 @@
     <sku>50020</sku>
     <name>Tester przepływu gazu</name>
     <ean>5900391208502</ean>
-    <quantity>887</quantity>
+    <quantity>867</quantity>
     <price>24.00</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -1065,7 +1065,7 @@
     <sku>SP20CE16</sku>
     <name>Elektroda wolframowa (WCe20 szara) 1.6 × 175 mm</name>
     <ean>5900391200018</ean>
-    <quantity>238</quantity>
+    <quantity>138</quantity>
     <price>19.29</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -1445,7 +1445,7 @@
     <sku>SP145-02-075</sku>
     <name>Magnetyczny uchwyt spawalniczy strzałka udźwig: 33kg</name>
     <ean>5900391205532</ean>
-    <quantity>66</quantity>
+    <quantity>60</quantity>
     <price>30.29</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -1495,7 +1495,7 @@
     <sku>SP130-01-001</sku>
     <name>Spray antyodpryskowy 400ml</name>
     <ean>5900391226001</ean>
-    <quantity>1318</quantity>
+    <quantity>1270</quantity>
     <price>19.12</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -2045,7 +2045,7 @@
     <sku>SP125-00-300</sku>
     <name>Termokredka SPARTUS® 300 °C [ 572 °F ]</name>
     <ean>5900391225684</ean>
-    <quantity>11</quantity>
+    <quantity>0</quantity>
     <price>83.72</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -4885,7 +4885,7 @@
     <sku>SP-FC</sku>
     <name>Sterowania nożne do urządzenia TIG320P/400P AC/DC</name>
     <ean>5900391241387</ean>
-    <quantity>150</quantity>
+    <quantity>149</quantity>
     <price>628.57</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -6425,7 +6425,7 @@
     <sku>SP010-90-001</sku>
     <name>Kamień do czyszczenia 200x50x25mm</name>
     <ean>5900391242964</ean>
-    <quantity>9</quantity>
+    <quantity>6</quantity>
     <price>56.40</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -6445,7 +6445,7 @@
     <sku>SP010-90-004</sku>
     <name>Szczotka nylonowa 30x80mm</name>
     <ean>5900391242995</ean>
-    <quantity>78</quantity>
+    <quantity>75</quantity>
     <price>38.21</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -7485,7 +7485,7 @@
     <sku>SP010-90-003A</sku>
     <name>[OUTLET] Klucz imbusowy sześciokątny 150mm</name>
     <ean>5900391242988</ean>
-    <quantity>138</quantity>
+    <quantity>135</quantity>
     <price>55.70</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -7755,7 +7755,7 @@
     <sku>SP010-90-006</sku>
     <name>Płyn czyszczący do stołów spawalniczych 5l</name>
     <ean>5900391102046</ean>
-    <quantity>16</quantity>
+    <quantity>13</quantity>
     <price>86.23</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -8445,7 +8445,7 @@
     <sku>SP-FC-9P</sku>
     <name>Sterowania nożne do urządzenia MultiPro 200</name>
     <ean></ean>
-    <quantity>150</quantity>
+    <quantity>149</quantity>
     <price>628.57</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10605,7 +10605,7 @@
     <sku>080-10-040-EI1</sku>
     <name>Osłona stała transparentna przyłbicy BEAR</name>
     <ean>5900391248041</ean>
-    <quantity>0</quantity>
+    <quantity>3</quantity>
     <price>31.98</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10635,7 +10635,7 @@
     <sku>080-10-040-EI5</sku>
     <name>Osłona stała DIN5 przyłbicy BEAR</name>
     <ean>5900391248072</ean>
-    <quantity>0</quantity>
+    <quantity>1</quantity>
     <price>69.72</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10825,7 +10825,7 @@
     <sku>SP-TR-130</sku>
     <name>Wózek spawalniczy z 3 półkami (składany)</name>
     <ean>5900391250006</ean>
-    <quantity>35</quantity>
+    <quantity>34</quantity>
     <price>314.63</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11305,7 +11305,7 @@
     <sku>SP-TR-91</sku>
     <name>Wózek do urządzeń spawalniczych (ProTIG 2000 / 3000)</name>
     <ean></ean>
-    <quantity>30</quantity>
+    <quantity>29</quantity>
     <price>1807.51</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11385,7 +11385,7 @@
     <sku>EASYARC315P-PAK</sku>
     <name>EasyARC 315P pakiet</name>
     <ean>5900391248119</ean>
-    <quantity>2</quantity>
+    <quantity>0</quantity>
     <price>1762.97</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11435,7 +11435,7 @@
     <sku>M-308LSI-08-S100</sku>
     <name>Drut spawalniczy ER308LSi D100 1kg 0.8mm</name>
     <ean>5900391250785</ean>
-    <quantity>343</quantity>
+    <quantity>333</quantity>
     <price>41.90</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11445,7 +11445,7 @@
     <sku>M-308LSI-10-S100</sku>
     <name>Drut spawalniczy ER308LSi D100 1kg 1.0mm</name>
     <ean>5900391250792</ean>
-    <quantity>209</quantity>
+    <quantity>204</quantity>
     <price>41.01</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11515,7 +11515,7 @@
     <sku>M-316LSI-08-S100</sku>
     <name>Drut spawalniczy ER316LSi D100 1kg 0.8mm</name>
     <ean>5900391250860</ean>
-    <quantity>248</quantity>
+    <quantity>238</quantity>
     <price>57.94</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11525,7 +11525,7 @@
     <sku>M-316LSI-10-S100</sku>
     <name>Drut spawalniczy ER316LSi D100 1kg 1.0mm</name>
     <ean>5900391250877</ean>
-    <quantity>330</quantity>
+    <quantity>325</quantity>
     <price>57.94</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11705,7 +11705,7 @@
     <sku>T-316LSI-16-100</sku>
     <name>Pręt spawalniczy ER316LSi 1.6mm 1kg</name>
     <ean>5900391251058</ean>
-    <quantity>584</quantity>
+    <quantity>554</quantity>
     <price>70.35</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11755,7 +11755,7 @@
     <sku>T-316LSI-20-500</sku>
     <name>Pręt spawalniczy ER316LSi 2.0mm 5kg</name>
     <ean>5900391251102</ean>
-    <quantity>57</quantity>
+    <quantity>49</quantity>
     <price>234.95</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11765,7 +11765,7 @@
     <sku>T-316LSI-24-500</sku>
     <name>Pręt spawalniczy ER316LSi 2.4mm 5kg</name>
     <ean>5900391251119</ean>
-    <quantity>45</quantity>
+    <quantity>34</quantity>
     <price>234.95</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11775,7 +11775,7 @@
     <sku>T-316LSI-32-500</sku>
     <name>Pręt spawalniczy ER316LSi 3.2mm 5kg</name>
     <ean>5900391251126</ean>
-    <quantity>41</quantity>
+    <quantity>33</quantity>
     <price>234.95</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -12075,7 +12075,7 @@
     <sku>T-ER70S-6-16-500</sku>
     <name>Pręt spawalniczy ER70S-6 1.6mm 5kg</name>
     <ean>5900391251867</ean>
-    <quantity>50</quantity>
+    <quantity>248</quantity>
     <price>97.92</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -12085,7 +12085,7 @@
     <sku>T-ER70S-6-20-500</sku>
     <name>Pręt spawalniczy ER70S-6 2.0mm 5kg</name>
     <ean>5900391251874</ean>
-    <quantity>54</quantity>
+    <quantity>254</quantity>
     <price>97.92</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -12095,7 +12095,7 @@
     <sku>T-ER70S-6-24-500</sku>
     <name>Pręt spawalniczy ER70S-6 2.4mm 5kg</name>
     <ean>5900391251881</ean>
-    <quantity>0</quantity>
+    <quantity>600</quantity>
     <price>97.92</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -12105,7 +12105,7 @@
     <sku>T-ER70S-6-32-500</sku>
     <name>Pręt spawalniczy ER70S-6 3.2mm 5kg</name>
     <ean>5900391251898</ean>
-    <quantity>279</quantity>
+    <quantity>379</quantity>
     <price>97.92</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -12125,7 +12125,7 @@
     <sku>M-ER70S-6-08-S200</sku>
     <name>Drut spawalniczy ER70S-6 [SG2] D200 5kg 0.8mm</name>
     <ean>5900391251805</ean>
-    <quantity>1434</quantity>
+    <quantity>4434</quantity>
     <price>73.04</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -12165,7 +12165,7 @@
     <sku>M-ER70S-6-10-B300</sku>
     <name>Drut spawalniczy ER70S-6 [SG2] D300 15kg 1.0mm</name>
     <ean>5900391251843</ean>
-    <quantity>294</quantity>
+    <quantity>1164</quantity>
     <price>169.37</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -12175,7 +12175,7 @@
     <sku>M-ER70S-6-12-B300</sku>
     <name>Drut spawalniczy ER70S-6 [SG2] D300 15kg 1.2mm</name>
     <ean>5900391251850</ean>
-    <quantity>0</quantity>
+    <quantity>800</quantity>
     <price>161.90</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -12275,7 +12275,7 @@
     <sku>SP130-20-005</sku>
     <name>Płyn chłodniczy SPARTUS MaxCoolant 5l</name>
     <ean>5900391253533</ean>
-    <quantity>44</quantity>
+    <quantity>34</quantity>
     <price>130.06</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -12405,7 +12405,7 @@
     <sku>M-309LSI-10-S100</sku>
     <name>Drut spawalniczy ER309LSi D100 1kg 1.0mm</name>
     <ean>5900391254684</ean>
-    <quantity>146</quantity>
+    <quantity>145</quantity>
     <price>52.53</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -12415,7 +12415,7 @@
     <sku>M-309LSI-08-S100</sku>
     <name>Drut spawalniczy ER309LSi D100 1kg 0.8mm</name>
     <ean>5900391254691</ean>
-    <quantity>77</quantity>
+    <quantity>62</quantity>
     <price>52.53</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -12495,7 +12495,7 @@
     <sku>T-316LSI-10-100</sku>
     <name>Pręt spawalniczy ER316LSi 1.0mm 1kg</name>
     <ean>5900391254776</ean>
-    <quantity>168</quantity>
+    <quantity>138</quantity>
     <price>73.91</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -12535,7 +12535,7 @@
     <sku>T-309LSI-10-500</sku>
     <name>Pręt spawalniczy ER309LSi 1.0mm 5kg</name>
     <ean>5900391254813</ean>
-    <quantity>33</quantity>
+    <quantity>30</quantity>
     <price>253.14</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -12545,7 +12545,7 @@
     <sku>T-309LSI-12-500</sku>
     <name>Pręt spawalniczy ER309LSi 1.2mm 5kg</name>
     <ean>5900391254820</ean>
-    <quantity>33</quantity>
+    <quantity>31</quantity>
     <price>253.14</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -12575,7 +12575,7 @@
     <sku>T-309LSI-16-500</sku>
     <name>Pręt spawalniczy ER309LSi 1.6mm 5kg</name>
     <ean>5900391254851</ean>
-    <quantity>14</quantity>
+    <quantity>11</quantity>
     <price>236.55</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -12585,7 +12585,7 @@
     <sku>T-309LSI-20-500</sku>
     <name>Pręt spawalniczy ER309LSi 2.0mm 5kg</name>
     <ean>5900391254868</ean>
-    <quantity>19</quantity>
+    <quantity>16</quantity>
     <price>236.55</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -12595,7 +12595,7 @@
     <sku>T-309LSI-24-500</sku>
     <name>Pręt spawalniczy ER309LSi 2.4mm 5kg</name>
     <ean>5900391254875</ean>
-    <quantity>8</quantity>
+    <quantity>5</quantity>
     <price>236.55</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -12605,7 +12605,7 @@
     <sku>T-309LSI-32-500</sku>
     <name>Pręt spawalniczy ER309LSi 3.2mm 5kg</name>
     <ean>5900391254882</ean>
-    <quantity>34</quantity>
+    <quantity>33</quantity>
     <price>236.55</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -12615,7 +12615,7 @@
     <sku>SP050-50-110A</sku>
     <name>Panel kurtyna 1100x2000 z łącznikiem do zabudowy stanowisk laserowych</name>
     <ean>5900391255162</ean>
-    <quantity>168</quantity>
+    <quantity>518</quantity>
     <price>2089.36</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -12625,7 +12625,7 @@
     <sku>SP050-50-110D</sku>
     <name>Drzwi kurtyna 1100x2000 do zabudowy stanowisk laserowych</name>
     <ean>5900391255148</ean>
-    <quantity>168</quantity>
+    <quantity>518</quantity>
     <price>2203.72</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -12635,7 +12635,7 @@
     <sku>SP050-50-110VA</sku>
     <name>Panel kurtyna 1100x2000 z podglądem i łącznikiem do zabudowy stanowisk laserowych</name>
     <ean>5900391255186</ean>
-    <quantity>63</quantity>
+    <quantity>113</quantity>
     <price>3330.90</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -12645,7 +12645,7 @@
     <sku>SP050-50-110VD</sku>
     <name>Drzwi kurtyna 1100x2000 z podglądem do zabudowy stanowisk laserowych</name>
     <ean>5900391255155</ean>
-    <quantity>63</quantity>
+    <quantity>113</quantity>
     <price>3428.91</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -14335,7 +14335,7 @@
     <sku>SP028-20-100N</sku>
     <name>Blok mocujący kształt U 1000x200x200mm azotowany</name>
     <ean>5900391257104</ean>
-    <quantity>3</quantity>
+    <quantity>0</quantity>
     <price>4528.76</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -14365,7 +14365,7 @@
     <sku>SP028-20-300N</sku>
     <name>Blok mocujący kształt U 3000x200x200mm azotowany</name>
     <ean>5900391257135</ean>
-    <quantity>2</quantity>
+    <quantity>1</quantity>
     <price>11498.76</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -14395,7 +14395,7 @@
     <sku>SP028-22-050N</sku>
     <name>Blok mocujący kształt U 500x200x100mm azotowany</name>
     <ean>5900391257173</ean>
-    <quantity>2</quantity>
+    <quantity>0</quantity>
     <price>1915.01</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -14405,7 +14405,7 @@
     <sku>SP028-23-300LN</sku>
     <name>Kątownik oporowo-mocujący 275x100x300mm lewy azotowany</name>
     <ean>5900391257180</ean>
-    <quantity>17</quantity>
+    <quantity>11</quantity>
     <price>1218.01</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -14415,7 +14415,7 @@
     <sku>SP028-23-300RN</sku>
     <name>Kątownik oporowo-mocujący 275x100x300mm prawy azotowany</name>
     <ean>5900391257197</ean>
-    <quantity>11</quantity>
+    <quantity>5</quantity>
     <price>1218.01</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -14425,7 +14425,7 @@
     <sku>SP028-23-600LN</sku>
     <name>Kątownik oporowo-mocujący 325x100x600mm lewy azotowany</name>
     <ean>5900391257203</ean>
-    <quantity>15</quantity>
+    <quantity>9</quantity>
     <price>1915.01</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -14435,7 +14435,7 @@
     <sku>SP028-23-600RN</sku>
     <name>Kątownik oporowo-mocujący 325x100x600mm prawy azotowany</name>
     <ean>5900391257210</ean>
-    <quantity>15</quantity>
+    <quantity>9</quantity>
     <price>1915.01</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -14505,7 +14505,7 @@
     <sku>SP028-30-002N</sku>
     <name>Kątownik 175x50x175mm otwór/slot azotowany</name>
     <ean>5900391257326</ean>
-    <quantity>262</quantity>
+    <quantity>238</quantity>
     <price>223.95</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -14515,7 +14515,7 @@
     <sku>SP028-30-010N</sku>
     <name>Kątownik 175x50x75mm otwór/slot azotowany</name>
     <ean>5900391257333</ean>
-    <quantity>78</quantity>
+    <quantity>54</quantity>
     <price>167.49</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -14545,7 +14545,7 @@
     <sku>SP028-30-013N</sku>
     <name>Kątownik 175x50x275mm otwór/slot azotowany</name>
     <ean>5900391257364</ean>
-    <quantity>120</quantity>
+    <quantity>108</quantity>
     <price>299.22</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -14575,7 +14575,7 @@
     <sku>SP028-50-002N</sku>
     <name>Stoper uniwersalny 225x50x25mm azotowany</name>
     <ean>5900391257395</ean>
-    <quantity>242</quantity>
+    <quantity>218</quantity>
     <price>129.85</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -14585,7 +14585,7 @@
     <sku>SP028-50-003N</sku>
     <name>Stoper 300x50x25mm azotowany</name>
     <ean>5900391257401</ean>
-    <quantity>37</quantity>
+    <quantity>31</quantity>
     <price>242.77</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -14595,7 +14595,7 @@
     <sku>SP028-50-014N</sku>
     <name>Stoper 500x100x25mm otwory/slot azotowany</name>
     <ean>5900391257418</ean>
-    <quantity>30</quantity>
+    <quantity>18</quantity>
     <price>396.87</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -14905,7 +14905,7 @@
     <sku>SP028-60-001</sku>
     <name>Trzpień szybkomocujący fi28x50mm</name>
     <ean>5900391257722</ean>
-    <quantity>455</quantity>
+    <quantity>317</quantity>
     <price>111.03</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -14915,7 +14915,7 @@
     <sku>SP028-60-002</sku>
     <name>Trzpień szybkomocujący fi28x75mm</name>
     <ean>5900391257739</ean>
-    <quantity>64</quantity>
+    <quantity>48</quantity>
     <price>129.85</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -14985,7 +14985,7 @@
     <sku>SP028-60-020N</sku>
     <name>Trzpień szybkomocujący azotowany fi 28x50mm</name>
     <ean>5900391257814</ean>
-    <quantity>1000</quantity>
+    <quantity>988</quantity>
     <price>167.49</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -15035,7 +15035,7 @@
     <sku>SP028-99-SET06N</sku>
     <name>Zestaw akcesoriów 06N</name>
     <ean></ean>
-    <quantity>10</quantity>
+    <quantity>0</quantity>
     <price>40227.48</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -15395,7 +15395,7 @@
     <sku>XPROMIG200DP-PAK-24-3</sku>
     <name>XPro MIG 200 DUAL PULSE pakiet</name>
     <ean>5900391006412</ean>
-    <quantity>19</quantity>
+    <quantity>18</quantity>
     <price>3657.94</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -15475,7 +15475,7 @@
     <sku>XPROMIG200DP-PAK-24-3-17-4</sku>
     <name>XPro MIG 200 DUAL PULSE pakiet MIG TIG MMA</name>
     <ean>5900391010464</ean>
-    <quantity>19</quantity>
+    <quantity>18</quantity>
     <price>4180.69</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
