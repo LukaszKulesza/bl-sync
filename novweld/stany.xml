@@ -5365,7 +5365,7 @@
     <sku>080-10-901-F</sku>
     <name>Osłona wewnętrzna filtra przyłbicy 901X</name>
     <ean>5900391011836</ean>
-    <quantity>1735</quantity>
+    <quantity>1725</quantity>
     <price>6.29</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -6435,7 +6435,7 @@
     <sku>SP010-90-002</sku>
     <name>Butelka z dozownikiem</name>
     <ean>5900391242971</ean>
-    <quantity>5</quantity>
+    <quantity>0</quantity>
     <price>56.40</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -12095,7 +12095,7 @@
     <sku>T-ER70S-6-24-500</sku>
     <name>Pręt spawalniczy ER70S-6 2.4mm 5kg</name>
     <ean>5900391251881</ean>
-    <quantity>596</quantity>
+    <quantity>575</quantity>
     <price>97.92</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -12175,7 +12175,7 @@
     <sku>M-ER70S-6-12-B300</sku>
     <name>Drut spawalniczy ER70S-6 [SG2] D300 15kg 1.2mm</name>
     <ean>5900391251850</ean>
-    <quantity>800</quantity>
+    <quantity>767</quantity>
     <price>161.90</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
