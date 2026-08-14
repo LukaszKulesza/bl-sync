@@ -325,7 +325,7 @@
     <sku>NW090-99-010</sku>
     <name>Rura prowadząca 124 mm do gniazda 090-99-000</name>
     <ean>5900391205143</ean>
-    <quantity>96</quantity>
+    <quantity>66</quantity>
     <price>27.05</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -885,7 +885,7 @@
     <sku>SP100W20</sku>
     <name>Elektroda wolframowa (WP zielona) - 2.0 × 175 mm</name>
     <ean>5900391200247</ean>
-    <quantity>510</quantity>
+    <quantity>490</quantity>
     <price>29.39</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -995,7 +995,7 @@
     <sku>SP20TR24</sku>
     <name>Elektroda wolframowa (WTh20 czerwona) 2.4 × 175 mm</name>
     <ean>5900391200353</ean>
-    <quantity>1125</quantity>
+    <quantity>1085</quantity>
     <price>36.04</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -1145,7 +1145,7 @@
     <sku>SP15RE10</sku>
     <name>Elektroda wolframowa (WLa15 złota) 1.0 × 175 mm</name>
     <ean>5900391200094</ean>
-    <quantity>260</quantity>
+    <quantity>250</quantity>
     <price>9.15</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -1475,7 +1475,7 @@
     <sku>SP145-04-055</sku>
     <name>Magnetyczny uchwyt spawalniczy z wyłącznikiem udźwig: 25kg</name>
     <ean>5900391205563</ean>
-    <quantity>20</quantity>
+    <quantity>18</quantity>
     <price>173.69</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -1485,7 +1485,7 @@
     <sku>SP130-01-010</sku>
     <name>Pasta antyodpryskowa 340ml</name>
     <ean>5900391226049</ean>
-    <quantity>159</quantity>
+    <quantity>147</quantity>
     <price>29.95</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -1525,7 +1525,7 @@
     <sku>SP130-01-003</sku>
     <name>Płyn antyodpryskowy 20l</name>
     <ean>5900391226025</ean>
-    <quantity>24</quantity>
+    <quantity>23</quantity>
     <price>248.85</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -1535,7 +1535,7 @@
     <sku>SP130-02-002</sku>
     <name>Płyn antyodpryskowy odtłuszczający SPARTUS Protektor 5l</name>
     <ean>5900391226100</ean>
-    <quantity>12</quantity>
+    <quantity>8</quantity>
     <price>81.39</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -2205,7 +2205,7 @@
     <sku>SP125-00-850</sku>
     <name>Termokredka SPARTUS® 850 °C [ 1562 °F ]</name>
     <ean>5900391225868</ean>
-    <quantity>6</quantity>
+    <quantity>5</quantity>
     <price>83.72</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -2215,7 +2215,7 @@
     <sku>SP125-00-900</sku>
     <name>Termokredka SPARTUS® 900 °C [ 1652 °F ]</name>
     <ean>5900391225875</ean>
-    <quantity>8</quantity>
+    <quantity>7</quantity>
     <price>83.72</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -2315,7 +2315,7 @@
     <sku>SP-400A</sku>
     <name>Uchwyt elektrodowy SPARTUS® 400A</name>
     <ean>5900391204245</ean>
-    <quantity>46</quantity>
+    <quantity>39</quantity>
     <price>130.01</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -3125,7 +3125,7 @@
     <sku>SPE15-11-300</sku>
     <name>Uchwyt ręczny MIG 150 3m seria SPARTUS Easy</name>
     <ean>5900391200537</ean>
-    <quantity>213</quantity>
+    <quantity>212</quantity>
     <price>130.77</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -4565,7 +4565,7 @@
     <sku>NW51865</sku>
     <name>Cyrkiel (kpl.) HY® POWERMAX® 45/85/105/600/800/900/1000/1650®</name>
     <ean>5900391213155</ean>
-    <quantity>5</quantity>
+    <quantity>4</quantity>
     <price>564.03</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -4645,7 +4645,7 @@
     <sku>NW51866</sku>
     <name>Cyrkiel (kpl.) PT-20C® / PT40®</name>
     <ean>5900391213162</ean>
-    <quantity>46</quantity>
+    <quantity>45</quantity>
     <price>535.68</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -5355,7 +5355,7 @@
     <sku>080-10-901-ET</sku>
     <name>Osłona zewnętrzna filtra przyłbicy [transparentna]</name>
     <ean>5900391011829</ean>
-    <quantity>7373</quantity>
+    <quantity>7351</quantity>
     <price>15.29</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -5935,7 +5935,7 @@
     <sku>080-10-901</sku>
     <name>Przyłbica SPARTUS® Pro 901X</name>
     <ean>5900391241639</ean>
-    <quantity>6</quantity>
+    <quantity>0</quantity>
     <price>489.12</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -5981,16 +5981,6 @@
     <tax_rate>23%</tax_rate>
   </product>
   <product>
-    <product_id>69967177</product_id>
-    <sku>SP010-21-100</sku>
-    <name>[OUTLET] Blok mocujący kształt L 1000x200x100</name>
-    <ean>5900391231777</ean>
-    <quantity>0</quantity>
-    <price>2979.52</price>
-    <purchase_price></purchase_price>
-    <tax_rate>23%</tax_rate>
-  </product>
-  <product>
     <product_id>69967178</product_id>
     <sku>SP010-21-200</sku>
     <name>[OUTLET] Blok mocujący kształt L 2000x200x100</name>
@@ -6007,16 +5997,6 @@
     <ean>5900391231807</ean>
     <quantity>0</quantity>
     <price>1489.68</price>
-    <purchase_price></purchase_price>
-    <tax_rate>23%</tax_rate>
-  </product>
-  <product>
-    <product_id>69968905</product_id>
-    <sku>SP010-22-050</sku>
-    <name>[OUTLET] Blok mocujący kształt U 500x200x100</name>
-    <ean>5900391231814</ean>
-    <quantity>0</quantity>
-    <price>2151.82</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
   </product>
@@ -6485,7 +6465,7 @@
     <sku>SPBOX3-P45H-045</sku>
     <name>CUT BOX pasujący do uchwytu SP45HY</name>
     <ean>5900391231586</ean>
-    <quantity>2477</quantity>
+    <quantity>2475</quantity>
     <price>723.17</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -6495,7 +6475,7 @@
     <sku>SPBOX3-P45M-045</sku>
     <name>CUT BOX pasujący do uchwytu SP45MY</name>
     <ean>5900391231593</ean>
-    <quantity>2477</quantity>
+    <quantity>2475</quantity>
     <price>719.07</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -7285,7 +7265,7 @@
     <sku>NW17-25D10-24-kpl</sku>
     <name>QUARTZSYSTEM – wersja krótka 17/18/26 [na elektrodę 2.4mm]</name>
     <ean>5900391000519</ean>
-    <quantity>161</quantity>
+    <quantity>159</quantity>
     <price>43.69</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -7367,16 +7347,6 @@
     <ean>5900391231708</ean>
     <quantity>0</quantity>
     <price>2234.60</price>
-    <purchase_price></purchase_price>
-    <tax_rate>23%</tax_rate>
-  </product>
-  <product>
-    <product_id>69967316</product_id>
-    <sku>SP010-21-050</sku>
-    <name>[OUTLET] Blok mocujący kształt L 500x200x100</name>
-    <ean>5900391231760</ean>
-    <quantity>0</quantity>
-    <price>1862.18</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
   </product>
@@ -9525,7 +9495,7 @@
     <sku>SP070-00-060</sku>
     <name>Półmaska ochronna SPARTUS® 60 (rozmiar L)</name>
     <ean>5900391244364</ean>
-    <quantity>186</quantity>
+    <quantity>176</quantity>
     <price>53.76</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -9545,7 +9515,7 @@
     <sku>SP070-00-090</sku>
     <name>Maska ochronna pełnotwarzowa SPARTUS® 90</name>
     <ean>5900391244395</ean>
-    <quantity>297</quantity>
+    <quantity>296</quantity>
     <price>280.51</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -9555,7 +9525,7 @@
     <sku>SP070-30-010</sku>
     <name>Filtr przeciwpyłowy P3R SPARTUS® 10</name>
     <ean>5900391244401</ean>
-    <quantity>2472</quantity>
+    <quantity>2470</quantity>
     <price>18.02</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -9605,7 +9575,7 @@
     <sku>SP070-30-060</sku>
     <name>Filtr przeciwpyłowy P3R SPARTUS® 60</name>
     <ean>5900391244425</ean>
-    <quantity>4304</quantity>
+    <quantity>4282</quantity>
     <price>18.02</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -9975,7 +9945,7 @@
     <sku>SP070-20-902</sku>
     <name>Osłona ochronna do maski pełnotwarzowej SPARTUS® 90</name>
     <ean>5900391245453</ean>
-    <quantity>32</quantity>
+    <quantity>166</quantity>
     <price>6.01</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10035,7 +10005,7 @@
     <sku>SPBOX3-P45H-045-M</sku>
     <name>CUT BOX pasujący do uchwytu SP45HY (średni)</name>
     <ean>5900391247549</ean>
-    <quantity>2477</quantity>
+    <quantity>2475</quantity>
     <price>4385.34</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10045,7 +10015,7 @@
     <sku>SPBOX3-P45H-045-L</sku>
     <name>CUT BOX pasujący do uchwytu SP45HY (duży)</name>
     <ean>5900391247556</ean>
-    <quantity>2477</quantity>
+    <quantity>2475</quantity>
     <price>8770.67</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10055,7 +10025,7 @@
     <sku>SPBOX3-P45M-045-M</sku>
     <name>CUT BOX pasujący do uchwytu SP45MY (średni)</name>
     <ean>5900391247563</ean>
-    <quantity>2477</quantity>
+    <quantity>2475</quantity>
     <price>4366.77</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10785,7 +10755,7 @@
     <sku>SP-TR-50</sku>
     <name>Wózek spawalniczy 2 kołowy-boczny (składany)</name>
     <ean>5900391249987</ean>
-    <quantity>25</quantity>
+    <quantity>24</quantity>
     <price>627.09</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11525,7 +11495,7 @@
     <sku>M-316LSI-12-S200</sku>
     <name>Drut spawalniczy ER316LSi D200 5kg 1.2mm</name>
     <ean>5900391250907</ean>
-    <quantity>89</quantity>
+    <quantity>87</quantity>
     <price>253.14</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11545,7 +11515,7 @@
     <sku>M-316LSI-10-B300</sku>
     <name>Drut spawalniczy ER316LSi D300 15kg 1.0mm</name>
     <ean>5900391250921</ean>
-    <quantity>92</quantity>
+    <quantity>90</quantity>
     <price>707.48</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11675,7 +11645,7 @@
     <sku>T-316LSI-16-100</sku>
     <name>Pręt spawalniczy ER316LSi 1.6mm 1kg</name>
     <ean>5900391251058</ean>
-    <quantity>523</quantity>
+    <quantity>521</quantity>
     <price>70.35</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11695,7 +11665,7 @@
     <sku>T-316LSI-24-100</sku>
     <name>Pręt spawalniczy ER316LSi 2.4mm 1kg</name>
     <ean>5900391251072</ean>
-    <quantity>530</quantity>
+    <quantity>528</quantity>
     <price>70.35</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11725,7 +11695,7 @@
     <sku>T-316LSI-20-500</sku>
     <name>Pręt spawalniczy ER316LSi 2.0mm 5kg</name>
     <ean>5900391251102</ean>
-    <quantity>45</quantity>
+    <quantity>44</quantity>
     <price>234.95</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11765,7 +11735,7 @@
     <sku>T-309LSI-20-100</sku>
     <name>Pręt spawalniczy ER309LSi 2.0mm 1kg</name>
     <ean>5900391251140</ean>
-    <quantity>210</quantity>
+    <quantity>208</quantity>
     <price>63.23</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11785,7 +11755,7 @@
     <sku>T-309LSI-32-100</sku>
     <name>Pręt spawalniczy ER309LSi 3.2mm 1kg</name>
     <ean>5900391251164</ean>
-    <quantity>129</quantity>
+    <quantity>127</quantity>
     <price>63.23</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11985,7 +11955,7 @@
     <sku>SP050-90-005</sku>
     <name>Płyn chłodniczy do spawarek laserowych SPARTUS LaserFrost 5l</name>
     <ean>5900391252345</ean>
-    <quantity>85</quantity>
+    <quantity>82</quantity>
     <price>211.58</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -12045,7 +12015,7 @@
     <sku>T-ER70S-6-16-500</sku>
     <name>Pręt spawalniczy ER70S-6 1.6mm 5kg</name>
     <ean>5900391251867</ean>
-    <quantity>236</quantity>
+    <quantity>234</quantity>
     <price>97.92</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -12065,7 +12035,7 @@
     <sku>T-ER70S-6-24-500</sku>
     <name>Pręt spawalniczy ER70S-6 2.4mm 5kg</name>
     <ean>5900391251881</ean>
-    <quantity>500</quantity>
+    <quantity>498</quantity>
     <price>97.92</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -12095,7 +12065,7 @@
     <sku>M-ER70S-6-08-S200</sku>
     <name>Drut spawalniczy ER70S-6 [SG2] D200 5kg 0.8mm</name>
     <ean>5900391251805</ean>
-    <quantity>4223</quantity>
+    <quantity>4213</quantity>
     <price>80.43</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -12125,7 +12095,7 @@
     <sku>M-ER70S-6-08-B300</sku>
     <name>Drut spawalniczy ER70S-6 [SG2] D300 15kg 0.8mm</name>
     <ean>5900391251836</ean>
-    <quantity>118</quantity>
+    <quantity>113</quantity>
     <price>194.28</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -12135,7 +12105,7 @@
     <sku>M-ER70S-6-10-B300</sku>
     <name>Drut spawalniczy ER70S-6 [SG2] D300 15kg 1.0mm</name>
     <ean>5900391251843</ean>
-    <quantity>1080</quantity>
+    <quantity>1070</quantity>
     <price>186.80</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -12145,7 +12115,7 @@
     <sku>M-ER70S-6-12-B300</sku>
     <name>Drut spawalniczy ER70S-6 [SG2] D300 15kg 1.2mm</name>
     <ean>5900391251850</ean>
-    <quantity>690</quantity>
+    <quantity>680</quantity>
     <price>179.33</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -12245,7 +12215,7 @@
     <sku>SP130-20-005</sku>
     <name>Płyn chłodniczy SPARTUS MaxCoolant 5l</name>
     <ean>5900391253533</ean>
-    <quantity>1</quantity>
+    <quantity>201</quantity>
     <price>130.06</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -12585,7 +12555,7 @@
     <sku>SP050-50-110A</sku>
     <name>Panel kurtyna 1100x2000 z łącznikiem do zabudowy stanowisk laserowych</name>
     <ean>5900391255162</ean>
-    <quantity>516</quantity>
+    <quantity>511</quantity>
     <price>2089.36</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -12595,7 +12565,7 @@
     <sku>SP050-50-110D</sku>
     <name>Drzwi kurtyna 1100x2000 do zabudowy stanowisk laserowych</name>
     <ean>5900391255148</ean>
-    <quantity>516</quantity>
+    <quantity>511</quantity>
     <price>2203.72</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -12605,7 +12575,7 @@
     <sku>SP050-50-110VA</sku>
     <name>Panel kurtyna 1100x2000 z podglądem i łącznikiem do zabudowy stanowisk laserowych</name>
     <ean>5900391255186</ean>
-    <quantity>113</quantity>
+    <quantity>112</quantity>
     <price>3330.90</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -12615,7 +12585,7 @@
     <sku>SP050-50-110VD</sku>
     <name>Drzwi kurtyna 1100x2000 z podglądem do zabudowy stanowisk laserowych</name>
     <ean>5900391255155</ean>
-    <quantity>113</quantity>
+    <quantity>112</quantity>
     <price>3428.91</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -14955,7 +14925,7 @@
     <sku>SP028-60-020N</sku>
     <name>Trzpień szybkomocujący azotowany fi 28x50mm</name>
     <ean>5900391257814</ean>
-    <quantity>988</quantity>
+    <quantity>980</quantity>
     <price>167.49</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -15345,7 +15315,7 @@
     <sku>XPROMIG310DP-PAK-36-3</sku>
     <name>XPro MIG 310 DUAL PLUSE pakiet</name>
     <ean>5900391006481</ean>
-    <quantity>10</quantity>
+    <quantity>9</quantity>
     <price>5487.57</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -15465,7 +15435,7 @@
     <sku>XPROMIG310DP-PAK-36-3-26-4</sku>
     <name>XPro MIG 310 DUAL PULSE pakiet MIG TIG MMA</name>
     <ean>5900391010488</ean>
-    <quantity>10</quantity>
+    <quantity>9</quantity>
     <price>6193.28</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -15655,7 +15625,7 @@
     <sku>T-ER70S-6-16-100</sku>
     <name>Pręt spawalniczy ER70S-6 1.6mm 1kg</name>
     <ean>5900391008102</ean>
-    <quantity>495</quantity>
+    <quantity>485</quantity>
     <price>33.25</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -15665,7 +15635,7 @@
     <sku>T-ER70S-6-20-100</sku>
     <name>Pręt spawalniczy ER70S-6 2.0mm 1kg</name>
     <ean>5900391008119</ean>
-    <quantity>495</quantity>
+    <quantity>485</quantity>
     <price>33.25</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -15675,7 +15645,7 @@
     <sku>T-ER70S-6-24-100</sku>
     <name>Pręt spawalniczy ER70S-6 2.4mm 1kg</name>
     <ean>5900391008126</ean>
-    <quantity>495</quantity>
+    <quantity>485</quantity>
     <price>33.25</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -15685,7 +15655,7 @@
     <sku>T-ER70S-6-32-100</sku>
     <name>Pręt spawalniczy ER70S-6 3.2mm 1kg</name>
     <ean>5900391008133</ean>
-    <quantity>495</quantity>
+    <quantity>485</quantity>
     <price>33.25</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
