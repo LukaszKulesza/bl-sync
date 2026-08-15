@@ -531,7 +531,7 @@
   <product>
     <product_id>310945472</product_id>
     <name>Zestaw Adapterów do Płukania Klimatyzacji XXL 78 Elementów Kraft&amp;Dele</name>
-    <quantity>9</quantity>
+    <quantity>7</quantity>
     <ean>5903957012179</ean>
     <sku>KD10063</sku>
     <category_name>Motoryzacja/Narzędzia i sprzęt warsztatowy/Narzędzia ręczne/Zestawy narzędzi</category_name>
@@ -803,7 +803,7 @@
   <product>
     <product_id>310945491</product_id>
     <name>KRAFT&amp;DELE BUTLA GAZOWA CO2 PUSTA 8 LITRÓW KD1830</name>
-    <quantity>300</quantity>
+    <quantity>250</quantity>
     <ean>5903175335531</ean>
     <sku>KD1830</sku>
     <category_name>Przemysł/Spawalnictwo/Osprzęt gazowy/Butle gazowe</category_name>
@@ -1379,7 +1379,7 @@
   <product>
     <product_id>310945529</product_id>
     <name>Gwintowniki Zestaw Naprawczy do Gwintów 131 Elementów Sztuk Kraft&amp;Dele</name>
-    <quantity>150</quantity>
+    <quantity>100</quantity>
     <ean>5901638112941</ean>
     <sku>KD10590</sku>
     <category_name>Dom i Ogród/Narzędzia/Osprzęt do elektronarzędzi/Zestawy</category_name>
@@ -1683,7 +1683,7 @@
   <product>
     <product_id>310945762</product_id>
     <name>Szlifierka mimośrodowa Kraft&amp;Dele sieciowe 1100 W 230 V</name>
-    <quantity>200</quantity>
+    <quantity>150</quantity>
     <ean>5903175330321</ean>
     <sku>KD1684</sku>
     <category_name>Dom i Ogród/Narzędzia/Szlifierki</category_name>
@@ -2179,7 +2179,7 @@
   <product>
     <product_id>310946082</product_id>
     <name>REDUKTOR CIŚNIENIA FILTR POWIETRZA ODWADNIACZ 1/4'</name>
-    <quantity>2</quantity>
+    <quantity>0</quantity>
     <ean>5903957004907</ean>
     <sku>KD1497</sku>
     <category_name>Motoryzacja/Narzędzia i sprzęt warsztatowy/Kompresory i akcesoria/Filtroreduktory</category_name>
@@ -2883,7 +2883,7 @@
   <product>
     <product_id>310946271</product_id>
     <name>Metrówka Zwijana 5m x 25mm Stalowa Hamulec Taśma Miernicza Kraft&amp;Dele</name>
-    <quantity>1</quantity>
+    <quantity>3</quantity>
     <ean>5901638118943</ean>
     <sku>KD10292</sku>
     <category_name>Dom i Ogród/Narzędzia/Przyrządy miernicze/Miary i taśmy</category_name>
@@ -3091,7 +3091,7 @@
   <product>
     <product_id>310946285</product_id>
     <name>SPAWARKA INWERTEROWA INWERTOROWA MIG MMA TIG 250A BEZGAZ</name>
-    <quantity>17</quantity>
+    <quantity>15</quantity>
     <ean>5903957009827</ean>
     <sku>KD1883</sku>
     <category_name>Dom i Ogród/Narzędzia/Spawarki/Spawarki inwertorowe</category_name>
@@ -3395,12 +3395,12 @@
   <product>
     <product_id>310946305</product_id>
     <name>Metalowy Stojak na Rowery Rowerowy 4 Miejsca Stanowiska KRAFT&amp;DELE</name>
-    <quantity>0</quantity>
+    <quantity>300</quantity>
     <ean>5903957008295</ean>
     <sku>KD651</sku>
     <category_name>Sport i turystyka/Rowery i akcesoria/Akcesoria/Sprzęt postojowy/Stojaki na rower</category_name>
     <manufacturer_name>Kraft&amp;Dele</manufacturer_name>
-    <price>112.20</price>
+    <price>125.40</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
     <weight>0</weight>
@@ -3699,12 +3699,12 @@
   <product>
     <product_id>310946325</product_id>
     <name>Mieszadło Elektryczne 2600W Kraft&amp;Dele</name>
-    <quantity>0</quantity>
+    <quantity>300</quantity>
     <ean>5901638112194</ean>
     <sku>KD541</sku>
     <category_name>Dom i Ogród/Narzędzia/Mieszarki</category_name>
     <manufacturer_name>Kraft&amp;Dele</manufacturer_name>
-    <price>164.30</price>
+    <price>184.45</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
     <weight>5</weight>
@@ -5683,7 +5683,7 @@
   <product>
     <product_id>310946469</product_id>
     <name>SZAFKA SZAFA WARSZTATOWA WÓZEK NARZĘDZIOWY 263 ELEMENTY KÓŁKA KD362</name>
-    <quantity>40</quantity>
+    <quantity>20</quantity>
     <ean>5901638119544</ean>
     <sku>KD362</sku>
     <category_name>Motoryzacja/Narzędzia i sprzęt warsztatowy/Wózki, skrzynki i organizery na narzędzia/Wózki narzędziowe</category_name>
@@ -5779,7 +5779,7 @@
   <product>
     <product_id>310946475</product_id>
     <name>PAS TRANSPORTOWY JEDNOPUNKTOWY 8m/50mm/5t KD1322</name>
-    <quantity>20</quantity>
+    <quantity>17</quantity>
     <ean>5901638117182</ean>
     <sku>KD1322</sku>
     <category_name>Motoryzacja/Wyposażenie i akcesoria samochodowe/Organizery i siatki do bagażnika</category_name>
@@ -7555,7 +7555,7 @@
   <product>
     <product_id>310946614</product_id>
     <name>Agregat prądotwórczy przenośny jednofazowy Kraft&amp;Dele 2500 W benzyna</name>
-    <quantity>300</quantity>
+    <quantity>250</quantity>
     <ean></ean>
     <sku>KD697</sku>
     <category_name>Dom i Ogród/Narzędzia/Agregaty prądotwórcze</category_name>
@@ -9667,12 +9667,12 @@
   <product>
     <product_id>310946774</product_id>
     <name>Kółko Koło Uniwersalne do Taczki 16" Kraft&amp;Dele</name>
-    <quantity>0</quantity>
+    <quantity>300</quantity>
     <ean>5901638110008</ean>
     <sku>KD450</sku>
     <category_name>Dom i Ogród/Ogród/Narzędzia ogrodnicze/Części i akcesoria</category_name>
     <manufacturer_name>Kraft&amp;Dele</manufacturer_name>
-    <price>38.50</price>
+    <price>45.50</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
     <weight>2.7</weight>
@@ -10259,7 +10259,7 @@
   <product>
     <product_id>310946841</product_id>
     <name>Szczypce Uniwersalne Długie 180 mm Kraft&amp;Dele</name>
-    <quantity>100</quantity>
+    <quantity>40</quantity>
     <ean>5901638119858</ean>
     <sku>KD10807</sku>
     <category_name>Dom i Ogród/Narzędzia/Szczypce, nożyce, obcęgi</category_name>
@@ -10803,7 +10803,7 @@
   <product>
     <product_id>310946892</product_id>
     <name>Zestaw Nasadek Udarowych 1/2" 13 Elementów 10-30mm</name>
-    <quantity>7</quantity>
+    <quantity>6</quantity>
     <ean>5903175338341</ean>
     <sku>KD10521</sku>
     <category_name>Motoryzacja/Narzędzia i sprzęt warsztatowy/Osprzęt do elektronarzędzi/Nasadki udarowe</category_name>
@@ -12131,7 +12131,7 @@
   <product>
     <product_id>310947052</product_id>
     <name>Prasa Hydrauliczna Warsztatowa 12T CE Płyty Żeliwne Kraft&amp;Dele</name>
-    <quantity>1</quantity>
+    <quantity>0</quantity>
     <ean>5901638119698</ean>
     <sku>KD328_2K</sku>
     <category_name>Motoryzacja/Narzędzia i sprzęt warsztatowy/Blacharstwo i lakiernictwo/Prasy</category_name>
@@ -13603,12 +13603,12 @@
   <product>
     <product_id>310947213</product_id>
     <name>Profesjonalna Przecinarka do glazury 48" / 1220mm Kraft&amp;Dele</name>
-    <quantity>0</quantity>
+    <quantity>40</quantity>
     <ean>5903957007564</ean>
     <sku>KD10734</sku>
     <category_name>Dom i Ogród/Narzędzia/Przecinarki do glazury</category_name>
     <manufacturer_name>Kraft&amp;Dele</manufacturer_name>
-    <price>1068.20</price>
+    <price>1100.40</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
     <weight>33</weight>
@@ -13987,7 +13987,7 @@
   <product>
     <product_id>310947242</product_id>
     <name>Gwintownica Ręczna 6 Części Kraft&amp;Dele KD332</name>
-    <quantity>20</quantity>
+    <quantity>19</quantity>
     <ean>5901638114877</ean>
     <sku>KD332</sku>
     <category_name>Dom i Ogród/Budownictwo i Akcesoria/Hydraulika i akcesoria/Narzędzia</category_name>
@@ -17027,7 +17027,7 @@
   <product>
     <product_id>310947497</product_id>
     <name>MASA SPAWALNICZA ZACISK UCHWYT DO SPAWARKI 500A KD1887</name>
-    <quantity>250</quantity>
+    <quantity>200</quantity>
     <ean>5903175334527</ean>
     <sku>KD1887</sku>
     <category_name>Przemysł/Spawalnictwo/Materiały spawalnicze/Inne materiały spawalnicze</category_name>
@@ -18323,7 +18323,7 @@
   <product>
     <product_id>310947994</product_id>
     <name>PISTOLET DO TYNKOWANIA MALOWANIA NATRYSKOWY 7,5L 3 DYSZE KD10260</name>
-    <quantity>200</quantity>
+    <quantity>150</quantity>
     <ean>5903175330499</ean>
     <sku>KD10260</sku>
     <category_name>Dom i Ogród/Budownictwo i Akcesoria/Ściany i elewacje/Tynki i gładzie</category_name>
@@ -19027,7 +19027,7 @@
   <product>
     <product_id>310948042</product_id>
     <name>KOMBINERKI UNIWERSALNE 160MM DŁUGIE SZCZYPCE KD10806</name>
-    <quantity>19</quantity>
+    <quantity>18</quantity>
     <ean>5901638119841</ean>
     <sku>KD10806</sku>
     <category_name>Dom i Ogród/Narzędzia/Szczypce, nożyce, obcęgi</category_name>
@@ -20291,7 +20291,7 @@
   <product>
     <product_id>310948134</product_id>
     <name>CĘGI SZCZYPCE STOLARSKIE OBCĘGI 8'' OBCINACZKI</name>
-    <quantity>150</quantity>
+    <quantity>100</quantity>
     <ean>5903957001081</ean>
     <sku>KD10819</sku>
     <category_name>Dom i Ogród/Narzędzia/Szczypce, nożyce, obcęgi</category_name>
@@ -20979,7 +20979,7 @@
   <product>
     <product_id>310948186</product_id>
     <name>ŚCISK STOLARSKI ROZPIERAK 18" 110KG 450X60MM</name>
-    <quantity>0</quantity>
+    <quantity>1</quantity>
     <ean>5903175338914</ean>
     <sku>KD10708</sku>
     <category_name>Dom i Ogród/Narzędzia/Ściski</category_name>
@@ -21715,7 +21715,7 @@
   <product>
     <product_id>310948245</product_id>
     <name>PODNOŚNIK SAMOCHODOWY NISKOPROFILOWY 2,5T 70-610mm</name>
-    <quantity>3</quantity>
+    <quantity>0</quantity>
     <ean>5903957005195</ean>
     <sku>KD1310</sku>
     <category_name>Motoryzacja/Narzędzia i sprzęt warsztatowy/Wyposażenie warsztatu/Podnośniki warsztatowe/Podnośniki punktowe (żaby)</category_name>
@@ -22803,7 +22803,7 @@
   <product>
     <product_id>311884457</product_id>
     <name>Zestaw Blokowania Kół Rozrządu FORD 1.0 ECOBOOST ECONETIC SCTi Kraft&amp;Dele</name>
-    <quantity>250</quantity>
+    <quantity>200</quantity>
     <ean>5903957011714</ean>
     <sku>KD10089</sku>
     <category_name>Motoryzacja/Narzędzia i sprzęt warsztatowy/Obsługa układu napędowego/Narzędzia do rozrządu/Blokady rozrządu</category_name>
@@ -22835,7 +22835,7 @@
   <product>
     <product_id>311884467</product_id>
     <name>Zestaw Szybkozłączek Elektrycznych Przelotowych do Drutu 0,14-4 mm 55 Sztuk</name>
-    <quantity>150</quantity>
+    <quantity>100</quantity>
     <ean>5903957012414</ean>
     <sku>KD11292</sku>
     <category_name>Dom i Ogród/Budownictwo i Akcesoria/Elektryka i akcesoria/Szybkozłączki</category_name>
@@ -23091,7 +23091,7 @@
   <product>
     <product_id>311884547</product_id>
     <name>Pompa Zatapialna Wody Czystej Brudnej W.D.S. 2850W 2" 30.000 l/h + Pływak</name>
-    <quantity>8</quantity>
+    <quantity>6</quantity>
     <ean>5903957012155</ean>
     <sku>WDS2422</sku>
     <category_name>Dom i Ogród/Ogród/Nawadnianie/Pompy i hydrofory</category_name>
@@ -24307,12 +24307,12 @@
   <product>
     <product_id>311913142</product_id>
     <name>Przecinarka Maszynka Ręczna do Cięcia Płytek Kafelek Glazury 80 cm 800 mm</name>
-    <quantity>0</quantity>
+    <quantity>300</quantity>
     <ean>5901638119506</ean>
     <sku>KD1579</sku>
     <category_name>Dom i Ogród/Narzędzia/Przecinarki do glazury</category_name>
     <manufacturer_name>Kraft&amp;Dele</manufacturer_name>
-    <price>283.65</price>
+    <price>339.45</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
     <weight>0.01</weight>
@@ -24851,12 +24851,12 @@
   <product>
     <product_id>311913199</product_id>
     <name>Agregat Prądotwórczy Przenośny Jednofazowy 6500 W Olej Napędowy Kraft&amp;Dele</name>
-    <quantity>40</quantity>
+    <quantity>150</quantity>
     <ean>5901638112699</ean>
     <sku>KD122</sku>
     <category_name>Dom i Ogród/Narzędzia/Agregaty prądotwórcze</category_name>
     <manufacturer_name>Kraft&amp;Dele</manufacturer_name>
-    <price>3346.80</price>
+    <price>3333.60</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
     <weight>110</weight>
@@ -26019,7 +26019,7 @@
   <product>
     <product_id>311913372</product_id>
     <name>PAS TRANSPORTOWY DWUPUNKTOWY 8M 50MM 5T KD1335</name>
-    <quantity>2</quantity>
+    <quantity>0</quantity>
     <ean>5901638117311</ean>
     <sku>KD1335</sku>
     <category_name>Motoryzacja/Części do maszyn i innych pojazdów/Części do przyczep i naczep/Towarowe/Wyposażenie</category_name>
@@ -26483,7 +26483,7 @@
   <product>
     <product_id>311913421</product_id>
     <name>Ściągacz Hydrauliczny Talerzowy do Sprężyn McPhersona 1T Mocny Kraft&amp;Dele</name>
-    <quantity>300</quantity>
+    <quantity>250</quantity>
     <ean>5901638119650</ean>
     <sku>KD326</sku>
     <category_name>Motoryzacja/Narzędzia i sprzęt warsztatowy/Obsługa zawieszenia/Ściągacze do sprężyn</category_name>
@@ -26643,7 +26643,7 @@
   <product>
     <product_id>311913468</product_id>
     <name>SILNIK ELEKTRYCZNY TRÓJFAZOWY 380V 2840 RPM 1,5kW KRAFT&amp;DELE</name>
-    <quantity>3</quantity>
+    <quantity>2</quantity>
     <ean>5901638116642</ean>
     <sku>KD1812</sku>
     <category_name>Przemysł/Materiały i akcesoria/Automatyka przemysłowa/Napędy/Silniki</category_name>
@@ -27523,7 +27523,7 @@
   <product>
     <product_id>312873785</product_id>
     <name>Agregat prądotwórczy przenośny jednofazowy Kraft&amp;Dele 3500 W benzyna</name>
-    <quantity>20</quantity>
+    <quantity>13</quantity>
     <ean>5903957002057</ean>
     <sku>KD162</sku>
     <category_name>Dom i Ogród/Narzędzia/Agregaty prądotwórcze</category_name>
@@ -27539,7 +27539,7 @@
   <product>
     <product_id>312873786</product_id>
     <name>Agregat prądotwórczy przenośny trójfazowy Kraft&amp;Dele 3500 W benzyna</name>
-    <quantity>16</quantity>
+    <quantity>0</quantity>
     <ean>5903957002040</ean>
     <sku>KD161</sku>
     <category_name>Dom i Ogród/Narzędzia/Agregaty prądotwórcze</category_name>
@@ -27811,7 +27811,7 @@
   <product>
     <product_id>312873812</product_id>
     <name>Pobijak do uziomów 20x250mm Kraft&amp;Dele</name>
-    <quantity>300</quantity>
+    <quantity>200</quantity>
     <ean>5903957009247</ean>
     <sku>KD10782</sku>
     <category_name>Motoryzacja/Narzędzia i sprzęt warsztatowy/Narzędzia ręczne/Przecinaki, punktaki, wybijaki</category_name>
@@ -29219,12 +29219,12 @@
   <product>
     <product_id>326440724</product_id>
     <name>Elektryczna Przecinarka do Płytek Szyb 230V 1600W 3200/3600 mm Kraft&amp;Dele</name>
-    <quantity>0</quantity>
+    <quantity>40</quantity>
     <ean>5903957007588</ean>
     <sku>KD10736_2K</sku>
     <category_name>Dom i Ogród/Narzędzia/Przecinarki do glazury</category_name>
     <manufacturer_name>Kraft&amp;Dele</manufacturer_name>
-    <price>1206.90</price>
+    <price>1413.45</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
     <weight>17</weight>
@@ -30195,12 +30195,12 @@
   <product>
     <product_id>326440797</product_id>
     <name>Przecinarka Maszynka Ręczna do Cięcia Płytek Kafelek Glazury 600 mm</name>
-    <quantity>0</quantity>
+    <quantity>250</quantity>
     <ean>5901638119490</ean>
     <sku>KD1578</sku>
     <category_name>Dom i Ogród/Narzędzia/Przecinarki do glazury</category_name>
     <manufacturer_name>Kraft&amp;Dele</manufacturer_name>
-    <price>260.40</price>
+    <price>308.45</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
     <weight>6</weight>
@@ -30403,7 +30403,7 @@
   <product>
     <product_id>326440826</product_id>
     <name>Agregat Prądotwórczy Przenośny Jednofazowy 2.1 KW Benzyna 230V Kraft&amp;Dele</name>
-    <quantity>300</quantity>
+    <quantity>200</quantity>
     <ean>5903957005911</ean>
     <sku>KD684</sku>
     <category_name>Dom i Ogród/Narzędzia/Agregaty prądotwórcze</category_name>
@@ -30723,7 +30723,7 @@
   <product>
     <product_id>326440888</product_id>
     <name>Szlifierka Taśmowa Stolarska Wielofunkcyjna do Drewna 230V 2000W 380 RPM</name>
-    <quantity>19</quantity>
+    <quantity>18</quantity>
     <ean>5903957012506</ean>
     <sku>WDS2506</sku>
     <category_name>Motoryzacja/Narzędzia i sprzęt warsztatowy/Szlifierki/Szlifierki taśmowe</category_name>
@@ -31427,7 +31427,7 @@
   <product>
     <product_id>332034984</product_id>
     <name>Kompresor bezolejowy Sprężarka 100L 8 BAR 3 x 1500W 230V 580 l/mi 1400 RPM</name>
-    <quantity>17</quantity>
+    <quantity>15</quantity>
     <ean>5903957014418</ean>
     <sku>KD1394</sku>
     <category_name>Motoryzacja/Narzędzia i sprzęt warsztatowy/Kompresory i akcesoria/Kompresory</category_name>
@@ -34499,7 +34499,7 @@
   <product>
     <product_id>341692692</product_id>
     <name>Mata Warsztatowa Podkładka Pod Kolana Profilowane Wycięcie 450x210x30mm</name>
-    <quantity>40</quantity>
+    <quantity>19</quantity>
     <ean>5903957007748</ean>
     <sku>KD10648</sku>
     <category_name>Motoryzacja/Narzędzia i sprzęt warsztatowy/Wyposażenie warsztatu/Leżanki</category_name>
@@ -34515,7 +34515,7 @@
   <product>
     <product_id>341692693</product_id>
     <name>KOMPRESOR SPRĘŻARKA 150L Olejowy Solidny 8 bar Mocny 5,2KM Wytrzymały KD406</name>
-    <quantity>20</quantity>
+    <quantity>19</quantity>
     <ean>5901638112569</ean>
     <sku>KD406</sku>
     <category_name>Motoryzacja/Narzędzia i sprzęt warsztatowy/Kompresory i akcesoria/Kompresory</category_name>
@@ -34627,7 +34627,7 @@
   <product>
     <product_id>342238254</product_id>
     <name>Młot Udarowy SDS Plus 7,5J Akumulatorowe 4Ah 21V Kraft&amp;Dele</name>
-    <quantity>250</quantity>
+    <quantity>200</quantity>
     <ean>5903957015101</ean>
     <sku>KD3193</sku>
     <category_name>Dom i Ogród/Narzędzia/Młoty udarowe</category_name>
@@ -36403,7 +36403,7 @@
   <product>
     <product_id>342435770</product_id>
     <name>Agregat Prądotwórczy Przenośny Jednofazowy Inwertorowy 4800W Benzyna KD194</name>
-    <quantity>300</quantity>
+    <quantity>250</quantity>
     <ean>5903957005805</ean>
     <sku>KD194</sku>
     <category_name>Dom i Ogród/Narzędzia/Agregaty prądotwórcze</category_name>
@@ -36435,7 +36435,7 @@
   <product>
     <product_id>342435772</product_id>
     <name>Tablica Warsztatowa Ścianka Narzędziowa 170x78cm Pojemnik Zestaw KD11861</name>
-    <quantity>300</quantity>
+    <quantity>250</quantity>
     <ean>5903957010847</ean>
     <sku>KD11861</sku>
     <category_name>Motoryzacja/Narzędzia i sprzęt warsztatowy/Wózki, skrzynki i organizery na narzędzia/Tablice narzędziowe</category_name>
@@ -36531,7 +36531,7 @@
   <product>
     <product_id>342435778</product_id>
     <name>WĄŻ SSAWNY 3 CALE 50M 2MM DO POMPY BRUDNEJ WODY OGRODOWY POMPY SZAMBA KD798</name>
-    <quantity>1</quantity>
+    <quantity>0</quantity>
     <ean>5903175331885</ean>
     <sku>KD798</sku>
     <category_name>Dom i Ogród/Ogród/Nawadnianie/Węże</category_name>
@@ -36579,12 +36579,12 @@
   <product>
     <product_id>342435781</product_id>
     <name>Agregat prądotwórczy przenośny trójfazowy 14/15,5kW Diesel Kraft&amp;Dele KD153</name>
-    <quantity>0</quantity>
+    <quantity>7</quantity>
     <ean>5903957005829</ean>
     <sku>KD153</sku>
     <category_name>Dom i Ogród/Narzędzia/Agregaty prądotwórcze</category_name>
     <manufacturer_name>Kraft&amp;Dele</manufacturer_name>
-    <price>12495.60</price>
+    <price>13657.20</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
     <weight>277</weight>
@@ -36627,7 +36627,7 @@
   <product>
     <product_id>345094350</product_id>
     <name>Nosidło Zestaw do Przenoszenia Płyt Dużego Rozmiaru 3600mm 150Kg Przyssawki</name>
-    <quantity>250</quantity>
+    <quantity>200</quantity>
     <ean>5903957013909</ean>
     <sku>KD11985</sku>
     <category_name>Motoryzacja/Narzędzia i sprzęt warsztatowy/Blacharstwo i lakiernictwo/Obsługa szyb/Uchwyty do szyb</category_name>
@@ -37795,7 +37795,7 @@
   <product>
     <product_id>345094907</product_id>
     <name>Kompresor Samochodowy Sieciowy LCD 12V 230V 140W 150 PSI 35l/min Kraft&amp;Dele</name>
-    <quantity>250</quantity>
+    <quantity>200</quantity>
     <ean>5903957016573</ean>
     <sku>KD3441</sku>
     <category_name>Motoryzacja/Opony i felgi/Osprzęt i akcesoria/Pompki i kompresory 12V</category_name>
@@ -38611,12 +38611,12 @@
   <product>
     <product_id>345186287</product_id>
     <name>IMADŁO KĄTOWE SPAWALNICZE 100mm 5KG KD1176 90° OBROTWE SZCZĘKI KRAFT&amp;DELE</name>
-    <quantity>0</quantity>
+    <quantity>300</quantity>
     <ean>5903175338747</ean>
     <sku>KD1176</sku>
     <category_name>Dom i Ogród/Narzędzia/Imadła</category_name>
     <manufacturer_name>Kraft&amp;Dele</manufacturer_name>
-    <price>97.35</price>
+    <price>117.15</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
     <weight>4</weight>
@@ -39443,7 +39443,7 @@
   <product>
     <product_id>349096469</product_id>
     <name>ZESTAW BITÓW DŁUGICH UDAROWYCH DO WKRĘTARKI BITY 75mm + UCHWYT 50EL KD11865</name>
-    <quantity>8</quantity>
+    <quantity>0</quantity>
     <ean>5903957015330</ean>
     <sku>KD11865</sku>
     <category_name>Dom i Ogród/Narzędzia/Osprzęt do elektronarzędzi/Bity</category_name>
@@ -39667,7 +39667,7 @@
   <product>
     <product_id>349096485</product_id>
     <name>OTWORNICA DIAMENTOWA KORONKA DO GRESU PŁYTEK GLAZURY ZESTAW 6-65mm KD12642</name>
-    <quantity>300</quantity>
+    <quantity>250</quantity>
     <ean>5903957017068</ean>
     <sku>KD12642</sku>
     <category_name>Dom i Ogród/Narzędzia/Osprzęt do elektronarzędzi/Otwornice</category_name>
