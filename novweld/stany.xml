@@ -335,7 +335,7 @@
     <sku>50020</sku>
     <name>Tester przepływu gazu</name>
     <ean>5900391208502</ean>
-    <quantity>867</quantity>
+    <quantity>857</quantity>
     <price>24.00</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -995,7 +995,7 @@
     <sku>SP20TR24</sku>
     <name>Elektroda wolframowa (WTh20 czerwona) 2.4 × 175 mm</name>
     <ean>5900391200353</ean>
-    <quantity>605</quantity>
+    <quantity>335</quantity>
     <price>36.04</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -1155,7 +1155,7 @@
     <sku>SP15RE16</sku>
     <name>Elektroda wolframowa (WLa15 złota) 1.6 × 175 mm</name>
     <ean>5900391200100</ean>
-    <quantity>1000</quantity>
+    <quantity>40</quantity>
     <price>19.29</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -1485,7 +1485,7 @@
     <sku>SP130-01-010</sku>
     <name>Pasta antyodpryskowa 340ml</name>
     <ean>5900391226049</ean>
-    <quantity>135</quantity>
+    <quantity>123</quantity>
     <price>29.95</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -1495,7 +1495,7 @@
     <sku>SP130-01-001</sku>
     <name>Spray antyodpryskowy 400ml</name>
     <ean>5900391226001</ean>
-    <quantity>2068</quantity>
+    <quantity>2052</quantity>
     <price>19.12</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -1515,7 +1515,7 @@
     <sku>SP130-01-002</sku>
     <name>Płyn antyodpryskowy 5l</name>
     <ean>5900391226018</ean>
-    <quantity>83</quantity>
+    <quantity>75</quantity>
     <price>63.86</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -2025,7 +2025,7 @@
     <sku>SP125-00-280</sku>
     <name>Termokredka SPARTUS® 280 °C [ 536 °F ]</name>
     <ean>5900391225660</ean>
-    <quantity>20</quantity>
+    <quantity>4</quantity>
     <price>83.72</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -2895,7 +2895,7 @@
     <sku>EASYTIG205EPULSEDC-PAK-17-4</sku>
     <name>EasyTIG 205P DC w pakiecie z uchwytem mini SPE 17 - 4m</name>
     <ean>5900391242544</ean>
-    <quantity>184</quantity>
+    <quantity>178</quantity>
     <price>2233.45</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -3085,7 +3085,7 @@
     <sku>SPP25-13-400</sku>
     <name>Uchwyt ręczny MIG 250 4m seria SPARTUS Pro</name>
     <ean>5900391200841</ean>
-    <quantity>114</quantity>
+    <quantity>112</quantity>
     <price>395.20</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -5375,7 +5375,7 @@
     <sku>080-10-901-ET</sku>
     <name>Osłona zewnętrzna filtra przyłbicy [transparentna]</name>
     <ean>5900391011829</ean>
-    <quantity>7261</quantity>
+    <quantity>7211</quantity>
     <price>15.29</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -5415,7 +5415,7 @@
     <sku>082-89-107</sku>
     <name>Osłona z poliwęglanu 89 × 107 mm</name>
     <ean>5900391242124</ean>
-    <quantity>166</quantity>
+    <quantity>56</quantity>
     <price>2.34</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -5425,7 +5425,7 @@
     <sku>082-97-105</sku>
     <name>Osłona z poliwęglanu 97 × 105 mm</name>
     <ean>5900391242117</ean>
-    <quantity>210</quantity>
+    <quantity>105</quantity>
     <price>2.54</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -6385,7 +6385,7 @@
     <sku>SPBOX3-P45H-045</sku>
     <name>CUT BOX pasujący do uchwytu SP45HY</name>
     <ean>5900391231586</ean>
-    <quantity>2435</quantity>
+    <quantity>2395</quantity>
     <price>723.17</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -6395,7 +6395,7 @@
     <sku>SPBOX3-P45M-045</sku>
     <name>CUT BOX pasujący do uchwytu SP45MY</name>
     <ean>5900391231593</ean>
-    <quantity>2435</quantity>
+    <quantity>2395</quantity>
     <price>719.07</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -6545,7 +6545,7 @@
     <sku>SP062-DKG-A38L</sku>
     <name>Szybkozłączka przypalnikowa - gniazdo z gwintem zew. G 3/8''LH (gaz palny)</name>
     <ean>5900391004562</ean>
-    <quantity>39</quantity>
+    <quantity>38</quantity>
     <price>86.07</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -7185,7 +7185,7 @@
     <sku>NW17-25D10-24-kpl</sku>
     <name>QUARTZSYSTEM – wersja krótka 17/18/26 [na elektrodę 2.4mm]</name>
     <ean>5900391000519</ean>
-    <quantity>159</quantity>
+    <quantity>158</quantity>
     <price>43.69</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -8655,7 +8655,7 @@
     <sku>NW9-26D23-24-KPL</sku>
     <name>CUPSystem - zestaw 9/20 dysza kielich #14 [na elektrodę 2.4]</name>
     <ean>5900391243947</ean>
-    <quantity>4</quantity>
+    <quantity>1</quantity>
     <price>69.73</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -8745,7 +8745,7 @@
     <sku>NW26D19</sku>
     <name>Dysza gazowa CUPSYSTEM #12</name>
     <ean>5900391001639</ean>
-    <quantity>129</quantity>
+    <quantity>128</quantity>
     <price>46.42</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -8765,7 +8765,7 @@
     <sku>NW29D26</sku>
     <name>Dysza gazowa CUPSYSTEM #16</name>
     <ean>5900391001653</ean>
-    <quantity>238</quantity>
+    <quantity>237</quantity>
     <price>46.42</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -9425,7 +9425,7 @@
     <sku>SP070-00-090</sku>
     <name>Maska ochronna pełnotwarzowa SPARTUS® 90</name>
     <ean>5900391244395</ean>
-    <quantity>296</quantity>
+    <quantity>293</quantity>
     <price>280.51</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -9455,7 +9455,7 @@
     <sku>SP070-30-100</sku>
     <name>Filtr przeciwgazowy ABEK1 SPARTUS® 100</name>
     <ean>5900391244432</ean>
-    <quantity>3117</quantity>
+    <quantity>2929</quantity>
     <price>33.77</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -9925,7 +9925,7 @@
     <sku>SPBOX3-P45H-045-M</sku>
     <name>CUT BOX pasujący do uchwytu SP45HY (średni)</name>
     <ean>5900391247549</ean>
-    <quantity>2435</quantity>
+    <quantity>2395</quantity>
     <price>4385.34</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -9935,7 +9935,7 @@
     <sku>SPBOX3-P45H-045-L</sku>
     <name>CUT BOX pasujący do uchwytu SP45HY (duży)</name>
     <ean>5900391247556</ean>
-    <quantity>2435</quantity>
+    <quantity>2395</quantity>
     <price>8770.67</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -9945,7 +9945,7 @@
     <sku>SPBOX3-P45M-045-M</sku>
     <name>CUT BOX pasujący do uchwytu SP45MY (średni)</name>
     <ean>5900391247563</ean>
-    <quantity>2435</quantity>
+    <quantity>2395</quantity>
     <price>4366.77</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10665,7 +10665,7 @@
     <sku>SP-TR-110</sku>
     <name>Wózek spawalniczy z szufladami (składany)</name>
     <ean>5900391249994</ean>
-    <quantity>34</quantity>
+    <quantity>31</quantity>
     <price>522.54</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10675,7 +10675,7 @@
     <sku>SP-TR-50</sku>
     <name>Wózek spawalniczy 2 kołowy-boczny (składany)</name>
     <ean>5900391249987</ean>
-    <quantity>21</quantity>
+    <quantity>20</quantity>
     <price>627.09</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11295,7 +11295,7 @@
     <sku>M-308LSI-08-S100</sku>
     <name>Drut spawalniczy ER308LSi D100 1kg 0.8mm</name>
     <ean>5900391250785</ean>
-    <quantity>285</quantity>
+    <quantity>275</quantity>
     <price>41.90</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11325,7 +11325,7 @@
     <sku>M-308LSI-10-S200</sku>
     <name>Drut spawalniczy ER308LSi D200 5kg 1.0mm</name>
     <ean>5900391250815</ean>
-    <quantity>59</quantity>
+    <quantity>49</quantity>
     <price>176.82</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11355,7 +11355,7 @@
     <sku>M-308LSI-10-B300</sku>
     <name>Drut spawalniczy ER308LSi D300 15kg 1.0mm</name>
     <ean>5900391250846</ean>
-    <quantity>156</quantity>
+    <quantity>151</quantity>
     <price>491.61</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11395,7 +11395,7 @@
     <sku>M-316LSI-08-S200</sku>
     <name>Drut spawalniczy ER316LSi D200 5kg 0.8mm</name>
     <ean>5900391250884</ean>
-    <quantity>174</quantity>
+    <quantity>172</quantity>
     <price>253.14</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11405,7 +11405,7 @@
     <sku>M-316LSI-10-S200</sku>
     <name>Drut spawalniczy ER316LSi D200 5kg 1.0mm</name>
     <ean>5900391250891</ean>
-    <quantity>42</quantity>
+    <quantity>37</quantity>
     <price>253.14</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11535,7 +11535,7 @@
     <sku>T-308LSI-20-500</sku>
     <name>Pręt spawalniczy ER308LSi 2.0mm 5kg</name>
     <ean>5900391251027</ean>
-    <quantity>88</quantity>
+    <quantity>84</quantity>
     <price>160.23</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11615,7 +11615,7 @@
     <sku>T-316LSI-20-500</sku>
     <name>Pręt spawalniczy ER316LSi 2.0mm 5kg</name>
     <ean>5900391251102</ean>
-    <quantity>40</quantity>
+    <quantity>36</quantity>
     <price>234.95</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11715,7 +11715,7 @@
     <sku>NW17-54CS13B-24-KPL</sku>
     <name>CUPSYSTEM Black - zestaw 17/18/26 dysza kielich #13 [na elektrodę 2.4]</name>
     <ean>5900391251935</ean>
-    <quantity>19</quantity>
+    <quantity>13</quantity>
     <price>172.19</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11845,7 +11845,7 @@
     <sku>NW53CS13B</sku>
     <name>Sitko - CUPSYSTEM Black #13</name>
     <ean>5900391252291</ean>
-    <quantity>20</quantity>
+    <quantity>10</quantity>
     <price>45.01</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11865,7 +11865,7 @@
     <sku>NW53CS17B</sku>
     <name>Sitko - CUPSYSTEM Black #17</name>
     <ean>5900391252314</ean>
-    <quantity>29</quantity>
+    <quantity>27</quantity>
     <price>45.01</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11925,7 +11925,7 @@
     <sku>CNC-3050-30</sku>
     <name>EMUCOOLANT - Chłodziwo do stołów CNC - 27l</name>
     <ean>5900391243701</ean>
-    <quantity>7</quantity>
+    <quantity>6</quantity>
     <price>1655.68</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11975,7 +11975,7 @@
     <sku>M-ER70S-6-08-S100</sku>
     <name>Drut spawalniczy ER70S-6 [SG2] D100 1kg 0.8mm</name>
     <ean>5900391251799</ean>
-    <quantity>3422</quantity>
+    <quantity>3407</quantity>
     <price>26.98</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11985,7 +11985,7 @@
     <sku>M-ER70S-6-08-S200</sku>
     <name>Drut spawalniczy ER70S-6 [SG2] D200 5kg 0.8mm</name>
     <ean>5900391251805</ean>
-    <quantity>4210</quantity>
+    <quantity>3990</quantity>
     <price>80.43</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11995,7 +11995,7 @@
     <sku>M-ER70S-6-10-S200</sku>
     <name>Drut spawalniczy ER70S-6 [SG2] D200 5kg 1.0mm</name>
     <ean>5900391251812</ean>
-    <quantity>3619</quantity>
+    <quantity>3604</quantity>
     <price>71.25</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -12015,7 +12015,7 @@
     <sku>M-ER70S-6-08-B300</sku>
     <name>Drut spawalniczy ER70S-6 [SG2] D300 15kg 0.8mm</name>
     <ean>5900391251836</ean>
-    <quantity>82</quantity>
+    <quantity>77</quantity>
     <price>194.28</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -12025,7 +12025,7 @@
     <sku>M-ER70S-6-10-B300</sku>
     <name>Drut spawalniczy ER70S-6 [SG2] D300 15kg 1.0mm</name>
     <ean>5900391251843</ean>
-    <quantity>1010</quantity>
+    <quantity>1000</quantity>
     <price>186.80</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -12275,7 +12275,7 @@
     <sku>M-309LSI-08-S100</sku>
     <name>Drut spawalniczy ER309LSi D100 1kg 0.8mm</name>
     <ean>5900391254691</ean>
-    <quantity>34</quantity>
+    <quantity>33</quantity>
     <price>52.53</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -12345,7 +12345,7 @@
     <sku>T-309LSI-12-100</sku>
     <name>Pręt spawalniczy ER309LSi 1.2mm 1kg</name>
     <ean>5900391254769</ean>
-    <quantity>140</quantity>
+    <quantity>139</quantity>
     <price>66.79</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -12745,7 +12745,7 @@
     <sku>SP021-00-001R</sku>
     <name>Obrotnik rolkowy SPARTUS 1000R</name>
     <ean></ean>
-    <quantity>33</quantity>
+    <quantity>32</quantity>
     <price>5225.76</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -15015,7 +15015,7 @@
     <sku>SP130-05-001</sku>
     <name>Ceramiczny antyodpryskowy spray spawalniczy SPARTUS CeramX 400ml</name>
     <ean>5900391256190</ean>
-    <quantity>342</quantity>
+    <quantity>318</quantity>
     <price>46.42</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -15055,7 +15055,7 @@
     <sku>SPM501-12-600</sku>
     <name>Uchwyt ręczny MIG 501 6m seria SPARTUS Master</name>
     <ean>5900391248980</ean>
-    <quantity>19</quantity>
+    <quantity>18</quantity>
     <price>1080.46</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -15215,7 +15215,7 @@
     <sku>M-316LSI-16-B300</sku>
     <name>Drut spawalniczy 316LSi D300 15kg 1.6mm</name>
     <ean>5900391006542</ean>
-    <quantity>48</quantity>
+    <quantity>47</quantity>
     <price>707.48</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -15235,7 +15235,7 @@
     <sku>XPROMIG310DP-PAK-36-3</sku>
     <name>XPro MIG 310 DUAL PLUSE pakiet</name>
     <ean>5900391006481</ean>
-    <quantity>5</quantity>
+    <quantity>4</quantity>
     <price>5487.57</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -15255,7 +15255,7 @@
     <sku>XPROMIG200DP-PAK-24-3</sku>
     <name>XPro MIG 200 DUAL PULSE pakiet</name>
     <ean>5900391006412</ean>
-    <quantity>1</quantity>
+    <quantity>0</quantity>
     <price>3657.94</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -15281,11 +15281,21 @@
     <tax_rate>23%</tax_rate>
   </product>
   <product>
+    <product_id></product_id>
+    <sku>SP147-00-610</sku>
+    <name>Ostrzałka do elektrod wolframowych SPARTUS D99</name>
+    <ean>5900391006382</ean>
+    <quantity>10</quantity>
+    <price>2913.32</price>
+    <purchase_price></purchase_price>
+    <tax_rate>23%</tax_rate>
+  </product>
+  <product>
     <product_id>69968114</product_id>
     <sku>XPROCUT50-PAK-45H-4</sku>
     <name>XPro CUT 50 pakiet</name>
     <ean>5900391006504</ean>
-    <quantity>12</quantity>
+    <quantity>11</quantity>
     <price>2403.34</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -15335,7 +15345,7 @@
     <sku>XPROMIG200DP-PAK-24-3-17-4</sku>
     <name>XPro MIG 200 DUAL PULSE pakiet MIG TIG MMA</name>
     <ean>5900391010464</ean>
-    <quantity>1</quantity>
+    <quantity>0</quantity>
     <price>4180.69</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -15355,7 +15365,7 @@
     <sku>XPROMIG310DP-PAK-36-3-26-4</sku>
     <name>XPro MIG 310 DUAL PULSE pakiet MIG TIG MMA</name>
     <ean>5900391010488</ean>
-    <quantity>5</quantity>
+    <quantity>4</quantity>
     <price>6193.28</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -15415,7 +15425,7 @@
     <sku>XPROTIG200PDC-PAK-170-8</sku>
     <name>XPro TIG 200P DC w pakiecie z uchwytem mini SPP 170 - 8m</name>
     <ean></ean>
-    <quantity>50</quantity>
+    <quantity>48</quantity>
     <price>2481.76</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -15425,7 +15435,7 @@
     <sku>XPROTIG200PDC</sku>
     <name>XPro TIG 200P DC</name>
     <ean></ean>
-    <quantity>50</quantity>
+    <quantity>48</quantity>
     <price>1959.01</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -15586,7 +15596,7 @@
     <name>[OPCJA DODATKOWA] Zestaw do monitorowania celi spawalniczej (kamera, uchwyt ścienny, ekran 10'')</name>
     <ean></ean>
     <quantity>0</quantity>
-    <price>3676.68</price>
+    <price>4164.58</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
   </product>
