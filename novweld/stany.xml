@@ -325,7 +325,7 @@
     <sku>NW090-99-010</sku>
     <name>Rura prowadząca 124 mm do gniazda 090-99-000</name>
     <ean>5900391205143</ean>
-    <quantity>56</quantity>
+    <quantity>6</quantity>
     <price>27.05</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -335,7 +335,7 @@
     <sku>50020</sku>
     <name>Tester przepływu gazu</name>
     <ean>5900391208502</ean>
-    <quantity>847</quantity>
+    <quantity>837</quantity>
     <price>24.00</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -365,7 +365,7 @@
     <sku>080-10-301GK</sku>
     <name>Przyłbica SPARTUS® Pro 301X (szara) z kaskiem i adapterem</name>
     <ean></ean>
-    <quantity>10</quantity>
+    <quantity>0</quantity>
     <price>615.97</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -765,7 +765,7 @@
     <sku>082-108-068</sku>
     <name>Osłona z poliwęglanu 108 × 68 mm przeznaczona do przyłbicy SPARTUS® Pro 301X (wewnętrzna)</name>
     <ean>5900391235225</ean>
-    <quantity>733</quantity>
+    <quantity>633</quantity>
     <price>2.10</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -885,7 +885,7 @@
     <sku>SP100W20</sku>
     <name>Elektroda wolframowa (WP zielona) - 2.0 × 175 mm</name>
     <ean>5900391200247</ean>
-    <quantity>490</quantity>
+    <quantity>480</quantity>
     <price>29.39</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -995,7 +995,7 @@
     <sku>SP20TR24</sku>
     <name>Elektroda wolframowa (WTh20 czerwona) 2.4 × 175 mm</name>
     <ean>5900391200353</ean>
-    <quantity>105</quantity>
+    <quantity>0</quantity>
     <price>36.04</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -1485,7 +1485,7 @@
     <sku>SP130-01-010</sku>
     <name>Pasta antyodpryskowa 340ml</name>
     <ean>5900391226049</ean>
-    <quantity>123</quantity>
+    <quantity>103</quantity>
     <price>29.95</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -1495,7 +1495,7 @@
     <sku>SP130-01-001</sku>
     <name>Spray antyodpryskowy 400ml</name>
     <ean>5900391226001</ean>
-    <quantity>1668</quantity>
+    <quantity>1636</quantity>
     <price>19.12</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -1515,7 +1515,7 @@
     <sku>SP130-01-002</sku>
     <name>Płyn antyodpryskowy 5l</name>
     <ean>5900391226018</ean>
-    <quantity>67</quantity>
+    <quantity>60</quantity>
     <price>63.86</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -1555,7 +1555,7 @@
     <sku>50001</sku>
     <name>Płyn chłodniczy Hypercoolant 5l</name>
     <ean>5900391226131</ean>
-    <quantity>158</quantity>
+    <quantity>156</quantity>
     <price>260.36</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -2235,7 +2235,7 @@
     <sku>SP125-01-000</sku>
     <name>Termokredka SPARTUS® 1000 °C [ 1832 °F ]</name>
     <ean>5900391225899</ean>
-    <quantity>8</quantity>
+    <quantity>6</quantity>
     <price>83.72</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -2755,7 +2755,7 @@
     <sku>SPBOX1-9-16STD</sku>
     <name>TIG BOX STANDARD 9/20 zestaw na elektrodę 1.6mm</name>
     <ean>5900391224779</ean>
-    <quantity>14</quantity>
+    <quantity>13</quantity>
     <price>114.75</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -2895,7 +2895,7 @@
     <sku>EASYTIG205EPULSEDC-PAK-17-4</sku>
     <name>EasyTIG 205P DC w pakiecie z uchwytem mini SPE 17 - 4m</name>
     <ean>5900391242544</ean>
-    <quantity>175</quantity>
+    <quantity>171</quantity>
     <price>2233.45</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -4905,7 +4905,7 @@
     <sku>SP-FC</sku>
     <name>Sterowania nożne do urządzenia TIG320P/400P AC/DC</name>
     <ean>5900391241387</ean>
-    <quantity>145</quantity>
+    <quantity>144</quantity>
     <price>628.57</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -5375,7 +5375,7 @@
     <sku>080-10-901-ET</sku>
     <name>Osłona zewnętrzna filtra przyłbicy [transparentna]</name>
     <ean>5900391011829</ean>
-    <quantity>7181</quantity>
+    <quantity>7179</quantity>
     <price>15.29</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -5875,7 +5875,7 @@
     <sku>080-10-201K</sku>
     <name>Przyłbica SPARTUS Master 201X z kaskiem i adapterem</name>
     <ean></ean>
-    <quantity>10</quantity>
+    <quantity>0</quantity>
     <price>526.51</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -5885,7 +5885,7 @@
     <sku>080-10-401K</sku>
     <name>Przyłbica SPARTUS Pro 401X z kaskiem i adapterem</name>
     <ean></ean>
-    <quantity>10</quantity>
+    <quantity>0</quantity>
     <price>670.34</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -6685,7 +6685,7 @@
     <sku>080-10-330XTK</sku>
     <name>Przyłbica SPARTUS® Pro 330XT z filtrem true color - z kaskiem</name>
     <ean></ean>
-    <quantity>10</quantity>
+    <quantity>0</quantity>
     <price>634.08</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -7405,7 +7405,7 @@
     <sku>NW17-54CS10-24-KPL</sku>
     <name>CUPSystem - zestaw 17/18/26 dysza kielich #10 [na elektrodę 2.4]</name>
     <ean>5900391000199</ean>
-    <quantity>5</quantity>
+    <quantity>4</quantity>
     <price>159.61</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -7615,7 +7615,7 @@
     <sku>SP010-90-006</sku>
     <name>Płyn czyszczący do stołów spawalniczych 5l</name>
     <ean>5900391102046</ean>
-    <quantity>73</quantity>
+    <quantity>71</quantity>
     <price>86.23</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -7625,7 +7625,7 @@
     <sku>SP010-90-007</sku>
     <name>Płyn konserwujący do stołów spawalniczych 500ml</name>
     <ean>5900391102053</ean>
-    <quantity>25</quantity>
+    <quantity>15</quantity>
     <price>22.28</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -7635,7 +7635,7 @@
     <sku>SP010-90-008</sku>
     <name>Płyn konserwujący do stołów spawalniczych 5l</name>
     <ean>5900391102060</ean>
-    <quantity>21</quantity>
+    <quantity>18</quantity>
     <price>86.23</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -7665,7 +7665,7 @@
     <sku>080-10-130XTK</sku>
     <name>Przyłbica SPARTUS Easy 130XT (filtr true color) z kaskiem i adapterem</name>
     <ean></ean>
-    <quantity>10</quantity>
+    <quantity>0</quantity>
     <price>479.55</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -7685,7 +7685,7 @@
     <sku>080-10-230XTK</sku>
     <name>Przyłbica SPARTUS® Master 230XT (filtr true color) z kaskiem i adapterem</name>
     <ean></ean>
-    <quantity>10</quantity>
+    <quantity>0</quantity>
     <price>560.49</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -7705,7 +7705,7 @@
     <sku>080-10-430XTK</sku>
     <name>Przyłbica SPARTUS Pro 430XT (filtr true color) z kaskiem i adapterem</name>
     <ean></ean>
-    <quantity>10</quantity>
+    <quantity>0</quantity>
     <price>706.58</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -8295,7 +8295,7 @@
     <sku>SP-FC-9P</sku>
     <name>Sterowania nożne do urządzenia MultiPro 200</name>
     <ean></ean>
-    <quantity>145</quantity>
+    <quantity>144</quantity>
     <price>628.57</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -8405,7 +8405,7 @@
     <sku>080-00-020K</sku>
     <name>Przyłbica SPARTUS® Easy FOX z kaskiem i adapterem</name>
     <ean></ean>
-    <quantity>10</quantity>
+    <quantity>0</quantity>
     <price>242.26</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -8645,7 +8645,7 @@
     <sku>NW9-29D26-24-KPL</sku>
     <name>CUPSystem - zestaw 9/20 dysza kielich #16 [na elektrodę 2.4]</name>
     <ean>5900391243961</ean>
-    <quantity>22</quantity>
+    <quantity>15</quantity>
     <price>69.73</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -8685,7 +8685,7 @@
     <sku>NW17-29D26-24-KPL</sku>
     <name>CUPSystem - zestaw 17/18/26 dysza kielich #16 [na elektrodę 2.4]</name>
     <ean>5900391244043</ean>
-    <quantity>45</quantity>
+    <quantity>43</quantity>
     <price>81.39</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -8825,7 +8825,7 @@
     <sku>NW17-32D32-24-KPL</sku>
     <name>QUARTZSystem - soczewka wersja krótka dysza kielich GUARD S #16 [na elektrodę 2.4mm]</name>
     <ean>5900391243909</ean>
-    <quantity>20</quantity>
+    <quantity>18</quantity>
     <price>151.78</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -8835,7 +8835,7 @@
     <sku>NW17-32D32-16-KPL</sku>
     <name>QUARTZSystem - soczewka wersja krótka dysza kielich GUARD S #16 [na elektrodę 1.6mm]</name>
     <ean>5900391243893</ean>
-    <quantity>75</quantity>
+    <quantity>74</quantity>
     <price>151.78</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -9385,7 +9385,7 @@
     <sku>SP070-00-060</sku>
     <name>Półmaska ochronna SPARTUS® 60 (rozmiar L)</name>
     <ean>5900391244364</ean>
-    <quantity>174</quantity>
+    <quantity>169</quantity>
     <price>53.76</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -9395,7 +9395,7 @@
     <sku>SP070-00-075G</sku>
     <name>Półmaska ochronna SPARTUS® 75G (rozmiar L)</name>
     <ean>5900391244388</ean>
-    <quantity>332</quantity>
+    <quantity>329</quantity>
     <price>68.95</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -9405,7 +9405,7 @@
     <sku>SP070-00-090</sku>
     <name>Maska ochronna pełnotwarzowa SPARTUS® 90</name>
     <ean>5900391244395</ean>
-    <quantity>293</quantity>
+    <quantity>288</quantity>
     <price>280.51</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -9425,7 +9425,7 @@
     <sku>SP070-30-050</sku>
     <name>Filtr przeciwgazowy A1 SPARTUS® 50</name>
     <ean>5900391244418</ean>
-    <quantity>11008</quantity>
+    <quantity>10998</quantity>
     <price>24.52</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -9435,7 +9435,7 @@
     <sku>SP070-30-100</sku>
     <name>Filtr przeciwgazowy ABEK1 SPARTUS® 100</name>
     <ean>5900391244432</ean>
-    <quantity>2929</quantity>
+    <quantity>2925</quantity>
     <price>33.77</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -9465,7 +9465,7 @@
     <sku>SP070-30-060</sku>
     <name>Filtr przeciwpyłowy P3R SPARTUS® 60</name>
     <ean>5900391244425</ean>
-    <quantity>4272</quantity>
+    <quantity>4264</quantity>
     <price>18.02</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -9475,7 +9475,7 @@
     <sku>SP070-30-200</sku>
     <name>Filtropochłaniacz ABEK1 P3R SPARTUS® 200</name>
     <ean>5900391244449</ean>
-    <quantity>1744</quantity>
+    <quantity>1740</quantity>
     <price>38.42</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10405,7 +10405,7 @@
     <sku>NW900-00-420</sku>
     <name>Adapter szpuli drutu dwuczęściowy</name>
     <ean></ean>
-    <quantity>38</quantity>
+    <quantity>18</quantity>
     <price>16.00</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10415,7 +10415,7 @@
     <sku>NW900-00-421</sku>
     <name>Adapter szpuli drutu jednoczęściowy</name>
     <ean></ean>
-    <quantity>64</quantity>
+    <quantity>44</quantity>
     <price>16.00</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11275,7 +11275,7 @@
     <sku>M-308LSI-08-S100</sku>
     <name>Drut spawalniczy ER308LSi D100 1kg 0.8mm</name>
     <ean>5900391250785</ean>
-    <quantity>272</quantity>
+    <quantity>252</quantity>
     <price>41.90</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11295,7 +11295,7 @@
     <sku>M-308LSI-08-S200</sku>
     <name>Drut spawalniczy ER308LSi D200 5kg 0.8mm</name>
     <ean>5900391250808</ean>
-    <quantity>133</quantity>
+    <quantity>126</quantity>
     <price>178.41</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11315,7 +11315,7 @@
     <sku>M-308LSI-12-S200</sku>
     <name>Drut spawalniczy ER308LSi D200 5kg 1.2mm</name>
     <ean>5900391250822</ean>
-    <quantity>108</quantity>
+    <quantity>106</quantity>
     <price>168.52</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11335,7 +11335,7 @@
     <sku>M-308LSI-10-B300</sku>
     <name>Drut spawalniczy ER308LSi D300 15kg 1.0mm</name>
     <ean>5900391250846</ean>
-    <quantity>147</quantity>
+    <quantity>143</quantity>
     <price>491.61</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11355,7 +11355,7 @@
     <sku>M-316LSI-08-S100</sku>
     <name>Drut spawalniczy ER316LSi D100 1kg 0.8mm</name>
     <ean>5900391250860</ean>
-    <quantity>228</quantity>
+    <quantity>223</quantity>
     <price>57.94</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11365,7 +11365,7 @@
     <sku>M-316LSI-10-S100</sku>
     <name>Drut spawalniczy ER316LSi D100 1kg 1.0mm</name>
     <ean>5900391250877</ean>
-    <quantity>323</quantity>
+    <quantity>318</quantity>
     <price>57.94</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11375,7 +11375,7 @@
     <sku>M-316LSI-08-S200</sku>
     <name>Drut spawalniczy ER316LSi D200 5kg 0.8mm</name>
     <ean>5900391250884</ean>
-    <quantity>166</quantity>
+    <quantity>165</quantity>
     <price>253.14</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11395,7 +11395,7 @@
     <sku>M-316LSI-12-S200</sku>
     <name>Drut spawalniczy ER316LSi D200 5kg 1.2mm</name>
     <ean>5900391250907</ean>
-    <quantity>83</quantity>
+    <quantity>82</quantity>
     <price>253.14</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11415,7 +11415,7 @@
     <sku>M-316LSI-10-B300</sku>
     <name>Drut spawalniczy ER316LSi D300 15kg 1.0mm</name>
     <ean>5900391250921</ean>
-    <quantity>90</quantity>
+    <quantity>86</quantity>
     <price>707.48</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11445,7 +11445,7 @@
     <sku>M-309LSI-10-S200</sku>
     <name>Drut spawalniczy ER309LSi D200 5kg 1.0mm</name>
     <ean>5900391250952</ean>
-    <quantity>99</quantity>
+    <quantity>96</quantity>
     <price>219.93</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11505,7 +11505,7 @@
     <sku>T-308LSI-16-500</sku>
     <name>Pręt spawalniczy ER308LSi 1.6mm 5kg</name>
     <ean>5900391251010</ean>
-    <quantity>94</quantity>
+    <quantity>82</quantity>
     <price>160.23</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11525,7 +11525,7 @@
     <sku>T-308LSI-24-500</sku>
     <name>Pręt spawalniczy ER308LSi 2.4mm 5kg</name>
     <ean>5900391251034</ean>
-    <quantity>129</quantity>
+    <quantity>127</quantity>
     <price>160.23</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11535,7 +11535,7 @@
     <sku>T-308LSI-32-500</sku>
     <name>Pręt spawalniczy ER308LSi 3.2mm 5kg</name>
     <ean>5900391251041</ean>
-    <quantity>71</quantity>
+    <quantity>69</quantity>
     <price>160.23</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11545,7 +11545,7 @@
     <sku>T-316LSI-16-100</sku>
     <name>Pręt spawalniczy ER316LSi 1.6mm 1kg</name>
     <ean>5900391251058</ean>
-    <quantity>516</quantity>
+    <quantity>512</quantity>
     <price>70.35</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11565,7 +11565,7 @@
     <sku>T-316LSI-24-100</sku>
     <name>Pręt spawalniczy ER316LSi 2.4mm 1kg</name>
     <ean>5900391251072</ean>
-    <quantity>528</quantity>
+    <quantity>524</quantity>
     <price>70.35</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11575,7 +11575,7 @@
     <sku>T-316LSI-32-100</sku>
     <name>Pręt spawalniczy ER316LSi 3.2mm 1kg</name>
     <ean>5900391251089</ean>
-    <quantity>339</quantity>
+    <quantity>337</quantity>
     <price>70.35</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11585,7 +11585,7 @@
     <sku>T-316LSI-16-500</sku>
     <name>Pręt spawalniczy ER316LSi 1.6mm 5kg</name>
     <ean>5900391251096</ean>
-    <quantity>10</quantity>
+    <quantity>0</quantity>
     <price>234.95</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11605,7 +11605,7 @@
     <sku>T-316LSI-24-500</sku>
     <name>Pręt spawalniczy ER316LSi 2.4mm 5kg</name>
     <ean>5900391251119</ean>
-    <quantity>30</quantity>
+    <quantity>28</quantity>
     <price>234.95</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11615,7 +11615,7 @@
     <sku>T-316LSI-32-500</sku>
     <name>Pręt spawalniczy ER316LSi 3.2mm 5kg</name>
     <ean>5900391251126</ean>
-    <quantity>32</quantity>
+    <quantity>30</quantity>
     <price>234.95</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11625,7 +11625,7 @@
     <sku>T-309LSI-16-100</sku>
     <name>Pręt spawalniczy ER309LSi 1.6mm 1kg</name>
     <ean>5900391251133</ean>
-    <quantity>180</quantity>
+    <quantity>178</quantity>
     <price>63.23</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11655,7 +11655,7 @@
     <sku>T-309LSI-32-100</sku>
     <name>Pręt spawalniczy ER309LSi 3.2mm 1kg</name>
     <ean>5900391251164</ean>
-    <quantity>127</quantity>
+    <quantity>125</quantity>
     <price>63.23</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11665,7 +11665,7 @@
     <sku>NW9-53CS15B-24-KPL</sku>
     <name>CUPSYSTEM Black - zestaw 9/20 dysza kielich #15 [na elektrodę 2.4]</name>
     <ean>5900391251966</ean>
-    <quantity>17</quantity>
+    <quantity>16</quantity>
     <price>164.38</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11675,7 +11675,7 @@
     <sku>NW9-53CS17B-24-KPL</sku>
     <name>CUPSYSTEM Black - zestaw 9/20 dysza kielich #17 [na elektrodę 2.4]</name>
     <ean>5900391251973</ean>
-    <quantity>21</quantity>
+    <quantity>20</quantity>
     <price>164.38</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11685,7 +11685,7 @@
     <sku>NW17-54CS11B-24-KPL</sku>
     <name>CUPSYSTEM Black - zestaw 17/18/26 dysza kielich #11 [na elektrodę 2.4]</name>
     <ean>5900391251928</ean>
-    <quantity>33</quantity>
+    <quantity>32</quantity>
     <price>172.19</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11695,7 +11695,7 @@
     <sku>NW17-54CS13B-24-KPL</sku>
     <name>CUPSYSTEM Black - zestaw 17/18/26 dysza kielich #13 [na elektrodę 2.4]</name>
     <ean>5900391251935</ean>
-    <quantity>13</quantity>
+    <quantity>12</quantity>
     <price>172.19</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11715,7 +11715,7 @@
     <sku>NW17-54CS15B-24-KPL</sku>
     <name>CUPSYSTEM Black - zestaw 17/18/26 dysza kielich #15 [na elektrodę 2.4]</name>
     <ean>5900391252253</ean>
-    <quantity>16</quantity>
+    <quantity>15</quantity>
     <price>172.19</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11745,7 +11745,7 @@
     <sku>NW9-53CS13B-24-KPL</sku>
     <name>CUPSYSTEM Black - zestaw 9/20 dysza kielich #13 [na elektrodę 2.4]</name>
     <ean>5900391252239</ean>
-    <quantity>28</quantity>
+    <quantity>26</quantity>
     <price>164.38</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11855,7 +11855,7 @@
     <sku>SP050-90-005</sku>
     <name>Płyn chłodniczy do spawarek laserowych SPARTUS LaserFrost 5l</name>
     <ean>5900391252345</ean>
-    <quantity>77</quantity>
+    <quantity>67</quantity>
     <price>211.58</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11925,7 +11925,7 @@
     <sku>T-ER70S-6-20-500</sku>
     <name>Pręt spawalniczy ER70S-6 2.0mm 5kg</name>
     <ean>5900391251874</ean>
-    <quantity>241</quantity>
+    <quantity>234</quantity>
     <price>97.92</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11985,7 +11985,7 @@
     <sku>M-ER70S-6-12-S200</sku>
     <name>Drut spawalniczy ER70S-6 [SG2] D200 5kg 1.2mm</name>
     <ean>5900391251829</ean>
-    <quantity>4406</quantity>
+    <quantity>4380</quantity>
     <price>53.43</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -12115,7 +12115,7 @@
     <sku>SP130-20-005</sku>
     <name>Płyn chłodniczy SPARTUS MaxCoolant 5l</name>
     <ean>5900391253533</ean>
-    <quantity>174</quantity>
+    <quantity>165</quantity>
     <price>130.06</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -12285,7 +12285,7 @@
     <sku>M-309LSI-12-B300</sku>
     <name>Drut spawalniczy ER309LSi D300 15kg 1.2mm</name>
     <ean>5900391254721</ean>
-    <quantity>66</quantity>
+    <quantity>64</quantity>
     <price>611.54</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -12445,7 +12445,7 @@
     <sku>T-309LSI-32-500</sku>
     <name>Pręt spawalniczy ER309LSi 3.2mm 5kg</name>
     <ean>5900391254882</ean>
-    <quantity>32</quantity>
+    <quantity>30</quantity>
     <price>236.55</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -12715,7 +12715,7 @@
     <sku>SP020-00-100P</sku>
     <name>Pozycjoner spawalniczy SPARTUS 100P</name>
     <ean></ean>
-    <quantity>19</quantity>
+    <quantity>18</quantity>
     <price>6097.01</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -12775,7 +12775,7 @@
     <sku>SP029-00-301P</sku>
     <name>Uchwyt tokarski SPARTUS 301P</name>
     <ean></ean>
-    <quantity>6</quantity>
+    <quantity>5</quantity>
     <price>1479.38</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -13223,7 +13223,7 @@
   <product>
     <product_id>69967911</product_id>
     <sku>SP016-23-200R</sku>
-    <name>Kątownik 200x140x50 (prawy) system D16</name>
+    <name>[OUTLET] Kątownik 200x140x50 (prawy) system D16</name>
     <ean>5900391006665</ean>
     <quantity>11</quantity>
     <price>652.23</price>
@@ -13233,7 +13233,7 @@
   <product>
     <product_id>69967912</product_id>
     <sku>SP016-23-200L</sku>
-    <name>Kątownik 200x140x50 (lewy) system D16</name>
+    <name>[OUTLET] Kątownik 200x140x50 (lewy) system D16</name>
     <ean>5900391006658</ean>
     <quantity>11</quantity>
     <price>652.23</price>
@@ -13243,7 +13243,7 @@
   <product>
     <product_id>69967913</product_id>
     <sku>SP016-23-400L</sku>
-    <name>Kątownik 400x190x50 (lewy) system D16</name>
+    <name>[OUTLET] Kątownik 400x190x50 (lewy) system D16</name>
     <ean>5900391006672</ean>
     <quantity>10</quantity>
     <price>864.25</price>
@@ -13253,7 +13253,7 @@
   <product>
     <product_id>69967914</product_id>
     <sku>SP016-23-400R</sku>
-    <name>Kątownik 400x190x50 (prawy) system D16</name>
+    <name>[OUTLET] Kątownik 400x190x50 (prawy) system D16</name>
     <ean>5900391006689</ean>
     <quantity>12</quantity>
     <price>864.25</price>
@@ -13263,7 +13263,7 @@
   <product>
     <product_id>69967915</product_id>
     <sku>SP016-23-600L</sku>
-    <name>Kątownik 600x190x50 (lewy) system D16</name>
+    <name>[OUTLET] Kątownik 600x190x50 (lewy) system D16</name>
     <ean>5900391006696</ean>
     <quantity>5</quantity>
     <price>1097.62</price>
@@ -13273,7 +13273,7 @@
   <product>
     <product_id>69967916</product_id>
     <sku>SP016-23-600R</sku>
-    <name>Kątownik 600x190x50 (prawy) system D16</name>
+    <name>[OUTLET] Kątownik 600x190x50 (prawy) system D16</name>
     <ean>5900391006702</ean>
     <quantity>9</quantity>
     <price>1097.62</price>
@@ -13283,7 +13283,7 @@
   <product>
     <product_id>69967917</product_id>
     <sku>SP016-24-001</sku>
-    <name>Łącznik narożny 100x100x75 system D16</name>
+    <name>[OUTLET] Łącznik narożny 100x100x75 system D16</name>
     <ean>5900391006719</ean>
     <quantity>5</quantity>
     <price>1411.27</price>
@@ -13293,7 +13293,7 @@
   <product>
     <product_id>69967918</product_id>
     <sku>SP016-25-001</sku>
-    <name>Uniwersalny kątownik nastawny z zaciskaniem 250x50x50 system D16</name>
+    <name>[OUTLET] Uniwersalny kątownik nastawny z zaciskaniem 250x50x50 system D16</name>
     <ean>5900391006726</ean>
     <quantity>4</quantity>
     <price>1348.54</price>
@@ -13303,7 +13303,7 @@
   <product>
     <product_id>69967919</product_id>
     <sku>SP016-20-030</sku>
-    <name>Blok mocujący 30° 100x100x50 system D16</name>
+    <name>[OUTLET] Blok mocujący 30° 100x100x50 system D16</name>
     <ean>5900391006733</ean>
     <quantity>5</quantity>
     <price>489.13</price>
@@ -13313,7 +13313,7 @@
   <product>
     <product_id>69967920</product_id>
     <sku>SP016-20-045</sku>
-    <name>Blok mocujący 45° 100x100x50 system D16</name>
+    <name>[OUTLET] Blok mocujący 45° 100x100x50 system D16</name>
     <ean>5900391006740</ean>
     <quantity>5</quantity>
     <price>489.13</price>
@@ -13323,7 +13323,7 @@
   <product>
     <product_id>69967921</product_id>
     <sku>SP016-20-100</sku>
-    <name>Blok mocujący 100x100x50 system D16</name>
+    <name>[OUTLET] Blok mocujący 100x100x50 system D16</name>
     <ean>5900391006757</ean>
     <quantity>5</quantity>
     <price>489.13</price>
@@ -13333,7 +13333,7 @@
   <product>
     <product_id>69967922</product_id>
     <sku>SP016-20-050</sku>
-    <name>Blok mocujący 100x50x50 system D16</name>
+    <name>[OUTLET] Blok mocujący 100x50x50 system D16</name>
     <ean>5900391006764</ean>
     <quantity>5</quantity>
     <price>489.13</price>
@@ -13343,9 +13343,9 @@
   <product>
     <product_id>69967923</product_id>
     <sku>SP016-30-040</sku>
-    <name>Kątownik 40x30x40 otwór/otwór system D16</name>
+    <name>[OUTLET] Kątownik 40x30x40 otwór/otwór system D16</name>
     <ean>5900391006771</ean>
-    <quantity>264</quantity>
+    <quantity>50</quantity>
     <price>90.77</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -13353,7 +13353,7 @@
   <product>
     <product_id>69967924</product_id>
     <sku>SP016-30-090</sku>
-    <name>Kątownik 90x30x40 otwór/slot system D16</name>
+    <name>[OUTLET] Kątownik 90x30x40 otwór/slot system D16</name>
     <ean>5900391006788</ean>
     <quantity>118</quantity>
     <price>99.87</price>
@@ -13363,7 +13363,7 @@
   <product>
     <product_id>69967925</product_id>
     <sku>SP016-30-091</sku>
-    <name>Kątownik 90x30x90 otwór/otwór system D16</name>
+    <name>[OUTLET] Kątownik 90x30x90 otwór/otwór system D16</name>
     <ean>5900391006795</ean>
     <quantity>86</quantity>
     <price>108.97</price>
@@ -13373,7 +13373,7 @@
   <product>
     <product_id>69967926</product_id>
     <sku>SP016-30-092</sku>
-    <name>Kątownik 90x30x90 otwór/slot system D16</name>
+    <name>[OUTLET] Kątownik 90x30x90 otwór/slot system D16</name>
     <ean>5900391006801</ean>
     <quantity>0</quantity>
     <price>108.97</price>
@@ -13383,7 +13383,7 @@
   <product>
     <product_id>69967927</product_id>
     <sku>SP016-30-093</sku>
-    <name>Kątownik 90x30x90 slot/slot system D16</name>
+    <name>[OUTLET] Kątownik 90x30x90 slot/slot system D16</name>
     <ean>5900391006818</ean>
     <quantity>106</quantity>
     <price>108.97</price>
@@ -13393,7 +13393,7 @@
   <product>
     <product_id>69967928</product_id>
     <sku>SP016-30-140</sku>
-    <name>Kątownik 140x30x90 system D16</name>
+    <name>[OUTLET] Kątownik 140x30x90 system D16</name>
     <ean>5900391006825</ean>
     <quantity>36</quantity>
     <price>152.26</price>
@@ -13403,9 +13403,9 @@
   <product>
     <product_id>69967929</product_id>
     <sku>SP016-31-105</sku>
-    <name>Kątownik płaski 105x105x12 system D16</name>
+    <name>[OUTLET] Kątownik płaski 105x105x12 system D16</name>
     <ean>5900391006917</ean>
-    <quantity>210</quantity>
+    <quantity>50</quantity>
     <price>169.20</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -13413,7 +13413,7 @@
   <product>
     <product_id>69967930</product_id>
     <sku>SP016-31-130</sku>
-    <name>Kątownik płaski 130x130x12 system D16</name>
+    <name>[OUTLET] Kątownik płaski 130x130x12 system D16</name>
     <ean>5900391006924</ean>
     <quantity>140</quantity>
     <price>220.17</price>
@@ -13423,7 +13423,7 @@
   <product>
     <product_id>69967931</product_id>
     <sku>SP016-31-180</sku>
-    <name>Kątownik płaski 155x180x12 system D16</name>
+    <name>[OUTLET] Kątownik płaski 155x180x12 system D16</name>
     <ean>5900391006931</ean>
     <quantity>30</quantity>
     <price>236.95</price>
@@ -13433,7 +13433,7 @@
   <product>
     <product_id></product_id>
     <sku>SP016-31-275</sku>
-    <name>Kątownik płaski 200x275x12 system D16</name>
+    <name>[OUTLET] Kątownik płaski 200x275x12 system D16</name>
     <ean>5900391006948</ean>
     <quantity>30</quantity>
     <price>253.88</price>
@@ -13443,7 +13443,7 @@
   <product>
     <product_id>69967932</product_id>
     <sku>SP016-31-001T</sku>
-    <name>Kątownik płaski kształt T 128x90x12 system D16</name>
+    <name>[OUTLET] Kątownik płaski kształt T 128x90x12 system D16</name>
     <ean>5900391007266</ean>
     <quantity>30</quantity>
     <price>270.82</price>
@@ -13453,7 +13453,7 @@
   <product>
     <product_id>69967933</product_id>
     <sku>SP016-31-002T</sku>
-    <name>Kątownik płaski kształt T 128x114x12 system D16</name>
+    <name>[OUTLET] Kątownik płaski kształt T 128x114x12 system D16</name>
     <ean>5900391007273</ean>
     <quantity>30</quantity>
     <price>338.57</price>
@@ -13463,9 +13463,9 @@
   <product>
     <product_id>69967934</product_id>
     <sku>SP016-50-055</sku>
-    <name>Stoper 55x30x12 system D16</name>
+    <name>[OUTLET] Stoper 55x30x12 system D16</name>
     <ean>5900391006832</ean>
-    <quantity>210</quantity>
+    <quantity>50</quantity>
     <price>72.58</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -13473,7 +13473,7 @@
   <product>
     <product_id>69967935</product_id>
     <sku>SP016-50-090</sku>
-    <name>Stoper 90x30x12 system D16</name>
+    <name>[OUTLET] Stoper 90x30x12 system D16</name>
     <ean>5900391006849</ean>
     <quantity>138</quantity>
     <price>72.58</price>
@@ -13483,7 +13483,7 @@
   <product>
     <product_id>69967936</product_id>
     <sku>SP016-50-115</sku>
-    <name>Stoper 115x30x12 system D16</name>
+    <name>[OUTLET] Stoper 115x30x12 system D16</name>
     <ean>5900391006856</ean>
     <quantity>0</quantity>
     <price>72.58</price>
@@ -13493,7 +13493,7 @@
   <product>
     <product_id>69967937</product_id>
     <sku>SP016-50-150</sku>
-    <name>Stoper 150x30x12 system D16</name>
+    <name>[OUTLET] Stoper 150x30x12 system D16</name>
     <ean>5900391006863</ean>
     <quantity>70</quantity>
     <price>99.87</price>
@@ -13503,7 +13503,7 @@
   <product>
     <product_id>69967938</product_id>
     <sku>SP016-50-190</sku>
-    <name>Stoper 190x30x12 system D16</name>
+    <name>[OUTLET] Stoper 190x30x12 system D16</name>
     <ean>5900391006870</ean>
     <quantity>70</quantity>
     <price>109.92</price>
@@ -13513,7 +13513,7 @@
   <product>
     <product_id>69967939</product_id>
     <sku>SP016-50-240</sku>
-    <name>Stoper 240x50x12 system D16</name>
+    <name>[OUTLET] Stoper 240x50x12 system D16</name>
     <ean>5900391006887</ean>
     <quantity>30</quantity>
     <price>126.86</price>
@@ -13523,7 +13523,7 @@
   <product>
     <product_id>69967940</product_id>
     <sku>SP016-50-300</sku>
-    <name>Stoper 300x50x12 system D16</name>
+    <name>[OUTLET] Stoper 300x50x12 system D16</name>
     <ean>5900391006894</ean>
     <quantity>14</quantity>
     <price>160.73</price>
@@ -13533,7 +13533,7 @@
   <product>
     <product_id>69967941</product_id>
     <sku>SP016-50-400</sku>
-    <name>Stoper 400x50x12 system D16</name>
+    <name>[OUTLET] Stoper 400x50x12 system D16</name>
     <ean>5900391006900</ean>
     <quantity>30</quantity>
     <price>169.20</price>
@@ -13543,9 +13543,9 @@
   <product>
     <product_id>69967942</product_id>
     <sku>SP016-60-001</sku>
-    <name>Trzpień mocujący szybkiego montażu fi 16x24mm</name>
+    <name>[OUTLET] Trzpień mocujący szybkiego montażu fi 16x24mm</name>
     <ean>5900391006955</ean>
-    <quantity>816</quantity>
+    <quantity>50</quantity>
     <price>76.61</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -13553,7 +13553,7 @@
   <product>
     <product_id>69967943</product_id>
     <sku>SP016-50-250V</sku>
-    <name>Stoper V 250x100x25x120 system D16</name>
+    <name>[OUTLET] Stoper V 250x100x25x120 system D16</name>
     <ean>5900391007297</ean>
     <quantity>30</quantity>
     <price>389.38</price>
@@ -13563,7 +13563,7 @@
   <product>
     <product_id>69967944</product_id>
     <sku>SP016-50-150V</sku>
-    <name>Stoper V 150x75x12x120 system D16</name>
+    <name>[OUTLET] Stoper V 150x75x12x120 system D16</name>
     <ean>5900391007280</ean>
     <quantity>30</quantity>
     <price>169.20</price>
@@ -13573,7 +13573,7 @@
   <product>
     <product_id>69967945</product_id>
     <sku>SP016-65-047</sku>
-    <name>Pryzma fi 47mm 130°</name>
+    <name>[OUTLET] Pryzma fi 47mm 130°</name>
     <ean>5900391006962</ean>
     <quantity>68</quantity>
     <price>72.58</price>
@@ -13583,7 +13583,7 @@
   <product>
     <product_id>69967946</product_id>
     <sku>SP016-65-065</sku>
-    <name>Pryzma fi 65mm 130°</name>
+    <name>[OUTLET] Pryzma fi 65mm 130°</name>
     <ean>5900391006993</ean>
     <quantity>70</quantity>
     <price>118.39</price>
@@ -13593,7 +13593,7 @@
   <product>
     <product_id>69967947</product_id>
     <sku>SP016-65-080</sku>
-    <name>Pryzma fi 80mm 130°</name>
+    <name>[OUTLET] Pryzma fi 80mm 130°</name>
     <ean>5900391006986</ean>
     <quantity>70</quantity>
     <price>152.26</price>
@@ -13603,7 +13603,7 @@
   <product>
     <product_id>69967948</product_id>
     <sku>SP016-65-001K</sku>
-    <name>Pryzma krzyżowa typ V</name>
+    <name>[OUTLET] Pryzma krzyżowa typ V</name>
     <ean>5900391006979</ean>
     <quantity>68</quantity>
     <price>108.97</price>
@@ -13613,7 +13613,7 @@
   <product>
     <product_id>69967949</product_id>
     <sku>SP016-66-050</sku>
-    <name>Stoper acentryczny fi 50x12 system D16</name>
+    <name>[OUTLET] Stoper acentryczny fi 50x12 system D16</name>
     <ean>5900391007303</ean>
     <quantity>60</quantity>
     <price>99.87</price>
@@ -13623,7 +13623,7 @@
   <product>
     <product_id>69967950</product_id>
     <sku>SP016-66-075</sku>
-    <name>Stoper acentryczny fi 75mm system D16</name>
+    <name>[OUTLET] Stoper acentryczny fi 75mm system D16</name>
     <ean>5900391007006</ean>
     <quantity>68</quantity>
     <price>109.92</price>
@@ -13633,7 +13633,7 @@
   <product>
     <product_id>69967951</product_id>
     <sku>SP016-70-001</sku>
-    <name>Zacisk mocujący 160x200 180° system D16</name>
+    <name>[OUTLET] Zacisk mocujący 160x200 180° system D16</name>
     <ean>5900391007037</ean>
     <quantity>46</quantity>
     <price>152.26</price>
@@ -13643,9 +13643,9 @@
   <product>
     <product_id>69967952</product_id>
     <sku>SP016-70-021</sku>
-    <name>Zacisk mocujący z łbem sześciokątnym 160x200mm 180° system D16</name>
+    <name>[OUTLET] Zacisk mocujący z łbem sześciokątnym 160x200mm 180° system D16</name>
     <ean>5900391007044</ean>
-    <quantity>342</quantity>
+    <quantity>50</quantity>
     <price>152.26</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -13653,9 +13653,9 @@
   <product>
     <product_id>69967953</product_id>
     <sku>SP016-70-002</sku>
-    <name>Zacisk mocujący 160x200 90° system D16</name>
+    <name>[OUTLET] Zacisk mocujący 160x200 90° system D16</name>
     <ean>5900391007051</ean>
-    <quantity>321</quantity>
+    <quantity>50</quantity>
     <price>152.26</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -13663,9 +13663,9 @@
   <product>
     <product_id>69967954</product_id>
     <sku>SP016-70-003</sku>
-    <name>Zacisk mocujący 160x200 45° system D16</name>
+    <name>[OUTLET] Zacisk mocujący 160x200 45° system D16</name>
     <ean>5900391007068</ean>
-    <quantity>340</quantity>
+    <quantity>50</quantity>
     <price>152.26</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -13673,7 +13673,7 @@
   <product>
     <product_id>69967955</product_id>
     <sku>SP016-70-023</sku>
-    <name>Zacisk mocujący z łbem sześciokątnym 160x200mm 45° system D16</name>
+    <name>[OUTLET] Zacisk mocujący z łbem sześciokątnym 160x200mm 45° system D16</name>
     <ean>5900391007259</ean>
     <quantity>140</quantity>
     <price>152.26</price>
@@ -13683,7 +13683,7 @@
   <product>
     <product_id>69967956</product_id>
     <sku>SP016-70-005</sku>
-    <name>Zacisk mocujący, kompensacyjny 120x200 system D16</name>
+    <name>[OUTLET] Zacisk mocujący, kompensacyjny 120x200 system D16</name>
     <ean>5900391007075</ean>
     <quantity>68</quantity>
     <price>152.26</price>
@@ -13693,7 +13693,7 @@
   <product>
     <product_id>69967957</product_id>
     <sku>SP016-70-025</sku>
-    <name>Zacisk mocujący, kompensacyjny z łbem sześciokątnym 120x200mm system D16</name>
+    <name>[OUTLET] Zacisk mocujący, kompensacyjny z łbem sześciokątnym 120x200mm system D16</name>
     <ean>5900391007082</ean>
     <quantity>96</quantity>
     <price>152.26</price>
@@ -13703,7 +13703,7 @@
   <product>
     <product_id>69967958</product_id>
     <sku>SP016-71-006</sku>
-    <name>Docisk pionowy z blokiem okrągłym system D16</name>
+    <name>[OUTLET] Docisk pionowy z blokiem okrągłym system D16</name>
     <ean>5900391007334</ean>
     <quantity>42</quantity>
     <price>152.26</price>
@@ -13713,7 +13713,7 @@
   <product>
     <product_id>69967959</product_id>
     <sku>SP016-71-002</sku>
-    <name>Docisk przegubowy poziomy z blokiem okrągłym system D16</name>
+    <name>[OUTLET] Docisk przegubowy poziomy z blokiem okrągłym system D16</name>
     <ean>5900391007099</ean>
     <quantity>48</quantity>
     <price>152.26</price>
@@ -13723,7 +13723,7 @@
   <product>
     <product_id>69967960</product_id>
     <sku>SP016-71-004</sku>
-    <name>Docisk pionowy z blokiem prostokątnym system D16</name>
+    <name>[OUTLET] Docisk pionowy z blokiem prostokątnym system D16</name>
     <ean>5900391007105</ean>
     <quantity>35</quantity>
     <price>152.26</price>
@@ -13733,7 +13733,7 @@
   <product>
     <product_id>69967961</product_id>
     <sku>SP016-71-005</sku>
-    <name>Docisk przegubowy poziomy z blokiem prostokątnym system D16</name>
+    <name>[OUTLET] Docisk przegubowy poziomy z blokiem prostokątnym system D16</name>
     <ean>5900391007112</ean>
     <quantity>46</quantity>
     <price>152.26</price>
@@ -13743,7 +13743,7 @@
   <product>
     <product_id>69967962</product_id>
     <sku>SP016-71-003</sku>
-    <name>Docisk przegubowy pionowy z blokiem prostokątnym system D16</name>
+    <name>[OUTLET] Docisk przegubowy pionowy z blokiem prostokątnym system D16</name>
     <ean>5900391007341</ean>
     <quantity>50</quantity>
     <price>152.26</price>
@@ -13753,7 +13753,7 @@
   <product>
     <product_id>69967963</product_id>
     <sku>SP016-60-002</sku>
-    <name>Trzpień mocujący szybkiego montażu fi 16x24mm (długi)</name>
+    <name>[OUTLET] Trzpień mocujący szybkiego montażu fi 16x24mm (długi)</name>
     <ean>5900391007129</ean>
     <quantity>94</quantity>
     <price>95.81</price>
@@ -13763,9 +13763,9 @@
   <product>
     <product_id>69967964</product_id>
     <sku>SP016-60-003</sku>
-    <name>Trzpień mocujący szybkiego montażu fi 16x36mm (długi)</name>
+    <name>[OUTLET] Trzpień mocujący szybkiego montażu fi 16x36mm (długi)</name>
     <ean>5900391007136</ean>
-    <quantity>280</quantity>
+    <quantity>50</quantity>
     <price>115.03</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -13773,9 +13773,9 @@
   <product>
     <product_id>69967965</product_id>
     <sku>SP016-60-004</sku>
-    <name>Trzpień mocujący szybkiego montażu z łbem stożkowym fi 16x24mm</name>
+    <name>[OUTLET] Trzpień mocujący szybkiego montażu z łbem stożkowym fi 16x24mm</name>
     <ean>5900391007143</ean>
-    <quantity>148</quantity>
+    <quantity>50</quantity>
     <price>95.81</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -13783,7 +13783,7 @@
   <product>
     <product_id>69967966</product_id>
     <sku>SP016-60-101</sku>
-    <name>Trzpień mocujący z łbem stożkowym fi 16x24mm</name>
+    <name>[OUTLET] Trzpień mocujący z łbem stożkowym fi 16x24mm</name>
     <ean>5900391007150</ean>
     <quantity>50</quantity>
     <price>95.81</price>
@@ -13793,7 +13793,7 @@
   <product>
     <product_id>69967967</product_id>
     <sku>SP016-60-102</sku>
-    <name>Trzpień mocujący z łbem stożkowym fi 16x36mm</name>
+    <name>[OUTLET] Trzpień mocujący z łbem stożkowym fi 16x36mm</name>
     <ean>5900391007167</ean>
     <quantity>50</quantity>
     <price>115.03</price>
@@ -13803,7 +13803,7 @@
   <product>
     <product_id>69967968</product_id>
     <sku>SP016-60-005</sku>
-    <name>Trzpień mocujący heksagonalny fi 16x24mm</name>
+    <name>[OUTLET] Trzpień mocujący heksagonalny fi 16x24mm</name>
     <ean>5900391007174</ean>
     <quantity>44</quantity>
     <price>95.81</price>
@@ -13813,7 +13813,7 @@
   <product>
     <product_id>69967969</product_id>
     <sku>SP016-60-006</sku>
-    <name>Trzpień mocujący magnetyczny fi 16x24mm</name>
+    <name>[OUTLET] Trzpień mocujący magnetyczny fi 16x24mm</name>
     <ean>5900391007181</ean>
     <quantity>99</quantity>
     <price>160.73</price>
@@ -13823,7 +13823,7 @@
   <product>
     <product_id>69967970</product_id>
     <sku>SP016-80-001</sku>
-    <name>Łącznik rurowy fi 16x200mm system D16</name>
+    <name>[OUTLET] Łącznik rurowy fi 16x200mm system D16</name>
     <ean>5900391007198</ean>
     <quantity>30</quantity>
     <price>108.97</price>
@@ -13833,7 +13833,7 @@
   <product>
     <product_id>69967971</product_id>
     <sku>SP016-64-001</sku>
-    <name>Gniazda kątowe 90° fi 16</name>
+    <name>[OUTLET] Gniazda kątowe 90° fi 16</name>
     <ean>5900391007204</ean>
     <quantity>30</quantity>
     <price>118.39</price>
@@ -13843,7 +13843,7 @@
   <product>
     <product_id>69967972</product_id>
     <sku>SP016-64-002</sku>
-    <name>Gniazda kątowe 45° fi 16</name>
+    <name>[OUTLET] Gniazda kątowe 45° fi 16</name>
     <ean>5900391007211</ean>
     <quantity>30</quantity>
     <price>118.39</price>
@@ -13853,7 +13853,7 @@
   <product>
     <product_id>69967973</product_id>
     <sku>SP016-64-003</sku>
-    <name>Gniazdo poziome fi 16</name>
+    <name>[OUTLET] Gniazdo poziome fi 16</name>
     <ean>5900391007228</ean>
     <quantity>30</quantity>
     <price>118.39</price>
@@ -13863,7 +13863,7 @@
   <product>
     <product_id>69967974</product_id>
     <sku>SP016-64-004</sku>
-    <name>Gniazdo kątowe pionowe 90° fi 16</name>
+    <name>[OUTLET] Gniazdo kątowe pionowe 90° fi 16</name>
     <ean>5900391007235</ean>
     <quantity>30</quantity>
     <price>118.39</price>
@@ -13873,7 +13873,7 @@
   <product>
     <product_id>69967975</product_id>
     <sku>SP016-80-011</sku>
-    <name>Wózek narzędziowy 1000x600x1065 system D16</name>
+    <name>[OUTLET] Wózek narzędziowy 1000x600x1065 system D16</name>
     <ean>5900391007242</ean>
     <quantity>19</quantity>
     <price>2265.08</price>
@@ -13903,7 +13903,7 @@
   <product>
     <product_id>69967978</product_id>
     <sku>SP016-90-003A</sku>
-    <name>Klucz imbusowy system D16</name>
+    <name>[OUTLET] Klucz imbusowy system D16</name>
     <ean>5900391007365</ean>
     <quantity>5</quantity>
     <price>50.34</price>
@@ -14043,7 +14043,7 @@
   <product>
     <product_id>69967992</product_id>
     <sku>SP016-68-010</sku>
-    <name>Zestaw podkładek dystansowych</name>
+    <name>[OUTLET] Zestaw podkładek dystansowych</name>
     <ean>5900391007310</ean>
     <quantity>30</quantity>
     <price>304.70</price>
@@ -14053,7 +14053,7 @@
   <product>
     <product_id>69967993</product_id>
     <sku>SP016-68-011</sku>
-    <name>Zestaw podkładek dystansowych</name>
+    <name>[OUTLET] Zestaw podkładek dystansowych</name>
     <ean>5900391007327</ean>
     <quantity>30</quantity>
     <price>423.89</price>
@@ -14063,7 +14063,7 @@
   <product>
     <product_id>69967994</product_id>
     <sku>SP016-68-003</sku>
-    <name>Wspornik regulacyjny system D16</name>
+    <name>[OUTLET] Wspornik regulacyjny system D16</name>
     <ean>5900391007020</ean>
     <quantity>50</quantity>
     <price>169.20</price>
@@ -14073,7 +14073,7 @@
   <product>
     <product_id>69967995</product_id>
     <sku>SP016-68-001</sku>
-    <name>Zestaw wsporników system D16</name>
+    <name>[OUTLET] Zestaw wsporników system D16</name>
     <ean>5900391007013</ean>
     <quantity>30</quantity>
     <price>236.95</price>
@@ -14755,7 +14755,7 @@
     <sku>SP028-60-002</sku>
     <name>Trzpień szybkomocujący fi28x75mm</name>
     <ean>5900391257739</ean>
-    <quantity>48</quantity>
+    <quantity>26</quantity>
     <price>129.85</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -15235,7 +15235,7 @@
     <sku>XPROMIG250-15-500</sku>
     <name>Uchwyt ręczny MIG 250 5m seria SPARTUS XPro</name>
     <ean>5900391009888</ean>
-    <quantity>398</quantity>
+    <quantity>397</quantity>
     <price>387.97</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -15295,7 +15295,7 @@
     <sku>XPROMIG501-15-500</sku>
     <name>Uchwyt ręczny MIG 501 5m seria SPARTUS XPro</name>
     <ean>5900391009949</ean>
-    <quantity>498</quantity>
+    <quantity>493</quantity>
     <price>645.43</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -15375,7 +15375,7 @@
     <sku>XPROMIG350DP-PAK-36-3</sku>
     <name>XPro MIG 350 DUAL PULSE pakiet</name>
     <ean>5900391006443</ean>
-    <quantity>10</quantity>
+    <quantity>7</quantity>
     <price>7578.57</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -15425,7 +15425,7 @@
     <sku>XPROCUT50-PAK-45H-4</sku>
     <name>XPro CUT 50 pakiet</name>
     <ean>5900391006504</ean>
-    <quantity>8</quantity>
+    <quantity>6</quantity>
     <price>2403.34</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -15455,7 +15455,7 @@
     <sku>XPROCUT110CNC-PAK-100M-6</sku>
     <name>XPro CUT 110CNC pakiet z uchwytem SP100M 6m</name>
     <ean>5900391010228</ean>
-    <quantity>58</quantity>
+    <quantity>57</quantity>
     <price>7055.82</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -15465,7 +15465,7 @@
     <sku>XPROCUT110CNC-PAK-100H-6</sku>
     <name>XPro CUT 110CNC pakiet</name>
     <ean>5900391006528</ean>
-    <quantity>58</quantity>
+    <quantity>57</quantity>
     <price>6533.07</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -15515,7 +15515,7 @@
     <sku>XPROMIG350DP-PAK-36-3-26-4</sku>
     <name>XPro MIG 350 DUAL PULSE pakiet MIG TIG MMA</name>
     <ean>5900391010501</ean>
-    <quantity>10</quantity>
+    <quantity>7</quantity>
     <price>8271.21</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -15555,7 +15555,7 @@
     <sku>XPROTIG200PDC-PAK-170-8</sku>
     <name>XPro TIG 200P DC w pakiecie z uchwytem mini SPP 170 - 8m</name>
     <ean></ean>
-    <quantity>48</quantity>
+    <quantity>46</quantity>
     <price>2481.76</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -15565,7 +15565,7 @@
     <sku>XPROTIG200PDC</sku>
     <name>XPro TIG 200P DC</name>
     <ean></ean>
-    <quantity>48</quantity>
+    <quantity>46</quantity>
     <price>1959.01</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
