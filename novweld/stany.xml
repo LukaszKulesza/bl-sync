@@ -825,7 +825,7 @@
     <sku>SP305-06-001</sku>
     <name>Elektroda węglowa do żłobienia 6.0 × 305 mm 300 - 350 A</name>
     <ean>5900391205716</ean>
-    <quantity>3550</quantity>
+    <quantity>3450</quantity>
     <price>1.37</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -1345,7 +1345,7 @@
     <sku>SP20WL32</sku>
     <name>Elektroda wolframowa (WLa20 niebieska) 3.2 × 175 mm</name>
     <ean>5900391200193</ean>
-    <quantity>370</quantity>
+    <quantity>360</quantity>
     <price>64.02</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -1535,7 +1535,7 @@
     <sku>SP130-01-002</sku>
     <name>Płyn antyodpryskowy 5l</name>
     <ean>5900391226018</ean>
-    <quantity>56</quantity>
+    <quantity>49</quantity>
     <price>63.86</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -1565,7 +1565,7 @@
     <sku>SP130-02-003</sku>
     <name>Płyn antyodpryskowy odtłuszczający SPARTUS Protektor 20l</name>
     <ean>5900391226117</ean>
-    <quantity>36</quantity>
+    <quantity>35</quantity>
     <price>282.08</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -2305,7 +2305,7 @@
     <sku>SP-160A</sku>
     <name>Uchwyt elektrodowy SPARTUS® 160A</name>
     <ean>5900391239315</ean>
-    <quantity>50</quantity>
+    <quantity>48</quantity>
     <price>91.77</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -3145,7 +3145,7 @@
     <sku>SPE15-11-300</sku>
     <name>Uchwyt ręczny MIG 150 3m seria SPARTUS Easy</name>
     <ean>5900391200537</ean>
-    <quantity>203</quantity>
+    <quantity>201</quantity>
     <price>140.97</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -7713,7 +7713,7 @@
   <product>
     <product_id>69967364</product_id>
     <sku>080-10-930XT</sku>
-    <name>Przyłbica SPARTUS® Pro 930XT (filtr true color)</name>
+    <name>Przyłbica SPARTUS Pro 930XT (filtr true color)</name>
     <ean>5900391001035</ean>
     <quantity>100</quantity>
     <price>525.35</price>
@@ -10405,7 +10405,7 @@
     <sku>NW900-00-420</sku>
     <name>Adapter szpuli drutu dwuczęściowy</name>
     <ean></ean>
-    <quantity>18</quantity>
+    <quantity>8</quantity>
     <price>16.00</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10665,7 +10665,7 @@
     <sku>SP-TR-130</sku>
     <name>Wózek spawalniczy z 3 półkami (składany)</name>
     <ean>5900391250006</ean>
-    <quantity>9</quantity>
+    <quantity>8</quantity>
     <price>314.63</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11235,7 +11235,7 @@
     <sku>EASYCUT100CNC-PAK-100H-6</sku>
     <name>EasyCUT 100CNC pakiet</name>
     <ean>5900391246917</ean>
-    <quantity>84</quantity>
+    <quantity>82</quantity>
     <price>5748.94</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11255,7 +11255,7 @@
     <sku>EASYCUT100CNC-PAK-100M-6</sku>
     <name>EasyCUT 100CNC pakiet z uchwytem SP100M 6m</name>
     <ean>5900391254929</ean>
-    <quantity>84</quantity>
+    <quantity>82</quantity>
     <price>6271.69</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11275,7 +11275,7 @@
     <sku>M-308LSI-08-S100</sku>
     <name>Drut spawalniczy ER308LSi D100 1kg 0.8mm</name>
     <ean>5900391250785</ean>
-    <quantity>249</quantity>
+    <quantity>247</quantity>
     <price>41.90</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11955,7 +11955,7 @@
     <sku>M-ER70S-6-08-S100</sku>
     <name>Drut spawalniczy ER70S-6 [SG2] D100 1kg 0.8mm</name>
     <ean>5900391251799</ean>
-    <quantity>3307</quantity>
+    <quantity>3304</quantity>
     <price>26.98</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -12005,7 +12005,7 @@
     <sku>M-ER70S-6-10-B300</sku>
     <name>Drut spawalniczy ER70S-6 [SG2] D300 15kg 1.0mm</name>
     <ean>5900391251843</ean>
-    <quantity>973</quantity>
+    <quantity>967</quantity>
     <price>186.80</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -12115,7 +12115,7 @@
     <sku>SP130-20-005</sku>
     <name>Płyn chłodniczy SPARTUS MaxCoolant 5l</name>
     <ean>5900391253533</ean>
-    <quantity>157</quantity>
+    <quantity>156</quantity>
     <price>130.06</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -12825,7 +12825,7 @@
     <sku>080-09-NX47SN</sku>
     <name>Przyłbica do szlifowania SPARTUS Ultra NX47 z kanałem nawiewowym i wężem powietrznym</name>
     <ean>5900391253571</ean>
-    <quantity>54</quantity>
+    <quantity>53</quantity>
     <price>905.91</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -15135,7 +15135,7 @@
     <sku>XPROMIG150-15-300</sku>
     <name>Uchwyt ręczny MIG 150 3m seria SPARTUS XPro</name>
     <ean>5900391009802</ean>
-    <quantity>492</quantity>
+    <quantity>491</quantity>
     <price>255.65</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -15245,7 +15245,7 @@
     <sku>XPROMIG360-15-500</sku>
     <name>Uchwyt ręczny MIG 360 5m seria SPARTUS XPro</name>
     <ean>5900391009918</ean>
-    <quantity>345</quantity>
+    <quantity>343</quantity>
     <price>509.52</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
