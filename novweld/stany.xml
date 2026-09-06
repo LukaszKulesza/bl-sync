@@ -2335,7 +2335,7 @@
     <sku>SP-400A</sku>
     <name>Uchwyt elektrodowy SPARTUS® 400A</name>
     <ean>5900391204245</ean>
-    <quantity>35</quantity>
+    <quantity>34</quantity>
     <price>130.01</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -3145,7 +3145,7 @@
     <sku>SPE15-11-300</sku>
     <name>Uchwyt ręczny MIG 150 3m seria SPARTUS Easy</name>
     <ean>5900391200537</ean>
-    <quantity>184</quantity>
+    <quantity>181</quantity>
     <price>140.97</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -3535,7 +3535,7 @@
     <sku>SPE241-11-500</sku>
     <name>Uchwyt ręczny MIG 241 5m seria SPARTUS Easy</name>
     <ean>5900391003657</ean>
-    <quantity>10</quantity>
+    <quantity>2</quantity>
     <price>606.02</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -5385,7 +5385,7 @@
     <sku>EASYTIG208PACDC-PAK-17-4</sku>
     <name>EasyTIG 208P AC/DC pakiet</name>
     <ean>5900391242308</ean>
-    <quantity>40</quantity>
+    <quantity>37</quantity>
     <price>2873.82</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -6935,7 +6935,7 @@
     <sku>NW17-25A24</sku>
     <name>Gniazdo tulejki zaciskowej QUARTZSYSTEM 17/18/26 standard wer.kr d=2,4mm</name>
     <ean>5900391000724</ean>
-    <quantity>200</quantity>
+    <quantity>180</quantity>
     <price>6.13</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -8665,7 +8665,7 @@
     <sku>NW17-26D19-24-KPL</sku>
     <name>CUPSystem - zestaw 17/18/26 dysza kielich #12 [na elektrodę 2.4]</name>
     <ean>5900391244005</ean>
-    <quantity>283</quantity>
+    <quantity>279</quantity>
     <price>81.39</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -8675,7 +8675,7 @@
     <sku>NW17-26D23-24-KPL</sku>
     <name>CUPSystem - zestaw 17/18/26 dysza kielich #14 [na elektrodę 2.4]</name>
     <ean>5900391244029</ean>
-    <quantity>297</quantity>
+    <quantity>292</quantity>
     <price>81.39</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -9005,7 +9005,7 @@
     <sku>NW26DS19-24</sku>
     <name>Sitko - CUPSYSTEM #12 [na elektrodę 2.4mm]</name>
     <ean>5900391001707</ean>
-    <quantity>240</quantity>
+    <quantity>235</quantity>
     <price>9.03</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -9025,7 +9025,7 @@
     <sku>NW26DS23-24</sku>
     <name>Sitko - CUPSYSTEM #14 [na elektrodę 2.4mm]</name>
     <ean>5900391001721</ean>
-    <quantity>200</quantity>
+    <quantity>196</quantity>
     <price>9.03</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -9045,7 +9045,7 @@
     <sku>NW29DS26-24</sku>
     <name>Sitko - CUPSYSTEM #16 [na elektrodę 2.4mm]</name>
     <ean>5900391001745</ean>
-    <quantity>200</quantity>
+    <quantity>195</quantity>
     <price>13.34</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -12635,7 +12635,7 @@
     <sku>SP28C-30-15-PE</sku>
     <name>FERROS 3D stół spawalniczy 3000 x 1500 (na podnośniku elektrohydraulicznym)</name>
     <ean>5900391008492</ean>
-    <quantity>10</quantity>
+    <quantity>0</quantity>
     <price>120389.33</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
