@@ -51,7 +51,7 @@
   <product>
     <product_id>67635440</product_id>
     <name>SZAFA NARZĘDZIOWA WÓZEK NARZĘDZIOWY 7 SZUFLAD 309 EL. KLUCZE NASADKI BITY</name>
-    <quantity>11</quantity>
+    <quantity>9</quantity>
     <ean>5903957008981</ean>
     <sku>KD1069</sku>
     <category_name></category_name>
@@ -851,7 +851,7 @@
   <product>
     <product_id>67635528</product_id>
     <name>Kraft&amp;Dele Zestaw narzędzi Haczyków 9 Elementów</name>
-    <quantity>100</quantity>
+    <quantity>40</quantity>
     <ean>5903957002408</ean>
     <sku>KD10959</sku>
     <category_name></category_name>
@@ -1187,7 +1187,7 @@
   <product>
     <product_id>67635567</product_id>
     <name>GUMA MATA DO ZAGĘSZCZARKI UBIJAKA C120 64x45x0,5cm</name>
-    <quantity>10</quantity>
+    <quantity>4</quantity>
     <ean>5901638117366</ean>
     <sku>KD1187</sku>
     <category_name></category_name>
@@ -1667,7 +1667,7 @@
   <product>
     <product_id>67635611</product_id>
     <name>Kątownik Aluminiowy Uniwersalny Stopka Stolarski Dekarski 12" Kraft&amp;Dele</name>
-    <quantity>14</quantity>
+    <quantity>13</quantity>
     <ean>5903175336064</ean>
     <sku>KD10373</sku>
     <category_name></category_name>
@@ -1763,12 +1763,12 @@
   <product>
     <product_id>67635621</product_id>
     <name>Kable Przewody Rozruchowe + Pokrowiec 1000A 4,5 m Kraft&amp;Dele</name>
-    <quantity>0</quantity>
+    <quantity>300</quantity>
     <ean>6912729896106</ean>
     <sku>KD1285</sku>
     <category_name></category_name>
     <manufacturer_name></manufacturer_name>
-    <price>59.50</price>
+    <price>66.50</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
     <weight>0.25</weight>
@@ -2547,7 +2547,7 @@
   <product>
     <product_id>67635700</product_id>
     <name>Ręczna Odsysarka Wysysarka do Oleju 9L 3 Sondy Kraft&amp;Dele</name>
-    <quantity>15</quantity>
+    <quantity>2</quantity>
     <ean>5903957011899</ean>
     <sku>KD1199</sku>
     <category_name></category_name>
@@ -2995,12 +2995,12 @@
   <product>
     <product_id>67635737</product_id>
     <name>ZESTAW DO SPRAWDZANIA SZCZELNOŚCI KLIMATYZACJI TESTER KRAFT&amp;DELE</name>
-    <quantity>0</quantity>
+    <quantity>300</quantity>
     <ean>5903175339607</ean>
     <sku>KD10534</sku>
     <category_name></category_name>
     <manufacturer_name>KRAFT&amp;DELE</manufacturer_name>
-    <price>163.35</price>
+    <price>176.70</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
     <weight>3</weight>
@@ -3187,7 +3187,7 @@
   <product>
     <product_id>67635751</product_id>
     <name>Spalinowa Zacieraczka Kraft&amp;Dele 57 cm KD1188</name>
-    <quantity>40</quantity>
+    <quantity>20</quantity>
     <ean>5903175332905</ean>
     <sku>KD1188</sku>
     <category_name></category_name>
@@ -3667,7 +3667,7 @@
   <product>
     <product_id>67635793</product_id>
     <name>Piła jezdna spalinowe do betonu Kraft&amp;Dele 145 mm KD11920</name>
-    <quantity>6</quantity>
+    <quantity>4</quantity>
     <ean>5903175335821</ean>
     <sku>KD11920</sku>
     <category_name></category_name>
@@ -3731,7 +3731,7 @@
   <product>
     <product_id>67635799</product_id>
     <name>Rębak do drewna 7T 2200W Kraft&amp;Dele KD5207</name>
-    <quantity>250</quantity>
+    <quantity>200</quantity>
     <ean>5903957006024</ean>
     <sku>KD5207</sku>
     <category_name></category_name>
@@ -4915,12 +4915,12 @@
   <product>
     <product_id>67635913</product_id>
     <name>Strzykawka Odsysarka Pompa Ssąca do Oleju 1500 ml 1,5L Akcesoria Kraft&amp;Dele</name>
-    <quantity>0</quantity>
+    <quantity>300</quantity>
     <ean>5903957002477</ean>
     <sku>KD1456</sku>
     <category_name></category_name>
     <manufacturer_name>KRAFT&amp;DELE</manufacturer_name>
-    <price>80.50</price>
+    <price>84.15</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
     <weight>0</weight>
@@ -5091,7 +5091,7 @@
   <product>
     <product_id>67635926</product_id>
     <name>AGREGAT PRĄDOTWÓRCZY INWERTOROWY 7600W</name>
-    <quantity>100</quantity>
+    <quantity>40</quantity>
     <ean>5903957005898</ean>
     <sku>KD682</sku>
     <category_name>Dom i Ogród/Narzędzia/Agregaty prądotwórcze</category_name>
@@ -5811,7 +5811,7 @@
   <product>
     <product_id>67635985</product_id>
     <name>Zestaw Komplet Bitów Specjalnych HEX TORX SPLINE 40 Elementów Kraft&amp;Dele</name>
-    <quantity>300</quantity>
+    <quantity>250</quantity>
     <ean>5901638117953</ean>
     <sku>KD10220</sku>
     <category_name>Dom i Ogród/Narzędzia/Osprzęt do elektronarzędzi/Bity</category_name>
@@ -7011,12 +7011,12 @@
   <product>
     <product_id>67636087</product_id>
     <name>Agregat prądotwórczy przenośny jednofazowy Kraft&amp;Dele 7000 W olej napędowy</name>
-    <quantity>0</quantity>
+    <quantity>40</quantity>
     <ean>5901638115355</ean>
     <sku>KD123_2K</sku>
     <category_name>Dom i Ogród/Narzędzia/Agregaty prądotwórcze</category_name>
     <manufacturer_name>KRAFT&amp;DELE</manufacturer_name>
-    <price>4406.40</price>
+    <price>4753.20</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
     <weight>165</weight>
@@ -8419,7 +8419,7 @@
   <product>
     <product_id>67636207</product_id>
     <name>IMADŁO ŚLUSARSKIE OBROTOWE 250mm Z KOWADŁEM KD1105</name>
-    <quantity>250</quantity>
+    <quantity>200</quantity>
     <ean>5901638115799</ean>
     <sku>KD1105</sku>
     <category_name></category_name>
@@ -8963,7 +8963,7 @@
   <product>
     <product_id>67636254</product_id>
     <name>Smarownica Pneumatyczna Automatyczna Kraft&amp;Dele 15 L</name>
-    <quantity>4</quantity>
+    <quantity>0</quantity>
     <ean>5903175331458</ean>
     <sku>KD1444</sku>
     <category_name></category_name>
@@ -9587,7 +9587,7 @@
   <product>
     <product_id>67636318</product_id>
     <name>Zaciskarka Prasa Hydrauliczna Kraft&amp;Dele 16-300mm</name>
-    <quantity>250</quantity>
+    <quantity>200</quantity>
     <ean>5903175335210</ean>
     <sku>KD10340</sku>
     <category_name></category_name>
@@ -10147,7 +10147,7 @@
   <product>
     <product_id>67636364</product_id>
     <name>Poziomica Aluminowa Libella Kraft&amp;Dele 1 m 100 cm</name>
-    <quantity>5</quantity>
+    <quantity>4</quantity>
     <ean>5903175336545</ean>
     <sku>KD10313</sku>
     <category_name>Dom i Ogród/Narzędzia/Przyrządy miernicze/Poziomice</category_name>
@@ -10259,12 +10259,12 @@
   <product>
     <product_id>67636375</product_id>
     <name>ZESTAW NASADKI DO OBRABIANYCH ŚRUB 1/2" 10-27mm WYBIJAK 12 SZT KRAFT&amp;DELE</name>
-    <quantity>0</quantity>
+    <quantity>300</quantity>
     <ean>5903957008110</ean>
     <sku>KD11792</sku>
     <category_name>Motoryzacja/Narzędzia i sprzęt warsztatowy/Narzędzia ręczne/Klucze</category_name>
     <manufacturer_name>KRAFT&amp;DELE</manufacturer_name>
-    <price>162.75</price>
+    <price>117.15</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
     <weight>0</weight>
@@ -10531,12 +10531,12 @@
   <product>
     <product_id>67636397</product_id>
     <name>ZESTAW KOLOROWYCH IMBUSÓW TORX 9 EL. KRAFT&amp;DELE KD11933</name>
-    <quantity>0</quantity>
+    <quantity>300</quantity>
     <ean>5903957009728</ean>
     <sku>KD11933</sku>
     <category_name>Motoryzacja/Narzędzia i sprzęt warsztatowy/Narzędzia ręczne/Klucze</category_name>
     <manufacturer_name>KRAFT&amp;DELE</manufacturer_name>
-    <price>17.10</price>
+    <price>15.20</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
     <weight>45</weight>
@@ -11155,7 +11155,7 @@
   <product>
     <product_id>67636470</product_id>
     <name>SILNIK ELEKTRYCZNY TRÓJFAZOWY 380V 2850 RPM 5,5kW KRAFT&amp;DELE</name>
-    <quantity>14</quantity>
+    <quantity>12</quantity>
     <ean>5901638116727</ean>
     <sku>KD1820</sku>
     <category_name></category_name>
@@ -11171,7 +11171,7 @@
   <product>
     <product_id>67636471</product_id>
     <name>SILNIK ELEKTRYCZNY TRÓJFAZOWY 380V 1450 RPM 5,5kW KRAFT&amp;DELE</name>
-    <quantity>7</quantity>
+    <quantity>5</quantity>
     <ean>5901638116710</ean>
     <sku>KD1819</sku>
     <category_name></category_name>
@@ -11656,7 +11656,7 @@
     <sku>KD1281</sku>
     <category_name></category_name>
     <manufacturer_name></manufacturer_name>
-    <price>17.50</price>
+    <price>22.75</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
     <weight>0.5</weight>
@@ -11667,12 +11667,12 @@
   <product>
     <product_id>67636510</product_id>
     <name>Kable przewody rozruchowe 200A 2,5m +pokrowiec Kraft&amp;Dele KD1280</name>
-    <quantity>0</quantity>
+    <quantity>300</quantity>
     <ean>5903175333957</ean>
     <sku>KD1280</sku>
     <category_name></category_name>
     <manufacturer_name></manufacturer_name>
-    <price>17.10</price>
+    <price>21.00</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
     <weight>0.5</weight>
@@ -12867,7 +12867,7 @@
   <product>
     <product_id>67636644</product_id>
     <name>ZGRZEWARKA DO RUR PLASTIKOWYCH PCV 1200W ZESTAW WALIZKA KD1591</name>
-    <quantity>7</quantity>
+    <quantity>6</quantity>
     <ean>5901638119735</ean>
     <sku>KD1591</sku>
     <category_name></category_name>
@@ -15235,7 +15235,7 @@
   <product>
     <product_id>67636854</product_id>
     <name>ZESTAW NARZĘDZI KLUCZE NASADOWE 46 EL KD10525</name>
-    <quantity>40</quantity>
+    <quantity>20</quantity>
     <ean>5903175338716</ean>
     <sku>KD10525</sku>
     <category_name></category_name>
@@ -15875,7 +15875,7 @@
   <product>
     <product_id>67636916</product_id>
     <name>NASADKI KLUCZE E-TORX 1/2 9 SZTUK ZESTAW + WALIZKA</name>
-    <quantity>16</quantity>
+    <quantity>15</quantity>
     <ean>5901638118028</ean>
     <sku>KD10227</sku>
     <category_name>Motoryzacja/Narzędzia i sprzęt warsztatowy/Narzędzia ręczne/Klucze</category_name>
@@ -16563,7 +16563,7 @@
   <product>
     <product_id>67636998</product_id>
     <name>Nóż do tapet łamany 18mm żółty Kraft&amp;dele KD10963</name>
-    <quantity>0</quantity>
+    <quantity>5</quantity>
     <ean>5903175333506</ean>
     <sku>KD10963</sku>
     <category_name>Motoryzacja/Narzędzia i sprzęt warsztatowy/Narzędzia ręczne/Noże</category_name>
@@ -17907,12 +17907,12 @@
   <product>
     <product_id>67637161</product_id>
     <name>Brzeszczoty Proste do Pił Szablastych 28 sztuk Kraft&amp;Dele</name>
-    <quantity>0</quantity>
+    <quantity>300</quantity>
     <ean>5903957000220</ean>
     <sku>KD10780</sku>
     <category_name></category_name>
     <manufacturer_name>KRAFT&amp;DELE</manufacturer_name>
-    <price>52.50</price>
+    <price>57.75</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
     <weight>1</weight>
@@ -18371,7 +18371,7 @@
   <product>
     <product_id>67637202</product_id>
     <name>Agregat Prądotwórczy Przenośny Jednofazowy 6500 W Olej Napędowy Kraft&amp;Dele</name>
-    <quantity>40</quantity>
+    <quantity>7</quantity>
     <ean>5901638112699</ean>
     <sku>KD122</sku>
     <category_name>Dom i Ogród/Narzędzia/Agregaty prądotwórcze</category_name>
@@ -18659,12 +18659,12 @@
   <product>
     <product_id>67637263</product_id>
     <name>ZESTAW KOLOROWYCH IMBUSÓW TORX 9 EL. KRAFT&amp;DELE</name>
-    <quantity>0</quantity>
+    <quantity>300</quantity>
     <ean>5903957009698</ean>
     <sku>KD11930</sku>
     <category_name>Motoryzacja/Narzędzia i sprzęt warsztatowy/Narzędzia ręczne/Klucze</category_name>
     <manufacturer_name>KRAFT&amp;DELE</manufacturer_name>
-    <price>24.50</price>
+    <price>26.25</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
     <weight>0.5</weight>
@@ -19475,7 +19475,7 @@
   <product>
     <product_id>67637357</product_id>
     <name>Statyw Magnetyczny z Centralnym Mocowaniem Czujnika Zegarowego 22 końcówki</name>
-    <quantity>300</quantity>
+    <quantity>250</quantity>
     <ean>5903957010557</ean>
     <sku>KD11291</sku>
     <category_name></category_name>
@@ -19523,7 +19523,7 @@
   <product>
     <product_id>67637364</product_id>
     <name>WÓZEK SPAWALNICZY WARSZTATOWY NA KÓŁKACH 75KG PÓŁKA NA BUTLE KD373</name>
-    <quantity>40</quantity>
+    <quantity>20</quantity>
     <ean>5903957005232</ean>
     <sku>KD373</sku>
     <category_name></category_name>
@@ -20051,12 +20051,12 @@
   <product>
     <product_id>67637454</product_id>
     <name>Zaciskarka Prasa Hydrauliczna Kraft&amp;Dele 4 mm? - 70 mm?</name>
-    <quantity>0</quantity>
+    <quantity>300</quantity>
     <ean>5903175335227</ean>
     <sku>KD10341</sku>
     <category_name></category_name>
     <manufacturer_name>KRAFT&amp;DELE</manufacturer_name>
-    <price>143.55</price>
+    <price>153.45</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
     <weight>0.43</weight>
@@ -20915,7 +20915,7 @@
   <product>
     <product_id>67637543</product_id>
     <name>Ściągacz Bezwładnościowy Rozszerzalne Łożysk Wewnętrznych Młotek Kraft&amp;Dele</name>
-    <quantity>250</quantity>
+    <quantity>200</quantity>
     <ean>5903957006772</ean>
     <sku>KD10697</sku>
     <category_name></category_name>
@@ -22019,7 +22019,7 @@
   <product>
     <product_id>67637635</product_id>
     <name>Agregat Prądotwórczy Przenośny Jednofazowy 230V/12V 5000W 7KM Kraft&amp;Dele</name>
-    <quantity>5</quantity>
+    <quantity>0</quantity>
     <ean>5901638119766</ean>
     <sku>KD145</sku>
     <category_name>Dom i Ogród/Narzędzia/Agregaty prądotwórcze</category_name>
@@ -25171,7 +25171,7 @@
   <product>
     <product_id>67637900</product_id>
     <name>KOMPRESOR SPRĘŻARKA 150L Olejowy Solidny 8 bar Mocny 5,2KM Wytrzymały KD406</name>
-    <quantity>2</quantity>
+    <quantity>1</quantity>
     <ean>5901638112569</ean>
     <sku>KD406</sku>
     <category_name></category_name>
@@ -26675,12 +26675,12 @@
   <product>
     <product_id>67638033</product_id>
     <name>Agregat prądotwórczy przenośny trójfazowy 14/15,5kW Diesel Kraft&amp;Dele KD153</name>
-    <quantity>0</quantity>
+    <quantity>40</quantity>
     <ean>5903957005829</ean>
     <sku>KD153</sku>
     <category_name>Dom i Ogród/Narzędzia/Agregaty prądotwórcze</category_name>
     <manufacturer_name>KRAFT&amp;DELE</manufacturer_name>
-    <price>13657.20</price>
+    <price>13620.00</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
     <weight>277</weight>
@@ -26739,7 +26739,7 @@
   <product>
     <product_id>67638038</product_id>
     <name>Ściernica do Czyszczenia Piast Felg Tarcz 1/2" 150 mm Kraft&amp;Dele</name>
-    <quantity>20</quantity>
+    <quantity>17</quantity>
     <ean>5903957017341</ean>
     <sku>KD5983</sku>
     <category_name></category_name>
@@ -27795,7 +27795,7 @@
   <product>
     <product_id>67638133</product_id>
     <name>ELEKTRYCZNE NOŻYCE DO CIĘCIA BLACHY OBRÓBKI METALU SKOKOWE STEMPEL KD1512</name>
-    <quantity>20</quantity>
+    <quantity>13</quantity>
     <ean>0634065128272</ean>
     <sku>KD1512</sku>
     <category_name></category_name>
@@ -28307,12 +28307,12 @@
   <product>
     <product_id>67638207</product_id>
     <name>ZESTAW NARZĘDZI WALIZKA 141 ELEMENTÓW KD10467</name>
-    <quantity>0</quantity>
+    <quantity>300</quantity>
     <ean>5903957000961</ean>
     <sku>KD10467</sku>
     <category_name></category_name>
     <manufacturer_name>KRAFT&amp;DELE</manufacturer_name>
-    <price>80.50</price>
+    <price>90.75</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
     <weight>2.5</weight>
@@ -28819,12 +28819,12 @@
   <product>
     <product_id>67638271</product_id>
     <name>ŚCIĄGACZ DO ŁOŻYSK ŚRUBOWY TRÓJRAMIENNY 200MM 8'' 3 RAMIENNY KD1109</name>
-    <quantity>0</quantity>
+    <quantity>300</quantity>
     <ean>5901638116109</ean>
     <sku>KD1109</sku>
     <category_name></category_name>
     <manufacturer_name>KRAFT&amp;DELE</manufacturer_name>
-    <price>43.75</price>
+    <price>50.75</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
     <weight>2.16</weight>
@@ -28851,7 +28851,7 @@
   <product>
     <product_id>67638276</product_id>
     <name>POMPA RĘCZNA DO PRÓB CIŚNIENIOWYCH CIŚNIENIA 12L POMPA KONTROLNA KD10479</name>
-    <quantity>250</quantity>
+    <quantity>200</quantity>
     <ean>5903957005294</ean>
     <sku>KD10479</sku>
     <category_name></category_name>
@@ -28931,12 +28931,12 @@
   <product>
     <product_id>67638285</product_id>
     <name>ŚCIĄGACZ SWORZNI DO DRĄŻKÓW KOŃCÓWEK KIEROWNICZYCH 5EL. KRAFT&amp;DELE KD10166</name>
-    <quantity>0</quantity>
+    <quantity>300</quantity>
     <ean>5903175332523</ean>
     <sku>KD10166</sku>
     <category_name></category_name>
     <manufacturer_name>KRAFT&amp;DELE</manufacturer_name>
-    <price>57.75</price>
+    <price>64.75</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
     <weight>3</weight>
