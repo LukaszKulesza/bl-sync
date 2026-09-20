@@ -7415,7 +7415,7 @@
     <sku>NW17-54CS10-24-KPL</sku>
     <name>CUPSystem - zestaw 17/18/26 dysza kielich #10 [na elektrodę 2.4]</name>
     <ean>5900391000199</ean>
-    <quantity>23</quantity>
+    <quantity>12</quantity>
     <price>185.62</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -7475,7 +7475,7 @@
     <sku>54CD10</sku>
     <name>CUPSYSTEM dysza gazowa #10 (dysza gazowa + 2x sitko)</name>
     <ean>5900391243152</ean>
-    <quantity>23</quantity>
+    <quantity>12</quantity>
     <price>132.58</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -7525,7 +7525,7 @@
     <sku>53CS10</sku>
     <name>Sitko - CUPSYSTEM #10</name>
     <ean>5900391243206</ean>
-    <quantity>11</quantity>
+    <quantity>0</quantity>
     <price>32.09</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -7585,7 +7585,7 @@
     <sku>SP28W-30-15-620</sku>
     <name>[OUTLET] HERMES 3D 3000 x 1500 x 200 [6 nóg ze stopami L=620]</name>
     <ean></ean>
-    <quantity>2</quantity>
+    <quantity>1</quantity>
     <price>34419.95</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -8675,7 +8675,7 @@
     <sku>NW17-29D26-24-KPL</sku>
     <name>CUPSystem - zestaw 17/18/26 dysza kielich #16 [na elektrodę 2.4]</name>
     <ean>5900391244043</ean>
-    <quantity>206</quantity>
+    <quantity>204</quantity>
     <price>102.73</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11135,7 +11135,7 @@
     <sku>SP-TR-91</sku>
     <name>Wózek do urządzeń spawalniczych (ProTIG 2000 / 3000)</name>
     <ean></ean>
-    <quantity>9</quantity>
+    <quantity>7</quantity>
     <price>2111.18</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11875,7 +11875,7 @@
     <sku>53CS09</sku>
     <name>Sitko - CUPSYSTEM #09</name>
     <ean>5900391252949</ean>
-    <quantity>19</quantity>
+    <quantity>8</quantity>
     <price>33.85</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11906,7 +11906,7 @@
     <name>Pręt spawalniczy ER70S-6 1.6mm 5kg</name>
     <ean>5900391251867</ean>
     <quantity>193</quantity>
-    <price>106.03</price>
+    <price>109.88</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
   </product>
@@ -11916,7 +11916,7 @@
     <name>Pręt spawalniczy ER70S-6 2.0mm 5kg</name>
     <ean>5900391251874</ean>
     <quantity>151</quantity>
-    <price>106.03</price>
+    <price>109.88</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
   </product>
@@ -11926,7 +11926,7 @@
     <name>Pręt spawalniczy ER70S-6 2.4mm 5kg</name>
     <ean>5900391251881</ean>
     <quantity>421</quantity>
-    <price>106.03</price>
+    <price>107.93</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
   </product>
@@ -11936,7 +11936,7 @@
     <name>Pręt spawalniczy ER70S-6 3.2mm 5kg</name>
     <ean>5900391251898</ean>
     <quantity>359</quantity>
-    <price>106.03</price>
+    <price>107.93</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
   </product>
@@ -11946,7 +11946,7 @@
     <name>Drut spawalniczy ER70S-6 [SG2] D100 1kg 0.8mm</name>
     <ean>5900391251799</ean>
     <quantity>3086</quantity>
-    <price>29.04</price>
+    <price>31.28</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
   </product>
@@ -11956,7 +11956,7 @@
     <name>Drut spawalniczy ER70S-6 [SG2] D200 5kg 0.8mm</name>
     <ean>5900391251805</ean>
     <quantity>4942</quantity>
-    <price>101.51</price>
+    <price>102.17</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
   </product>
@@ -11966,7 +11966,7 @@
     <name>Drut spawalniczy ER70S-6 [SG2] D200 5kg 1.0mm</name>
     <ean>5900391251812</ean>
     <quantity>3280</quantity>
-    <price>89.92</price>
+    <price>100.22</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
   </product>
@@ -11976,7 +11976,7 @@
     <name>Drut spawalniczy ER70S-6 [SG2] D200 5kg 1.2mm</name>
     <ean>5900391251829</ean>
     <quantity>4357</quantity>
-    <price>67.43</price>
+    <price>112.32</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
   </product>
@@ -11986,7 +11986,7 @@
     <name>Drut spawalniczy ER70S-6 [SG2] D300 15kg 0.8mm</name>
     <ean>5900391251836</ean>
     <quantity>10</quantity>
-    <price>225.94</price>
+    <price>250.85</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
   </product>
@@ -11996,7 +11996,7 @@
     <name>Drut spawalniczy ER70S-6 [SG2] D300 15kg 1.0mm</name>
     <ean>5900391251843</ean>
     <quantity>2065</quantity>
-    <price>217.24</price>
+    <price>245.05</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
   </product>
@@ -12006,7 +12006,7 @@
     <name>Drut spawalniczy ER70S-6 [SG2] D300 15kg 1.2mm</name>
     <ean>5900391251850</ean>
     <quantity>1259</quantity>
-    <price>208.56</price>
+    <price>235.39</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
   </product>
@@ -15386,7 +15386,7 @@
     <name>Ostrzałka do elektrod wolframowych SPARTUS D99</name>
     <ean>5900391006382</ean>
     <quantity>10</quantity>
-    <price>3146.39</price>
+    <price>2935.21</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
   </product>
@@ -15656,7 +15656,7 @@
     <name>Pręt spawalniczy ER70S-6 1.6mm 1kg</name>
     <ean>5900391008102</ean>
     <quantity>401</quantity>
-    <price>35.79</price>
+    <price>37.13</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
   </product>
@@ -15666,7 +15666,7 @@
     <name>Pręt spawalniczy ER70S-6 2.0mm 1kg</name>
     <ean>5900391008119</ean>
     <quantity>401</quantity>
-    <price>35.79</price>
+    <price>37.13</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
   </product>
@@ -15676,7 +15676,7 @@
     <name>Pręt spawalniczy ER70S-6 2.4mm 1kg</name>
     <ean>5900391008126</ean>
     <quantity>397</quantity>
-    <price>35.79</price>
+    <price>37.13</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
   </product>
@@ -15686,7 +15686,7 @@
     <name>Pręt spawalniczy ER70S-6 3.2mm 1kg</name>
     <ean>5900391008133</ean>
     <quantity>423</quantity>
-    <price>35.79</price>
+    <price>37.13</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
   </product>
