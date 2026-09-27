@@ -2875,7 +2875,7 @@
     <sku>EASYMIG320-PAK-36-3</sku>
     <name>EasyMIG 320 pakiet</name>
     <ean>5900391242469</ean>
-    <quantity>20</quantity>
+    <quantity>18</quantity>
     <price>5079.72</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -3115,7 +3115,7 @@
     <sku>SPE15-11-300</sku>
     <name>Uchwyt ręczny MIG 150 3m seria SPARTUS Easy</name>
     <ean>5900391200537</ean>
-    <quantity>146</quantity>
+    <quantity>145</quantity>
     <price>163.94</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10355,7 +10355,7 @@
     <sku>NW900-00-421</sku>
     <name>Adapter szpuli drutu jednoczęściowy</name>
     <ean></ean>
-    <quantity>1006</quantity>
+    <quantity>986</quantity>
     <price>20.89</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11235,7 +11235,7 @@
     <sku>M-308LSI-08-S200</sku>
     <name>Drut spawalniczy ER308LSi D200 5kg 0.8mm</name>
     <ean>5900391250808</ean>
-    <quantity>555</quantity>
+    <quantity>551</quantity>
     <price>207.49</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11465,7 +11465,7 @@
     <sku>T-308LSI-24-500</sku>
     <name>Pręt spawalniczy ER308LSi 2.4mm 5kg</name>
     <ean>5900391251034</ean>
-    <quantity>117</quantity>
+    <quantity>115</quantity>
     <price>186.34</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11895,7 +11895,7 @@
     <sku>M-ER70S-6-08-S100</sku>
     <name>Drut spawalniczy ER70S-6 [SG2] D100 1kg 0.8mm</name>
     <ean>5900391251799</ean>
-    <quantity>3042</quantity>
+    <quantity>3032</quantity>
     <price>31.28</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11965,7 +11965,7 @@
     <sku>M-E71T-GS-08-S100</sku>
     <name>Drut spawalniczy E71T-GS D100 0,9kg 0.8mm</name>
     <ean>5900391251904</ean>
-    <quantity>1709</quantity>
+    <quantity>1699</quantity>
     <price>40.29</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -12405,7 +12405,7 @@
     <sku>SP050-50-110A</sku>
     <name>Panel kurtyna 1100x2000 z łącznikiem do zabudowy stanowisk laserowych</name>
     <ean>5900391255162</ean>
-    <quantity>466</quantity>
+    <quantity>467</quantity>
     <price>2440.38</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -12415,7 +12415,7 @@
     <sku>SP050-50-110D</sku>
     <name>Drzwi kurtyna 1100x2000 do zabudowy stanowisk laserowych</name>
     <ean>5900391255148</ean>
-    <quantity>466</quantity>
+    <quantity>467</quantity>
     <price>2573.95</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
