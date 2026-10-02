@@ -395,7 +395,7 @@
     <sku>080-15-010</sku>
     <name>Bateria litowo-jonowa do systemu nawiewowego Pro</name>
     <ean>5900391011775</ean>
-    <quantity>39</quantity>
+    <quantity>38</quantity>
     <price>354.20</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -425,7 +425,7 @@
     <sku>080-00-001</sku>
     <name>Przyłbica spawalnicza z klapką 90 × 110 mm</name>
     <ean>5900391204665</ean>
-    <quantity>500</quantity>
+    <quantity>435</quantity>
     <price>82.13</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -755,7 +755,7 @@
     <sku>082-108-068</sku>
     <name>Osłona z poliwęglanu 108 × 68 mm przeznaczona do przyłbicy SPARTUS® Pro 301X (wewnętrzna)</name>
     <ean>5900391235225</ean>
-    <quantity>806</quantity>
+    <quantity>766</quantity>
     <price>3.24</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -1275,7 +1275,7 @@
     <sku>SP20RE32</sku>
     <name>Elektroda wolframowa (WX3 purpurowa) 3.2 × 175 mm</name>
     <ean>5900391200452</ean>
-    <quantity>240</quantity>
+    <quantity>210</quantity>
     <price>80.79</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -1455,7 +1455,7 @@
     <sku>SP145-04-030</sku>
     <name>Magnetyczny uchwyt spawalniczy z wyłącznikiem udźwig: 13,5kg</name>
     <ean>5900391205556</ean>
-    <quantity>20</quantity>
+    <quantity>19</quantity>
     <price>126.24</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -1465,7 +1465,7 @@
     <sku>SP145-04-055</sku>
     <name>Magnetyczny uchwyt spawalniczy z wyłącznikiem udźwig: 25kg</name>
     <ean>5900391205563</ean>
-    <quantity>17</quantity>
+    <quantity>16</quantity>
     <price>201.99</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -1505,7 +1505,7 @@
     <sku>SP130-01-002</sku>
     <name>Płyn antyodpryskowy 5l</name>
     <ean>5900391226018</ean>
-    <quantity>44</quantity>
+    <quantity>30</quantity>
     <price>80.59</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -1515,7 +1515,7 @@
     <sku>SP130-01-003</sku>
     <name>Płyn antyodpryskowy 20l</name>
     <ean>5900391226025</ean>
-    <quantity>49</quantity>
+    <quantity>40</quantity>
     <price>289.40</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -1545,7 +1545,7 @@
     <sku>50001</sku>
     <name>Płyn chłodniczy Hypercoolant 5l</name>
     <ean>5900391226131</ean>
-    <quantity>127</quantity>
+    <quantity>122</quantity>
     <price>302.78</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -2745,7 +2745,7 @@
     <sku>SPBOX1-9-16STD</sku>
     <name>TIG BOX STANDARD 9/20 zestaw na elektrodę 1.6mm</name>
     <ean>5900391224779</ean>
-    <quantity>50</quantity>
+    <quantity>48</quantity>
     <price>124.24</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -2865,7 +2865,7 @@
     <sku>EASYMIG270-PAK-24-3</sku>
     <name>EasyMIG 270 pakiet</name>
     <ean>5900391242445</ean>
-    <quantity>10</quantity>
+    <quantity>9</quantity>
     <price>4726.86</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -2885,7 +2885,7 @@
     <sku>EASYTIG205EPULSEDC-PAK-17-4</sku>
     <name>EasyTIG 205P DC w pakiecie z uchwytem mini SPE 17 - 4m</name>
     <ean>5900391242544</ean>
-    <quantity>154</quantity>
+    <quantity>153</quantity>
     <price>2608.67</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -3075,7 +3075,7 @@
     <sku>SPP25-13-400</sku>
     <name>Uchwyt ręczny MIG 250 4m seria SPARTUS Pro</name>
     <ean>5900391200841</ean>
-    <quantity>81</quantity>
+    <quantity>80</quantity>
     <price>481.27</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -3115,7 +3115,7 @@
     <sku>SPE15-11-300</sku>
     <name>Uchwyt ręczny MIG 150 3m seria SPARTUS Easy</name>
     <ean>5900391200537</ean>
-    <quantity>143</quantity>
+    <quantity>141</quantity>
     <price>163.94</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -4305,7 +4305,7 @@
     <sku>SP713-00-990D</sku>
     <name>Kubek lakierniczy 1/4 1000ml</name>
     <ean>5900391100189</ean>
-    <quantity>81</quantity>
+    <quantity>80</quantity>
     <price>35.28</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -4865,7 +4865,7 @@
     <sku>SP-FC</sku>
     <name>Sterowania nożne do urządzenia TIG320P/400P AC/DC</name>
     <ean>5900391241387</ean>
-    <quantity>144</quantity>
+    <quantity>143</quantity>
     <price>759.12</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -5285,7 +5285,7 @@
     <sku>EASYMIG275-PAK-24-3</sku>
     <name>EasyMIG 275 pakiet</name>
     <ean>5900391242452</ean>
-    <quantity>30</quantity>
+    <quantity>5</quantity>
     <price>5220.86</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -5325,7 +5325,7 @@
     <sku>EASYTIG208PACDC-PAK-17-4</sku>
     <name>EasyTIG 208P AC/DC pakiet</name>
     <ean>5900391242308</ean>
-    <quantity>1</quantity>
+    <quantity>0</quantity>
     <price>3103.72</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -5405,7 +5405,7 @@
     <sku>082-107-076</sku>
     <name>Osłona z poliwęglanu 107 × 76 mm</name>
     <ean>5900391242179</ean>
-    <quantity>948</quantity>
+    <quantity>918</quantity>
     <price>3.78</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -6325,7 +6325,7 @@
     <sku>SPBOX3-P45H-045</sku>
     <name>CUT BOX pasujący do uchwytu SP45HY</name>
     <ean>5900391231586</ean>
-    <quantity>1713</quantity>
+    <quantity>1701</quantity>
     <price>873.36</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -6335,7 +6335,7 @@
     <sku>SPBOX3-P45M-045</sku>
     <name>CUT BOX pasujący do uchwytu SP45MY</name>
     <ean>5900391231593</ean>
-    <quantity>1713</quantity>
+    <quantity>1701</quantity>
     <price>868.41</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -7535,7 +7535,7 @@
     <sku>SP28W-30-15-620</sku>
     <name>[OUTLET] HERMES 3D 3000 x 1500 x 200 [6 nóg ze stopami L=620]</name>
     <ean></ean>
-    <quantity>1</quantity>
+    <quantity>0</quantity>
     <price>34419.95</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -7695,7 +7695,7 @@
     <sku>SP28C-14-14-RP1000</sku>
     <name>FERROS 3D 1400 x 1400 x 200 ośmiokątny z pozycjonerem obrotowym SPARTUS® 1000</name>
     <ean></ean>
-    <quantity>5</quantity>
+    <quantity>0</quantity>
     <price>86548.58</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -8245,7 +8245,7 @@
     <sku>SP-FC-9P</sku>
     <name>Sterowania nożne do urządzenia MultiPro 200</name>
     <ean></ean>
-    <quantity>144</quantity>
+    <quantity>143</quantity>
     <price>759.12</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -8255,7 +8255,7 @@
     <sku>SP28C-14-14-RT1000</sku>
     <name>FERROS 3D 1400 x 1400 x 200 ośmiokątny z obrotnikiem SPARTUS® RT1000</name>
     <ean></ean>
-    <quantity>5</quantity>
+    <quantity>0</quantity>
     <price>56438.18</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -8265,7 +8265,7 @@
     <sku>SP28C-14-14-RP2000</sku>
     <name>FERROS 3D 1400 x 1400 x 200 ośmiokątny z pozycjonerem obrotowym SPARTUS® 2000</name>
     <ean></ean>
-    <quantity>5</quantity>
+    <quantity>0</quantity>
     <price>109131.38</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -8405,7 +8405,7 @@
     <sku>EASYMIG330DP-PAK-36-3</sku>
     <name>EasyMIG 330 DUAL PULSE pakiet</name>
     <ean>5900391243688</ean>
-    <quantity>3</quantity>
+    <quantity>6</quantity>
     <price>7055.71</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -8565,7 +8565,7 @@
     <sku>SP28N-20-10-PE</sku>
     <name>Stół spawalniczy SPARTUS MAXIMUS 3D 2000x1000x200mm na podnośniku elektrohydraulicznym</name>
     <ean>5900391008478</ean>
-    <quantity>10</quantity>
+    <quantity>0</quantity>
     <price>73375.28</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -9315,7 +9315,7 @@
     <sku>SP28N-24-12-PE</sku>
     <name>Stół spawalniczy SPARTUS MAXIMUS 3D 2400x1200x200mm na podnośniku elektrohydraulicznym</name>
     <ean>5900391008485</ean>
-    <quantity>8</quantity>
+    <quantity>0</quantity>
     <price>96014.54</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -9385,7 +9385,7 @@
     <sku>SP070-30-100</sku>
     <name>Filtr przeciwgazowy ABEK1 SPARTUS® 100</name>
     <ean>5900391244432</ean>
-    <quantity>1211</quantity>
+    <quantity>551</quantity>
     <price>36.35</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -9855,7 +9855,7 @@
     <sku>SPBOX3-P45H-045-M</sku>
     <name>CUT BOX pasujący do uchwytu SP45HY (średni)</name>
     <ean>5900391247549</ean>
-    <quantity>1713</quantity>
+    <quantity>1701</quantity>
     <price>4736.17</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -9865,7 +9865,7 @@
     <sku>SPBOX3-P45H-045-L</sku>
     <name>CUT BOX pasujący do uchwytu SP45HY (duży)</name>
     <ean>5900391247556</ean>
-    <quantity>1713</quantity>
+    <quantity>1701</quantity>
     <price>9472.33</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -9875,7 +9875,7 @@
     <sku>SPBOX3-P45M-045-M</sku>
     <name>CUT BOX pasujący do uchwytu SP45MY (średni)</name>
     <ean>5900391247563</ean>
-    <quantity>1713</quantity>
+    <quantity>1701</quantity>
     <price>4716.11</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -9995,7 +9995,7 @@
     <sku>SPBOX3-SP100HM-070</sku>
     <name>CUT BOX pasujący do uchwytu SP100 / PT100 [dysza 30-70A]</name>
     <ean>5900391247723</ean>
-    <quantity>10</quantity>
+    <quantity>0</quantity>
     <price>1193.54</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10005,7 +10005,7 @@
     <sku>SPBOX3-SP100HM-120</sku>
     <name>CUT BOX pasujący do uchwytu SP100 / PT100 [dysza 80-120A]</name>
     <ean>5900391247754</ean>
-    <quantity>10</quantity>
+    <quantity>0</quantity>
     <price>1191.22</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10555,7 +10555,7 @@
     <sku>EASYMIG317DP-PAK-36-3</sku>
     <name>EasyMIG 317 DUAL PULSE pakiet</name>
     <ean>5900391245897</ean>
-    <quantity>47</quantity>
+    <quantity>50</quantity>
     <price>5263.20</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10565,7 +10565,7 @@
     <sku>EASYTIG206PDC-PAK-17-4</sku>
     <name>EasyTIG 206P DC w pakiecie z uchwytem mini SPE 17 - 4m</name>
     <ean>5900391248805</ean>
-    <quantity>34</quantity>
+    <quantity>50</quantity>
     <price>1998.10</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10575,7 +10575,7 @@
     <sku>EASYTIG206PDC</sku>
     <name>EasyTIG 206P DC</name>
     <ean>5900391245903</ean>
-    <quantity>34</quantity>
+    <quantity>50</quantity>
     <price>1723.34</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10585,7 +10585,7 @@
     <sku>EASYTIG206PDC-PAK-17-8</sku>
     <name>EasyTIG 206P DC w pakiecie z uchwytem mini SPE 17 - 8m</name>
     <ean>5900391254967</ean>
-    <quantity>34</quantity>
+    <quantity>50</quantity>
     <price>2150.74</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10605,7 +10605,7 @@
     <sku>SP-TR-50</sku>
     <name>Wózek spawalniczy 2 kołowy-boczny (składany)</name>
     <ean>5900391249987</ean>
-    <quantity>95</quantity>
+    <quantity>90</quantity>
     <price>757.33</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11175,7 +11175,7 @@
     <sku>EASYARC315P-PAK</sku>
     <name>EasyARC 315P pakiet</name>
     <ean>5900391248119</ean>
-    <quantity>0</quantity>
+    <quantity>10</quantity>
     <price>2059.15</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11185,7 +11185,7 @@
     <sku>EASYCUT100CNC-PAK-100H-6</sku>
     <name>EasyCUT 100CNC pakiet</name>
     <ean>5900391246917</ean>
-    <quantity>73</quantity>
+    <quantity>123</quantity>
     <price>6208.86</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11205,7 +11205,7 @@
     <sku>EASYCUT100CNC-PAK-100M-6</sku>
     <name>EasyCUT 100CNC pakiet z uchwytem SP100M 6m</name>
     <ean>5900391254929</ean>
-    <quantity>73</quantity>
+    <quantity>123</quantity>
     <price>6773.43</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11215,7 +11215,7 @@
     <sku>EASYMIG500DP-PAK-51-3</sku>
     <name>EasyMIG 500 DUAL PULSE [źródło, chłodnica, podajnik, wózek, przewód zespolony 5m] pakiet</name>
     <ean>5900391249055</ean>
-    <quantity>3</quantity>
+    <quantity>1</quantity>
     <price>16935.69</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11495,7 +11495,7 @@
     <sku>T-316LSI-16-100</sku>
     <name>Pręt spawalniczy ER316LSi 1.6mm 1kg</name>
     <ean>5900391251058</ean>
-    <quantity>476</quantity>
+    <quantity>454</quantity>
     <price>88.79</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11805,7 +11805,7 @@
     <sku>SP050-90-005</sku>
     <name>Płyn chłodniczy do spawarek laserowych SPARTUS LaserFrost 5l</name>
     <ean>5900391252345</ean>
-    <quantity>45</quantity>
+    <quantity>39</quantity>
     <price>246.06</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11865,7 +11865,7 @@
     <sku>T-ER70S-6-16-500</sku>
     <name>Pręt spawalniczy ER70S-6 1.6mm 5kg</name>
     <ean>5900391251867</ean>
-    <quantity>187</quantity>
+    <quantity>182</quantity>
     <price>109.88</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11875,7 +11875,7 @@
     <sku>T-ER70S-6-20-500</sku>
     <name>Pręt spawalniczy ER70S-6 2.0mm 5kg</name>
     <ean>5900391251874</ean>
-    <quantity>146</quantity>
+    <quantity>145</quantity>
     <price>109.88</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11915,7 +11915,7 @@
     <sku>M-ER70S-6-08-S200</sku>
     <name>Drut spawalniczy ER70S-6 [SG2] D200 5kg 0.8mm</name>
     <ean>5900391251805</ean>
-    <quantity>4827</quantity>
+    <quantity>3224</quantity>
     <price>102.17</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11925,7 +11925,7 @@
     <sku>M-ER70S-6-10-S200</sku>
     <name>Drut spawalniczy ER70S-6 [SG2] D200 5kg 1.0mm</name>
     <ean>5900391251812</ean>
-    <quantity>3248</quantity>
+    <quantity>3247</quantity>
     <price>100.22</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11955,7 +11955,7 @@
     <sku>M-ER70S-6-10-B300</sku>
     <name>Drut spawalniczy ER70S-6 [SG2] D300 15kg 1.0mm</name>
     <ean>5900391251843</ean>
-    <quantity>2062</quantity>
+    <quantity>1132</quantity>
     <price>245.05</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11965,7 +11965,7 @@
     <sku>M-ER70S-6-12-B300</sku>
     <name>Drut spawalniczy ER70S-6 [SG2] D300 15kg 1.2mm</name>
     <ean>5900391251850</ean>
-    <quantity>1247</quantity>
+    <quantity>1103</quantity>
     <price>235.39</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11975,7 +11975,7 @@
     <sku>M-E71T-GS-08-S100</sku>
     <name>Drut spawalniczy E71T-GS D100 0,9kg 0.8mm</name>
     <ean>5900391251904</ean>
-    <quantity>1665</quantity>
+    <quantity>1663</quantity>
     <price>40.29</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -12055,7 +12055,7 @@
     <sku>SP28C-14-14-RP1500</sku>
     <name>FERROS 3D 1400 x 1400 x 200 ośmiokątny z pozycjonerem obrotowym SPARTUS® 1500</name>
     <ean></ean>
-    <quantity>5</quantity>
+    <quantity>0</quantity>
     <price>91912.00</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -12065,7 +12065,7 @@
     <sku>SP130-20-005</sku>
     <name>Płyn chłodniczy SPARTUS MaxCoolant 5l</name>
     <ean>5900391253533</ean>
-    <quantity>74</quantity>
+    <quantity>69</quantity>
     <price>151.25</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -12165,7 +12165,7 @@
     <sku>EASYMIG500DP-PAK2-51-3</sku>
     <name>EasyMIG 500 DUAL PULSE [źródło, chłodnica, podajnik, wózek, przewód zespolony 10m] pakiet</name>
     <ean></ean>
-    <quantity>3</quantity>
+    <quantity>1</quantity>
     <price>18117.05</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -12225,7 +12225,7 @@
     <sku>M-309LSI-08-B300</sku>
     <name>Drut spawalniczy ER309LSi D300 15kg 0.8mm</name>
     <ean>5900391254707</ean>
-    <quantity>90</quantity>
+    <quantity>89</quantity>
     <price>738.55</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -12315,7 +12315,7 @@
     <sku>T-308LSI-10-500</sku>
     <name>Pręt spawalniczy ER308LSi 1.0mm 5kg</name>
     <ean>5900391254790</ean>
-    <quantity>67</quantity>
+    <quantity>66</quantity>
     <price>246.12</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -12375,7 +12375,7 @@
     <sku>T-309LSI-16-500</sku>
     <name>Pręt spawalniczy ER309LSi 1.6mm 5kg</name>
     <ean>5900391254851</ean>
-    <quantity>5</quantity>
+    <quantity>3</quantity>
     <price>275.09</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -12415,7 +12415,7 @@
     <sku>SP050-50-110A</sku>
     <name>Panel kurtyna 1100x2000 z łącznikiem do zabudowy stanowisk laserowych</name>
     <ean>5900391255162</ean>
-    <quantity>462</quantity>
+    <quantity>102</quantity>
     <price>2440.38</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -12425,7 +12425,7 @@
     <sku>SP050-50-110D</sku>
     <name>Drzwi kurtyna 1100x2000 do zabudowy stanowisk laserowych</name>
     <ean>5900391255148</ean>
-    <quantity>462</quantity>
+    <quantity>102</quantity>
     <price>2573.95</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -12435,7 +12435,7 @@
     <sku>SP050-50-110VA</sku>
     <name>Panel kurtyna 1100x2000 z podglądem i łącznikiem do zabudowy stanowisk laserowych</name>
     <ean>5900391255186</ean>
-    <quantity>101</quantity>
+    <quantity>11</quantity>
     <price>3597.37</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -12445,7 +12445,7 @@
     <sku>SP050-50-110VD</sku>
     <name>Drzwi kurtyna 1100x2000 z podglądem do zabudowy stanowisk laserowych</name>
     <ean>5900391255155</ean>
-    <quantity>101</quantity>
+    <quantity>11</quantity>
     <price>3703.22</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -12625,7 +12625,7 @@
     <sku>SP28N-30-15-PE</sku>
     <name>Stół spawalniczy SPARTUS MAXIMUS 3D 3000x1500x200mm na podnośniku elektrohydraulicznym</name>
     <ean>5900391008300</ean>
-    <quantity>8</quantity>
+    <quantity>0</quantity>
     <price>141688.25</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -12655,7 +12655,7 @@
     <sku>SP020-00-015P</sku>
     <name>Pozycjoner spawalniczy SPARTUS 15P</name>
     <ean></ean>
-    <quantity>21</quantity>
+    <quantity>18</quantity>
     <price>1911.09</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -12675,7 +12675,7 @@
     <sku>SP020-00-050P</sku>
     <name>Pozycjoner spawalniczy SPARTUS 50P</name>
     <ean></ean>
-    <quantity>14</quantity>
+    <quantity>11</quantity>
     <price>3197.35</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -12685,7 +12685,7 @@
     <sku>SP020-00-100P</sku>
     <name>Pozycjoner spawalniczy SPARTUS 100P</name>
     <ean></ean>
-    <quantity>15</quantity>
+    <quantity>0</quantity>
     <price>6584.77</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -12695,7 +12695,7 @@
     <sku>SP021-00-001R</sku>
     <name>Obrotnik rolkowy SPARTUS 1000R</name>
     <ean></ean>
-    <quantity>32</quantity>
+    <quantity>16</quantity>
     <price>5643.82</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -12705,7 +12705,7 @@
     <sku>SP029-00-080P</sku>
     <name>Uchwyt tokarski SPARTUS 80P</name>
     <ean></ean>
-    <quantity>33</quantity>
+    <quantity>30</quantity>
     <price>982.67</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -13185,7 +13185,7 @@
     <sku>SP28N-15-10-P120</sku>
     <name>[OUTLET] MAXIMUS 3D 1500 x 1000 x 200 system D28 (4 nogi z kółkami L=550)</name>
     <ean></ean>
-    <quantity>1</quantity>
+    <quantity>0</quantity>
     <price>18988.37</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -13915,7 +13915,7 @@
     <sku>SP16W-10-05-650M</sku>
     <name>[OUTLET] Stół spawalniczy SPARTUS HERMES 3D 1000x500x100mm | system D16 | 4 nogi z kółkami L=650mm</name>
     <ean>5900391007389</ean>
-    <quantity>2</quantity>
+    <quantity>0</quantity>
     <price>5926.29</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -13925,7 +13925,7 @@
     <sku>SP16W-10-08-650M</sku>
     <name>[OUTLET] Stół spawalniczy SPARTUS HERMES 3D 1000x800x100mm | system D16 | 4 nogi z kółkami L=650mm</name>
     <ean>5900391007440</ean>
-    <quantity>6</quantity>
+    <quantity>0</quantity>
     <price>6773.14</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -13935,7 +13935,7 @@
     <sku>SP16W-15-06-650M</sku>
     <name>[OUTLET] Stół spawalniczy SPARTUS HERMES 3D 1500x600x100mm | system D16 | 4 nogi z kółkami L=650mm</name>
     <ean>5900391007686</ean>
-    <quantity>1</quantity>
+    <quantity>0</quantity>
     <price>7620.00</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -13945,7 +13945,7 @@
     <sku>SP16W-15-15-650M</sku>
     <name>[OUTLET] Stół spawalniczy SPARTUS HERMES 3D 1500x1500x100mm | system D16 | 5 nóg z kółkami L=650mm</name>
     <ean>5900391007785</ean>
-    <quantity>4</quantity>
+    <quantity>0</quantity>
     <price>11854.27</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -13995,7 +13995,7 @@
     <sku>SP28N-15-10-650</sku>
     <name>Stół spawalniczy SPARTUS MAXIMUS 3D 1500x1000x200mm | D28 | 4 nogi ze stopami L=650mm</name>
     <ean>5900391008317</ean>
-    <quantity>3</quantity>
+    <quantity>0</quantity>
     <price>15036.38</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -14005,7 +14005,7 @@
     <sku>SP28N-20-10-650</sku>
     <name>Stół spawalniczy SPARTUS MAXIMUS 3D 2000x1000x200mm | D28 | 4 nogi ze stopami L=650mm</name>
     <ean>5900391008324</ean>
-    <quantity>10</quantity>
+    <quantity>0</quantity>
     <price>17859.23</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -14015,7 +14015,7 @@
     <sku>SP28N-24-12-650</sku>
     <name>Stół spawalniczy SPARTUS MAXIMUS 3D 2400x1200x200mm | D28 | 6 nóg ze stopami L=650mm</name>
     <ean>5900391008331</ean>
-    <quantity>8</quantity>
+    <quantity>0</quantity>
     <price>23504.93</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -14025,7 +14025,7 @@
     <sku>SP28N-30-15-650</sku>
     <name>Stół spawalniczy SPARTUS MAXIMUS 3D 3000x1500x200mm | D28 | 6 nóg ze stopami L=650mm</name>
     <ean>5900391008348</ean>
-    <quantity>9</quantity>
+    <quantity>0</quantity>
     <price>32538.05</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -14035,7 +14035,7 @@
     <sku>SP28N-15-10-DIAG-650</sku>
     <name>Stół spawalniczy SPARTUS MAXIMUS 3D 1500x1000x200mm | diagonalny | D28 | 4 nogi ze stopami L=650mm</name>
     <ean>5900391008355</ean>
-    <quantity>5</quantity>
+    <quantity>0</quantity>
     <price>16165.52</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -14045,7 +14045,7 @@
     <sku>SP28N-20-10-DIAG-650</sku>
     <name>Stół spawalniczy SPARTUS MAXIMUS 3D 2000x1000x200mm | diagonalny | D28 | 4 nogi ze stopami L=650mm</name>
     <ean>5900391008379</ean>
-    <quantity>2</quantity>
+    <quantity>0</quantity>
     <price>18800.18</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -14055,7 +14055,7 @@
     <sku>SP28N-24-12-DIAG-650</sku>
     <name>Stół spawalniczy SPARTUS MAXIMUS 3D 2400x1200x200mm | diagonalny | D28 | 6 nóg ze stopami L=650mm</name>
     <ean>5900391008393</ean>
-    <quantity>4</quantity>
+    <quantity>1</quantity>
     <price>24445.88</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -14065,7 +14065,7 @@
     <sku>SP28N-30-15-DIAG-650</sku>
     <name>Stół spawalniczy SPARTUS MAXIMUS 3D 3000x1500x200mm | diagonalny | D28 | 6 nóg ze stopami L=650mm</name>
     <ean>5900391008416</ean>
-    <quantity>2</quantity>
+    <quantity>0</quantity>
     <price>36301.85</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -15485,7 +15485,7 @@
     <sku>XPROMIG500DP-PAK2-501-3</sku>
     <name>XPro MIG 500 DUAL PULSE [źródło, chłodnica, podajnik, wózek, przewód zespolony 10m] pakiet</name>
     <ean></ean>
-    <quantity>12</quantity>
+    <quantity>11</quantity>
     <price>23710.53</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -15605,7 +15605,7 @@
     <sku>NW17-54NQ14-24-KPL</sku>
     <name>QUARTZSystem NQ - soczewka 17/18/26 [na elektrodę 2.4mm]</name>
     <ean>5900391010785</ean>
-    <quantity>100</quantity>
+    <quantity>95</quantity>
     <price>88.01</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -15965,7 +15965,7 @@
     <sku>SP16N-30-15-650M</sku>
     <name>Stół spawalniczy SPARTUS MAXIMUS 3D 3000x1500x100mm | system D16 | 8 nóg z kółkami L=650mm</name>
     <ean>5900391011348</ean>
-    <quantity>4</quantity>
+    <quantity>0</quantity>
     <price>32538.05</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -16045,7 +16045,7 @@
     <sku>SP28C-20-10-650</sku>
     <name>Stół spawalniczy SPARTUS FERROS 3D 2000x1000x200mm | D28 | 4 nogi ze stopami L=650mm</name>
     <ean></ean>
-    <quantity>7</quantity>
+    <quantity>0</quantity>
     <price>11084.39</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
