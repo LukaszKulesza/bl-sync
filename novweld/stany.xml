@@ -3075,7 +3075,7 @@
     <sku>SPP25-13-400</sku>
     <name>Uchwyt ręczny MIG 250 4m seria SPARTUS Pro</name>
     <ean>5900391200841</ean>
-    <quantity>79</quantity>
+    <quantity>75</quantity>
     <price>481.27</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -6685,7 +6685,7 @@
     <sku>NW9-17-25R10</sku>
     <name>O-ring QUARTZSYSTEM 9/20 standard 17/18/26 standard / wer. kr.</name>
     <ean>5900391000908</ean>
-    <quantity>487</quantity>
+    <quantity>481</quantity>
     <price>3.00</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -6935,7 +6935,7 @@
     <sku>NW17-47T24</sku>
     <name>Tulejka zaciskowa QUARTZSYSTEM 17/18/26 L=51mm d= 2,4mm</name>
     <ean>5900391000885</ean>
-    <quantity>952</quantity>
+    <quantity>949</quantity>
     <price>6.80</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -7045,7 +7045,7 @@
     <sku>NW17-10D47</sku>
     <name>Dysza gazowa d=14/10mm L=47mm QUARTZSYSTEM 17/18/26 standard</name>
     <ean>5900391000687</ean>
-    <quantity>188</quantity>
+    <quantity>185</quantity>
     <price>39.04</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -7055,7 +7055,7 @@
     <sku>NW17-10N47</sku>
     <name>Izolator QUARTZSYSTEM 17/18/26 standard / mała soczewka</name>
     <ean>5900391000694</ean>
-    <quantity>417</quantity>
+    <quantity>414</quantity>
     <price>10.60</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -7425,7 +7425,7 @@
     <sku>54CD10</sku>
     <name>CUPSYSTEM dysza gazowa #10 (dysza gazowa + 2x sitko)</name>
     <ean>5900391243152</ean>
-    <quantity>73</quantity>
+    <quantity>71</quantity>
     <price>132.58</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -7485,7 +7485,7 @@
     <sku>53CS12</sku>
     <name>Sitko - CUPSYSTEM #12</name>
     <ean>5900391243213</ean>
-    <quantity>0</quantity>
+    <quantity>4</quantity>
     <price>33.85</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -8635,7 +8635,7 @@
     <sku>NW17-29D26-24-KPL</sku>
     <name>CUPSystem - zestaw 17/18/26 dysza kielich #16 [na elektrodę 2.4]</name>
     <ean>5900391244043</ean>
-    <quantity>194</quantity>
+    <quantity>192</quantity>
     <price>102.73</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -12065,7 +12065,7 @@
     <sku>SP130-20-005</sku>
     <name>Płyn chłodniczy SPARTUS MaxCoolant 5l</name>
     <ean>5900391253533</ean>
-    <quantity>46</quantity>
+    <quantity>48</quantity>
     <price>151.25</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
