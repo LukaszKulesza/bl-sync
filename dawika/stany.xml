@@ -995,12 +995,12 @@
   <product>
     <product_id>67635547</product_id>
     <name>GUMA MATA DO ZAGĘSZCZARKI UBIJAKA C80 560x470x5mm KD1183</name>
-    <quantity>0</quantity>
+    <quantity>250</quantity>
     <ean>5901638117069</ean>
     <sku>KD1183</sku>
     <category_name></category_name>
     <manufacturer_name>KRAFT&amp;DELE</manufacturer_name>
-    <price>125.61</price>
+    <price>127.20</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
     <weight>3</weight>
@@ -1171,12 +1171,12 @@
   <product>
     <product_id>67635566</product_id>
     <name>GUMA MATA DO ZAGĘSZCZARKI UBIJAKA C90 57x45x0,5cm</name>
-    <quantity>0</quantity>
+    <quantity>300</quantity>
     <ean>5901638117359</ean>
     <sku>KD1186</sku>
     <category_name></category_name>
     <manufacturer_name>KRAFT&amp;DELE</manufacturer_name>
-    <price>111.30</price>
+    <price>141.51</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
     <weight>1.5</weight>
@@ -3155,7 +3155,7 @@
   <product>
     <product_id>67635749</product_id>
     <name>Elektryczna wiertarka udarowa 1700W 230V Kraft&amp;DeleKD1688</name>
-    <quantity>10</quantity>
+    <quantity>8</quantity>
     <ean>5901638119476</ean>
     <sku>KD1688</sku>
     <category_name></category_name>
@@ -3187,7 +3187,7 @@
   <product>
     <product_id>67635751</product_id>
     <name>Spalinowa Zacieraczka Kraft&amp;Dele 57 cm KD1188</name>
-    <quantity>14</quantity>
+    <quantity>13</quantity>
     <ean>5903175332905</ean>
     <sku>KD1188</sku>
     <category_name></category_name>
@@ -3587,12 +3587,12 @@
   <product>
     <product_id>67635780</product_id>
     <name>SILNIK ELEKTRYCZNY TRÓJFAZOWY 3,0KW 380V 1420RPM</name>
-    <quantity>0</quantity>
+    <quantity>300</quantity>
     <ean>5901638116673</ean>
     <sku>KD1815</sku>
     <category_name></category_name>
     <manufacturer_name>KRAFT&amp;DELE</manufacturer_name>
-    <price>493.92</price>
+    <price>579.18</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
     <weight>0</weight>
@@ -4259,7 +4259,7 @@
   <product>
     <product_id>67635858</product_id>
     <name>Elektryczna wiertarka udarowa 1700W 230V Kraft&amp;Dele KD1685</name>
-    <quantity>3</quantity>
+    <quantity>2</quantity>
     <ean>5901638119445</ean>
     <sku>KD1685</sku>
     <category_name></category_name>
@@ -4723,12 +4723,12 @@
   <product>
     <product_id>67635894</product_id>
     <name>Młotek Gumowo Plastikowy 30 mm z Drewnianą Rączką 28 cm Kraft&amp;Dele</name>
-    <quantity>0</quantity>
+    <quantity>300</quantity>
     <ean>5903175339522</ean>
     <sku>KD903</sku>
     <category_name>Dom i Ogród/Narzędzia/Młotki, przecinaki i dłuta</category_name>
     <manufacturer_name>KRAFT&amp;DELE</manufacturer_name>
-    <price>13.32</price>
+    <price>15.54</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
     <weight>1</weight>
@@ -5027,7 +5027,7 @@
   <product>
     <product_id>67635920</product_id>
     <name>Zestaw Kluczy Płasko-Oczkowych z Grzechotką Łamaną 12 Elementów 8-19 mm</name>
-    <quantity>14</quantity>
+    <quantity>13</quantity>
     <ean>5903957000084</ean>
     <sku>KD10947</sku>
     <category_name>Motoryzacja/Narzędzia i sprzęt warsztatowy/Narzędzia ręczne/Klucze</category_name>
@@ -5603,7 +5603,7 @@
   <product>
     <product_id>67635967</product_id>
     <name>Zestaw Szczotek do Czyszczenia Gniazd Wtryskiwaczy 20 Elementów Kraft&amp;Dele</name>
-    <quantity>300</quantity>
+    <quantity>250</quantity>
     <ean>5903957007731</ean>
     <sku>KD10058</sku>
     <category_name>Motoryzacja/Narzędzia i sprzęt warsztatowy/Narzędzia ręczne/Klucze</category_name>
@@ -6243,7 +6243,7 @@
   <product>
     <product_id>67636022</product_id>
     <name>KLUCZE PŁASKO-OCZKOWE 6-24MM ZESTAW 16 ELEMENTÓW KD10932</name>
-    <quantity>200</quantity>
+    <quantity>150</quantity>
     <ean>5903175333322</ean>
     <sku>KD10932</sku>
     <category_name>Motoryzacja/Narzędzia i sprzęt warsztatowy/Narzędzia ręczne/Klucze</category_name>
@@ -6899,7 +6899,7 @@
   <product>
     <product_id>67636075</product_id>
     <name>Młotek Gumowo Plastikowy 35 mm z Drewnianą Rączką 28.5 cm Kraft&amp;Dele</name>
-    <quantity>200</quantity>
+    <quantity>0</quantity>
     <ean>5903175339539</ean>
     <sku>KD904</sku>
     <category_name>Dom i Ogród/Narzędzia/Młotki, przecinaki i dłuta</category_name>
@@ -7027,12 +7027,12 @@
   <product>
     <product_id>67636088</product_id>
     <name>Szczypce Boczne Tnące Kraft&amp;Dele 180 mm</name>
-    <quantity>0</quantity>
+    <quantity>300</quantity>
     <ean>5901638119827</ean>
     <sku>KD10804</sku>
     <category_name>Dom i Ogród/Narzędzia/Szczypce, nożyce, obcęgi</category_name>
     <manufacturer_name>KRAFT&amp;DELE</manufacturer_name>
-    <price>15.54</price>
+    <price>17.76</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
     <weight>0</weight>
@@ -7395,7 +7395,7 @@
   <product>
     <product_id>67636120</product_id>
     <name>Zgrzewarka Trzpieniowa do Rur Kraft&amp;Dele 1950W 230V/50Hz 300°C</name>
-    <quantity>150</quantity>
+    <quantity>100</quantity>
     <ean>5903957001876</ean>
     <sku>KD3074</sku>
     <category_name></category_name>
@@ -8323,7 +8323,7 @@
   <product>
     <product_id>67636199</product_id>
     <name>WIERTŁA TYTANOWE DO METALU BETONU ZESTAW HSS 13SZT</name>
-    <quantity>100</quantity>
+    <quantity>40</quantity>
     <ean>5901638112897</ean>
     <sku>KD982</sku>
     <category_name></category_name>
@@ -9283,7 +9283,7 @@
   <product>
     <product_id>67636290</product_id>
     <name>Zestaw do Przesuwania Mebli Kraft&amp;Dele 150 kg</name>
-    <quantity>40</quantity>
+    <quantity>0</quantity>
     <ean>5903957006833</ean>
     <sku>KD3019</sku>
     <category_name></category_name>
@@ -10227,7 +10227,7 @@
   <product>
     <product_id>67636372</product_id>
     <name>Klucz do regulacji Gaznika PAC MAN Kraft&amp;Dele KD11240</name>
-    <quantity>3</quantity>
+    <quantity>0</quantity>
     <ean>5903957004556</ean>
     <sku>KD11240</sku>
     <category_name></category_name>
@@ -10595,12 +10595,12 @@
   <product>
     <product_id>67636402</product_id>
     <name>Kraft Dele KD11752 Nasadki udarowe 7el 1/2" 17-27</name>
-    <quantity>0</quantity>
+    <quantity>300</quantity>
     <ean>5903957007779</ean>
     <sku>KD11752</sku>
     <category_name></category_name>
     <manufacturer_name>Yato</manufacturer_name>
-    <price>90.63</price>
+    <price>98.58</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
     <weight>0</weight>
@@ -11587,7 +11587,7 @@
   <product>
     <product_id>67636503</product_id>
     <name>PISTOLET DO MASAŻU MASAŻER MOCNY DO PLECÓW CIAŁA STÓP WIBRACYJNY MASUJĄCY</name>
-    <quantity>3</quantity>
+    <quantity>1</quantity>
     <ean>5903957008417</ean>
     <sku>KD3081</sku>
     <category_name></category_name>
@@ -12195,7 +12195,7 @@
   <product>
     <product_id>67636575</product_id>
     <name>TARCZA WIDIOWA DO DREWNA 200MM X 32MM 20T WIDIA KD1020</name>
-    <quantity>20</quantity>
+    <quantity>19</quantity>
     <ean>5901638113207</ean>
     <sku>KD1020</sku>
     <category_name>Dom i Ogród/Narzędzia/Osprzęt do elektronarzędzi/Tarcze</category_name>
@@ -12275,7 +12275,7 @@
   <product>
     <product_id>67636585</product_id>
     <name>TARCZA WIDIOWA DO DREWNA WIDIA 210MM X 32MM 42T REDUKCJE KD944</name>
-    <quantity>12</quantity>
+    <quantity>11</quantity>
     <ean>5901638112064</ean>
     <sku>KD944</sku>
     <category_name>Dom i Ogród/Narzędzia/Osprzęt do elektronarzędzi/Tarcze</category_name>
@@ -13011,7 +13011,7 @@
   <product>
     <product_id>67636653</product_id>
     <name>ROLLER WAŁEK PIŁKI DO JOGI YOGI ROLOWANIA ZESTAW 3W1 KD11902</name>
-    <quantity>300</quantity>
+    <quantity>250</quantity>
     <ean>5903957008615</ean>
     <sku>KD11902</sku>
     <category_name></category_name>
@@ -13059,7 +13059,7 @@
   <product>
     <product_id>67636657</product_id>
     <name>ŚCIERNICA WALCOWA SATYNIARKA 100X100MM P600 3000 OBR/MIN KD11817</name>
-    <quantity>40</quantity>
+    <quantity>20</quantity>
     <ean>5903957003849</ean>
     <sku>KD11817</sku>
     <category_name>Przemysł/Materiały i akcesoria/Obróbka metali/Tarcze i ściernice</category_name>
@@ -13907,7 +13907,7 @@
   <product>
     <product_id>67636728</product_id>
     <name>ŚCISK STOLARSKI KĄTOWY KRZYŻOWY NAROŻNY 65X30MM IMADŁO KD1192</name>
-    <quantity>150</quantity>
+    <quantity>100</quantity>
     <ean>5903175338778</ean>
     <sku>KD1192</sku>
     <category_name></category_name>
@@ -14179,12 +14179,12 @@
   <product>
     <product_id>67636753</product_id>
     <name>SZCZYPCE KOMBINERKI DŁUGIE WYDŁUŻONE PROSTE 20CM KD10808</name>
-    <quantity>100</quantity>
+    <quantity>300</quantity>
     <ean>5901638119865</ean>
     <sku>KD10808</sku>
     <category_name>Dom i Ogród/Narzędzia/Szczypce, nożyce, obcęgi</category_name>
     <manufacturer_name>KRAFT&amp;DELE</manufacturer_name>
-    <price>15.54</price>
+    <price>17.76</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
     <weight>0.27</weight>
@@ -14995,7 +14995,7 @@
   <product>
     <product_id>67636836</product_id>
     <name>CĘGI SZCZYPCE STOLARSKIE OBCĘGI 8'' OBCINACZKI</name>
-    <quantity>20</quantity>
+    <quantity>15</quantity>
     <ean>5903957001081</ean>
     <sku>KD10819</sku>
     <category_name>Dom i Ogród/Narzędzia/Szczypce, nożyce, obcęgi</category_name>
@@ -15491,7 +15491,7 @@
   <product>
     <product_id>67636880</product_id>
     <name>SIEKIERA UNIWERSALNA Z TRZONKIEM FIBERGLASS 2000G</name>
-    <quantity>40</quantity>
+    <quantity>20</quantity>
     <ean>5903175337702</ean>
     <sku>KD288</sku>
     <category_name>Dom i Ogród/Ogród/Narzędzia ogrodnicze/Siekiery</category_name>
@@ -15875,7 +15875,7 @@
   <product>
     <product_id>67636916</product_id>
     <name>NASADKI KLUCZE E-TORX 1/2 9 SZTUK ZESTAW + WALIZKA</name>
-    <quantity>4</quantity>
+    <quantity>3</quantity>
     <ean>5901638118028</ean>
     <sku>KD10227</sku>
     <category_name>Motoryzacja/Narzędzia i sprzęt warsztatowy/Narzędzia ręczne/Klucze</category_name>
@@ -16179,7 +16179,7 @@
   <product>
     <product_id>67636951</product_id>
     <name>DALMIERZ LASEROWY MIERNIK CYFROWY KD10405 40m</name>
-    <quantity>100</quantity>
+    <quantity>0</quantity>
     <ean>5903957002095</ean>
     <sku>KD10405</sku>
     <category_name></category_name>
@@ -16371,7 +16371,7 @@
   <product>
     <product_id>67636981</product_id>
     <name>Przedłużacz 5m listwa 5 gniazd z włącznikiem</name>
-    <quantity>2</quantity>
+    <quantity>0</quantity>
     <ean>5903175334442</ean>
     <sku>KD4010</sku>
     <category_name>Dom i Ogród/Budownictwo i Akcesoria/Elektryka i akcesoria/Przedłużacze</category_name>
@@ -17475,7 +17475,7 @@
   <product>
     <product_id>67637113</product_id>
     <name>Spawarka do Plastiku 2w1 KD850 Zgrzewarka 4 DYSZE LED 60W</name>
-    <quantity>40</quantity>
+    <quantity>20</quantity>
     <ean>5901638111722</ean>
     <sku>KD850</sku>
     <category_name></category_name>
@@ -17763,7 +17763,7 @@
   <product>
     <product_id>67637145</product_id>
     <name>Szczypce Uniwersalne Kombinerki 180 mm Kraft&amp;Dele</name>
-    <quantity>0</quantity>
+    <quantity>300</quantity>
     <ean>5901638119797</ean>
     <sku>KD10801</sku>
     <category_name>Dom i Ogród/Narzędzia/Szczypce, nożyce, obcęgi</category_name>
@@ -18931,7 +18931,7 @@
   <product>
     <product_id>67637288</product_id>
     <name>SZCZYPCE ZACISKARKA DO ŁĄCZENIA PROFILI BLACHA KARTON GIPS KD10598 300MM</name>
-    <quantity>40</quantity>
+    <quantity>20</quantity>
     <ean>5903957002866</ean>
     <sku>KD10598</sku>
     <category_name></category_name>
@@ -18952,7 +18952,7 @@
     <sku>KD11754</sku>
     <category_name></category_name>
     <manufacturer_name>KRAFT&amp;DELE</manufacturer_name>
-    <price>72.93</price>
+    <price>78.54</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
     <weight>0</weight>
@@ -19587,12 +19587,12 @@
   <product>
     <product_id>67637374</product_id>
     <name>Silnik Elektryczny Jednofazowy 220V 1,5KW 1500W 1400RPM Kraft&amp;Dele</name>
-    <quantity>40</quantity>
+    <quantity>150</quantity>
     <ean>5901638116536</ean>
     <sku>KD1801</sku>
     <category_name></category_name>
     <manufacturer_name>KRAFT&amp;DELE</manufacturer_name>
-    <price>368.03</price>
+    <price>371.01</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
     <weight>0</weight>
@@ -20339,12 +20339,12 @@
   <product>
     <product_id>67637501</product_id>
     <name>Zagęszczarka Spalinowa Gruntu LONCIN 7HP 60 kg 4900vpm 700m2/h Kraft&amp;Dele</name>
-    <quantity>14</quantity>
+    <quantity>100</quantity>
     <ean>5903957012070</ean>
     <sku>KD1197</sku>
     <category_name></category_name>
     <manufacturer_name>KRAFT&amp;DELE</manufacturer_name>
-    <price>1544.96</price>
+    <price>1557.20</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
     <weight>60</weight>
@@ -20851,7 +20851,7 @@
   <product>
     <product_id>67637538</product_id>
     <name>Odkurzacz Przemysłowy do Popiołu 230V 2000 W 20 L Kraft&amp;Dele</name>
-    <quantity>40</quantity>
+    <quantity>20</quantity>
     <ean>5903175330093</ean>
     <sku>KD477</sku>
     <category_name></category_name>
@@ -21059,7 +21059,7 @@
   <product>
     <product_id>67637554</product_id>
     <name>Latarka Czołowa Zoom 2000X Led T6 Cree 4 Tryby Czołówka Bateria Kraft&amp;Dele</name>
-    <quantity>40</quantity>
+    <quantity>20</quantity>
     <ean>5903957002743</ean>
     <sku>KD1245</sku>
     <category_name></category_name>
@@ -22339,7 +22339,7 @@
   <product>
     <product_id>67637660</product_id>
     <name>Prasa Śrubowa do Montażu Demontażu Tulei Tulejek Sworzni 9 Elementów</name>
-    <quantity>200</quantity>
+    <quantity>150</quantity>
     <ean>5903957014289</ean>
     <sku>KD12508</sku>
     <category_name></category_name>
@@ -23027,7 +23027,7 @@
   <product>
     <product_id>67637719</product_id>
     <name>Podnośnik Warsztatowy Hydrauliczny Półautomatyczny 4000 Kg 400V Kraft&amp;Dele</name>
-    <quantity>10</quantity>
+    <quantity>9</quantity>
     <ean>5903957014586</ean>
     <sku>KD5810_2K</sku>
     <category_name></category_name>
@@ -24051,7 +24051,7 @@
   <product>
     <product_id>67637803</product_id>
     <name>Wałek Transmisyjny Przegubowy Przekaźnika Ciągnika Frezowany 90 cm</name>
-    <quantity>100</quantity>
+    <quantity>40</quantity>
     <ean>5903957015057</ean>
     <sku>KD10067</sku>
     <category_name></category_name>
@@ -24531,7 +24531,7 @@
   <product>
     <product_id>67637842</product_id>
     <name>Młot Udarowy SDS-Plus 230V 2800W 6J 4200 BPM Kraft&amp;Dele</name>
-    <quantity>300</quantity>
+    <quantity>250</quantity>
     <ean>5903957015156</ean>
     <sku>KD3210</sku>
     <category_name></category_name>
@@ -24947,7 +24947,7 @@
   <product>
     <product_id>67637879</product_id>
     <name>ROZRUCH 12/24V PROSTOWNIK SAMOCHODOWY MOCNY 50A KD1910</name>
-    <quantity>4</quantity>
+    <quantity>2</quantity>
     <ean>5901638113962</ean>
     <sku>KD1910</sku>
     <category_name></category_name>
@@ -25091,7 +25091,7 @@
   <product>
     <product_id>67637892</product_id>
     <name>Stopa wibracyjna KRAFT&amp;DELE, skoczek, ubijak, sil. Loncin 200F KD11910</name>
-    <quantity>20</quantity>
+    <quantity>100</quantity>
     <ean>5903175335814</ean>
     <sku>KD11910</sku>
     <category_name></category_name>
@@ -25139,7 +25139,7 @@
   <product>
     <product_id>67637897</product_id>
     <name>AGREGAT PRĄDOTWÓRCZY PRĄDU KRAFT&amp;DELE 8000W DOUBLE POWER AVR KD126</name>
-    <quantity>11</quantity>
+    <quantity>10</quantity>
     <ean>5903957000077</ean>
     <sku>KD126</sku>
     <category_name>Dom i Ogród/Narzędzia/Agregaty prądotwórcze</category_name>
@@ -25155,7 +25155,7 @@
   <product>
     <product_id>67637898</product_id>
     <name>Łańcuch do piły STIHL 14" 35cm 3/8 1,3MM 50 Ostry Wytrzymały Jakościowy</name>
-    <quantity>40</quantity>
+    <quantity>11</quantity>
     <ean>5903957009148</ean>
     <sku>KD11950</sku>
     <category_name></category_name>
@@ -26307,7 +26307,7 @@
   <product>
     <product_id>67637993</product_id>
     <name>Zestaw Blokowania Kół Rozrządu FORD 1.0 ECOBOOST ECONETIK SCTI FIESTA FOCUS</name>
-    <quantity>12</quantity>
+    <quantity>11</quantity>
     <ean>5903957014739</ean>
     <sku>KD12518</sku>
     <category_name></category_name>
@@ -26467,12 +26467,12 @@
   <product>
     <product_id>67638013</product_id>
     <name>DOKŁADNA SUWMIARKA TRADYCYJNA 0-150 mm MANUALNA ANALOGOWA STAL + ETUI</name>
-    <quantity>0</quantity>
+    <quantity>300</quantity>
     <ean>5903175330130</ean>
     <sku>KD10298</sku>
     <category_name></category_name>
     <manufacturer_name>KRAFT&amp;DELE</manufacturer_name>
-    <price>20.57</price>
+    <price>24.31</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
     <weight>0.5</weight>
@@ -28707,7 +28707,7 @@
   <product>
     <product_id>67638258</product_id>
     <name>KOMPRESOR SPRĘŻARKA 100L Olejowy Solidny 8bar Mocny 2,8KW Wytrzymały KD1472</name>
-    <quantity>18</quantity>
+    <quantity>17</quantity>
     <ean>5901638118448</ean>
     <sku>KD1472</sku>
     <category_name></category_name>
@@ -28739,12 +28739,12 @@
   <product>
     <product_id>67638260</product_id>
     <name>SZCZYPCE WYDŁUŻONE PROSTE KOMBINERKI DŁUGIE 250mm UNIWERSALNE MOCNE SOLIDNE</name>
-    <quantity>0</quantity>
+    <quantity>300</quantity>
     <ean>5903957001036</ean>
     <sku>KD10814</sku>
     <category_name>Dom i Ogród/Narzędzia/Szczypce, nożyce, obcęgi</category_name>
     <manufacturer_name>KRAFT&amp;DELE</manufacturer_name>
-    <price>19.98</price>
+    <price>19.64</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
     <weight>1</weight>
