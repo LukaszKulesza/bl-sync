@@ -4345,7 +4345,7 @@
     <sku>SPP25-13-400</sku>
     <name>Uchwyt ręczny MIG 250 4m seria SPARTUS Pro</name>
     <ean>5900391200841</ean>
-    <quantity>50</quantity>
+    <quantity>49</quantity>
     <price>481.27</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -20665,7 +20665,7 @@
     <sku>XPROMIG501-15-400</sku>
     <name>Uchwyt ręczny MIG 501 4m seria SPARTUS XPro</name>
     <ean>5900391009932</ean>
-    <quantity>266</quantity>
+    <quantity>263</quantity>
     <price>676.90</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -21942,6 +21942,16 @@
   </product>
   <product>
     <product_id></product_id>
+    <sku>XPROTIG220PACDC-PAK-170-4</sku>
+    <name>XPro TIG 220P AC/DC w pakiecie z uchwytem mini SPP 170 - 4m</name>
+    <ean></ean>
+    <quantity>20</quantity>
+    <price>4938.58</price>
+    <purchase_price></purchase_price>
+    <tax_rate>23%</tax_rate>
+  </product>
+  <product>
+    <product_id></product_id>
     <sku>SP16N-10-10-750</sku>
     <name>Stół spawalniczy SPARTUS MAXIMUS 3D 1000x1000x100mm | system D16 | 4 nogi z kółkami L=750mm</name>
     <ean></ean>
@@ -21987,6 +21997,106 @@
     <ean></ean>
     <quantity>8</quantity>
     <price>32538.05</price>
+    <purchase_price></purchase_price>
+    <tax_rate>23%</tax_rate>
+  </product>
+  <product>
+    <product_id></product_id>
+    <sku>080-10-U1000N-SET2</sku>
+    <name>Przyłbica spawalnicza SPARTUS Ultra 1000 z systemem nawiewowym - WIELOPAK</name>
+    <ean></ean>
+    <quantity>10</quantity>
+    <price>9594.87</price>
+    <purchase_price></purchase_price>
+    <tax_rate>23%</tax_rate>
+  </product>
+  <product>
+    <product_id></product_id>
+    <sku>080-10-U1000N-SET4</sku>
+    <name>Przyłbica spawalnicza SPARTUS Ultra 1000 z systemem nawiewowym - MEGAPAKA</name>
+    <ean></ean>
+    <quantity>10</quantity>
+    <price>19189.73</price>
+    <purchase_price></purchase_price>
+    <tax_rate>23%</tax_rate>
+  </product>
+  <product>
+    <product_id></product_id>
+    <sku>080-10-U2000N-SET2</sku>
+    <name>Przyłbica spawalnicza SPARTUS Ultra 2000 z systemem nawiewowym - WIELOPAK</name>
+    <ean></ean>
+    <quantity>10</quantity>
+    <price>11288.58</price>
+    <purchase_price></purchase_price>
+    <tax_rate>23%</tax_rate>
+  </product>
+  <product>
+    <product_id></product_id>
+    <sku>080-10-U2000N-SET4</sku>
+    <name>Przyłbica spawalnicza SPARTUS Ultra 2000 z systemem nawiewowym - MEGAPAKA</name>
+    <ean></ean>
+    <quantity>10</quantity>
+    <price>22577.15</price>
+    <purchase_price></purchase_price>
+    <tax_rate>23%</tax_rate>
+  </product>
+  <product>
+    <product_id></product_id>
+    <sku>080-10-U2300N-SET2</sku>
+    <name>Przyłbica spawalnicza SPARTUS Ultra 2300 z systemem nawiewowym - WIELOPAK</name>
+    <ean></ean>
+    <quantity>10</quantity>
+    <price>11288.58</price>
+    <purchase_price></purchase_price>
+    <tax_rate>23%</tax_rate>
+  </product>
+  <product>
+    <product_id></product_id>
+    <sku>080-10-U2300N-SET4</sku>
+    <name>Przyłbica spawalnicza SPARTUS Ultra 2300 z systemem nawiewowym - MEGAPAKA</name>
+    <ean></ean>
+    <quantity>10</quantity>
+    <price>22577.15</price>
+    <purchase_price></purchase_price>
+    <tax_rate>23%</tax_rate>
+  </product>
+  <product>
+    <product_id></product_id>
+    <sku>XPROTIG220PACDC-PAK-170-8</sku>
+    <name>XPro TIG 220P AC/DC w pakiecie z uchwytem mini SPP 170 - 8m</name>
+    <ean></ean>
+    <quantity>20</quantity>
+    <price>5079.72</price>
+    <purchase_price></purchase_price>
+    <tax_rate>23%</tax_rate>
+  </product>
+  <product>
+    <product_id></product_id>
+    <sku>XPROTIG220PACDC</sku>
+    <name>XPro TIG 220P AC/DC</name>
+    <ean></ean>
+    <quantity>20</quantity>
+    <price>4515.15</price>
+    <purchase_price></purchase_price>
+    <tax_rate>23%</tax_rate>
+  </product>
+  <product>
+    <product_id></product_id>
+    <sku>XPROTIG220PACDC-PAK-17-4</sku>
+    <name>XPro TIG 220P AC/DC w pakiecie z uchwytem mini SPP17 - 4m</name>
+    <ean></ean>
+    <quantity>20</quantity>
+    <price>4938.58</price>
+    <purchase_price></purchase_price>
+    <tax_rate>23%</tax_rate>
+  </product>
+  <product>
+    <product_id></product_id>
+    <sku>XPROTIG220PACDC-PAK-17-8</sku>
+    <name>XPro TIG 220P AC/DC w pakiecie z uchwytem mini SPP17 - 8m</name>
+    <ean></ean>
+    <quantity>20</quantity>
+    <price>5079.72</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
   </product>
