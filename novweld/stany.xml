@@ -315,7 +315,7 @@
     <sku>50020</sku>
     <name>Tester przepływu gazu</name>
     <ean>5900391208502</ean>
-    <quantity>1125</quantity>
+    <quantity>1085</quantity>
     <price>25.84</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -915,7 +915,7 @@
     <sku>SP100W20</sku>
     <name>Elektroda wolframowa (WP zielona) - 2.0 × 175 mm</name>
     <ean>5900391200247</ean>
-    <quantity>430</quantity>
+    <quantity>420</quantity>
     <price>31.64</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -925,7 +925,7 @@
     <sku>SP100W20</sku>
     <name>Elektroda wolframowa (WP zielona) - 2.0 × 175 mm</name>
     <ean>5900391200247</ean>
-    <quantity>430</quantity>
+    <quantity>420</quantity>
     <price>31.64</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -935,7 +935,7 @@
     <sku>SP100W20</sku>
     <name>Elektroda wolframowa (WP zielona) - 2.0 × 175 mm</name>
     <ean>5900391200247</ean>
-    <quantity>430</quantity>
+    <quantity>420</quantity>
     <price>31.64</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -1715,7 +1715,7 @@
     <sku>SP15RE10</sku>
     <name>Elektroda wolframowa (WLa15 złota) 1.0 × 175 mm</name>
     <ean>5900391200094</ean>
-    <quantity>110</quantity>
+    <quantity>90</quantity>
     <price>11.94</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -1725,7 +1725,7 @@
     <sku>SP15RE10</sku>
     <name>Elektroda wolframowa (WLa15 złota) 1.0 × 175 mm</name>
     <ean>5900391200094</ean>
-    <quantity>110</quantity>
+    <quantity>90</quantity>
     <price>11.94</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -1735,7 +1735,7 @@
     <sku>SP15RE10</sku>
     <name>Elektroda wolframowa (WLa15 złota) 1.0 × 175 mm</name>
     <ean>5900391200094</ean>
-    <quantity>110</quantity>
+    <quantity>90</quantity>
     <price>11.94</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -2615,7 +2615,7 @@
     <sku>SP20WL32</sku>
     <name>Elektroda wolframowa (WLa20 niebieska) 3.2 × 175 mm</name>
     <ean>5900391200193</ean>
-    <quantity>40</quantity>
+    <quantity>30</quantity>
     <price>80.79</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -2715,7 +2715,7 @@
     <sku>SP145-02-075</sku>
     <name>Magnetyczny uchwyt spawalniczy strzałka udźwig: 33kg</name>
     <ean>5900391205532</ean>
-    <quantity>91</quantity>
+    <quantity>90</quantity>
     <price>38.23</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -2735,7 +2735,7 @@
     <sku>SP145-04-030</sku>
     <name>Magnetyczny uchwyt spawalniczy z wyłącznikiem udźwig: 13,5kg</name>
     <ean>5900391205556</ean>
-    <quantity>7</quantity>
+    <quantity>6</quantity>
     <price>126.24</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -2745,7 +2745,7 @@
     <sku>SP145-04-055</sku>
     <name>Magnetyczny uchwyt spawalniczy z wyłącznikiem udźwig: 25kg</name>
     <ean>5900391205563</ean>
-    <quantity>4</quantity>
+    <quantity>3</quantity>
     <price>201.99</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -2765,7 +2765,7 @@
     <sku>SP130-01-001</sku>
     <name>Spray antyodpryskowy 400ml</name>
     <ean>5900391226001</ean>
-    <quantity>454</quantity>
+    <quantity>1766</quantity>
     <price>24.97</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -2795,7 +2795,7 @@
     <sku>SP130-01-003</sku>
     <name>Płyn antyodpryskowy 20l</name>
     <ean>5900391226025</ean>
-    <quantity>27</quantity>
+    <quantity>25</quantity>
     <price>289.40</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -4095,7 +4095,7 @@
     <sku>NW18CGG</sku>
     <name>Izolator teflonowy [do palnika 17/18/26] - krótka soczewka</name>
     <ean>5900391221501</ean>
-    <quantity>410</quantity>
+    <quantity>370</quantity>
     <price>25.12</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -4155,7 +4155,7 @@
     <sku>EASYTIG205EPULSEDC-PAK-17-4</sku>
     <name>EasyTIG 205P DC w pakiecie z uchwytem mini SPE 17 - 4m</name>
     <ean>5900391242544</ean>
-    <quantity>126</quantity>
+    <quantity>123</quantity>
     <price>2608.67</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -4345,7 +4345,7 @@
     <sku>SPP25-13-400</sku>
     <name>Uchwyt ręczny MIG 250 4m seria SPARTUS Pro</name>
     <ean>5900391200841</ean>
-    <quantity>49</quantity>
+    <quantity>48</quantity>
     <price>481.27</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -6725,7 +6725,7 @@
     <sku>080-10-901-ET</sku>
     <name>Osłona zewnętrzna filtra przyłbicy [transparentna]</name>
     <ean>5900391011829</ean>
-    <quantity>5820</quantity>
+    <quantity>5787</quantity>
     <price>19.96</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -8715,7 +8715,7 @@
     <sku>SP010-90-001</sku>
     <name>Kamień do czyszczenia 200x50x25mm</name>
     <ean>5900391242964</ean>
-    <quantity>1</quantity>
+    <quantity>0</quantity>
     <price>71.18</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -8735,7 +8735,7 @@
     <sku>SP010-90-004</sku>
     <name>Szczotka nylonowa 30x80mm</name>
     <ean>5900391242995</ean>
-    <quantity>52</quantity>
+    <quantity>50</quantity>
     <price>48.22</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -8745,7 +8745,7 @@
     <sku>SP010-90-004</sku>
     <name>Szczotka nylonowa 30x80mm</name>
     <ean>5900391242995</ean>
-    <quantity>52</quantity>
+    <quantity>50</quantity>
     <price>48.22</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -9895,7 +9895,7 @@
     <sku>NW17-33D10-24-kpl</sku>
     <name>QUARTZSYSTEM – soczewka wersja krótka 17/18/26 [na elektrodę 2.4mm]</name>
     <ean>5900391000373</ean>
-    <quantity>92</quantity>
+    <quantity>91</quantity>
     <price>61.88</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -9995,7 +9995,7 @@
     <sku>SP010-23-300L</sku>
     <name>[OUTLET] Kątownik 275x100x300 (lewy)</name>
     <ean>5900391231838</ean>
-    <quantity>11</quantity>
+    <quantity>9</quantity>
     <price>1159.90</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10005,7 +10005,7 @@
     <sku>SP010-23-300L</sku>
     <name>[OUTLET] Kątownik 275x100x300 (lewy)</name>
     <ean>5900391231838</ean>
-    <quantity>11</quantity>
+    <quantity>9</quantity>
     <price>1159.90</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10015,7 +10015,7 @@
     <sku>SP010-23-300L</sku>
     <name>[OUTLET] Kątownik 275x100x300 (lewy)</name>
     <ean>5900391231838</ean>
-    <quantity>11</quantity>
+    <quantity>9</quantity>
     <price>1159.90</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10025,7 +10025,7 @@
     <sku>SP010-23-300L</sku>
     <name>[OUTLET] Kątownik 275x100x300 (lewy)</name>
     <ean>5900391231838</ean>
-    <quantity>11</quantity>
+    <quantity>9</quantity>
     <price>1159.90</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10035,7 +10035,7 @@
     <sku>SP010-23-300L</sku>
     <name>[OUTLET] Kątownik 275x100x300 (lewy)</name>
     <ean>5900391231838</ean>
-    <quantity>11</quantity>
+    <quantity>9</quantity>
     <price>1159.90</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10045,7 +10045,7 @@
     <sku>SP010-23-300L</sku>
     <name>[OUTLET] Kątownik 275x100x300 (lewy)</name>
     <ean>5900391231838</ean>
-    <quantity>11</quantity>
+    <quantity>9</quantity>
     <price>1159.90</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10055,7 +10055,7 @@
     <sku>SP010-23-300L</sku>
     <name>[OUTLET] Kątownik 275x100x300 (lewy)</name>
     <ean>5900391231838</ean>
-    <quantity>11</quantity>
+    <quantity>9</quantity>
     <price>1159.90</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10065,7 +10065,7 @@
     <sku>SP010-23-300L</sku>
     <name>[OUTLET] Kątownik 275x100x300 (lewy)</name>
     <ean>5900391231838</ean>
-    <quantity>11</quantity>
+    <quantity>9</quantity>
     <price>1159.90</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10075,7 +10075,7 @@
     <sku>SP010-23-300L</sku>
     <name>[OUTLET] Kątownik 275x100x300 (lewy)</name>
     <ean>5900391231838</ean>
-    <quantity>11</quantity>
+    <quantity>9</quantity>
     <price>1159.90</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10085,7 +10085,7 @@
     <sku>SP010-23-300L</sku>
     <name>[OUTLET] Kątownik 275x100x300 (lewy)</name>
     <ean>5900391231838</ean>
-    <quantity>11</quantity>
+    <quantity>9</quantity>
     <price>1159.90</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10095,7 +10095,7 @@
     <sku>SP010-23-300R</sku>
     <name>[OUTLET] Kątownik 275x100x300 (prawy)</name>
     <ean>5900391231845</ean>
-    <quantity>11</quantity>
+    <quantity>9</quantity>
     <price>1159.90</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10105,7 +10105,7 @@
     <sku>SP010-23-300R</sku>
     <name>[OUTLET] Kątownik 275x100x300 (prawy)</name>
     <ean>5900391231845</ean>
-    <quantity>11</quantity>
+    <quantity>9</quantity>
     <price>1159.90</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10115,7 +10115,7 @@
     <sku>SP010-23-300R</sku>
     <name>[OUTLET] Kątownik 275x100x300 (prawy)</name>
     <ean>5900391231845</ean>
-    <quantity>11</quantity>
+    <quantity>9</quantity>
     <price>1159.90</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10125,7 +10125,7 @@
     <sku>SP010-23-300R</sku>
     <name>[OUTLET] Kątownik 275x100x300 (prawy)</name>
     <ean>5900391231845</ean>
-    <quantity>11</quantity>
+    <quantity>9</quantity>
     <price>1159.90</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10135,7 +10135,7 @@
     <sku>SP010-23-300R</sku>
     <name>[OUTLET] Kątownik 275x100x300 (prawy)</name>
     <ean>5900391231845</ean>
-    <quantity>11</quantity>
+    <quantity>9</quantity>
     <price>1159.90</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10145,7 +10145,7 @@
     <sku>SP010-23-300R</sku>
     <name>[OUTLET] Kątownik 275x100x300 (prawy)</name>
     <ean>5900391231845</ean>
-    <quantity>11</quantity>
+    <quantity>9</quantity>
     <price>1159.90</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10155,7 +10155,7 @@
     <sku>SP010-23-300R</sku>
     <name>[OUTLET] Kątownik 275x100x300 (prawy)</name>
     <ean>5900391231845</ean>
-    <quantity>11</quantity>
+    <quantity>9</quantity>
     <price>1159.90</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10165,7 +10165,7 @@
     <sku>SP010-23-300R</sku>
     <name>[OUTLET] Kątownik 275x100x300 (prawy)</name>
     <ean>5900391231845</ean>
-    <quantity>11</quantity>
+    <quantity>9</quantity>
     <price>1159.90</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10175,7 +10175,7 @@
     <sku>SP010-23-300R</sku>
     <name>[OUTLET] Kątownik 275x100x300 (prawy)</name>
     <ean>5900391231845</ean>
-    <quantity>11</quantity>
+    <quantity>9</quantity>
     <price>1159.90</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10185,7 +10185,7 @@
     <sku>SP010-23-300R</sku>
     <name>[OUTLET] Kątownik 275x100x300 (prawy)</name>
     <ean>5900391231845</ean>
-    <quantity>11</quantity>
+    <quantity>9</quantity>
     <price>1159.90</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10195,7 +10195,7 @@
     <sku>SP010-23-600L</sku>
     <name>[OUTLET] Kątownik 375x100x600 (lewy)</name>
     <ean>5900391231852</ean>
-    <quantity>20</quantity>
+    <quantity>18</quantity>
     <price>1855.95</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10205,7 +10205,7 @@
     <sku>SP010-23-600L</sku>
     <name>[OUTLET] Kątownik 375x100x600 (lewy)</name>
     <ean>5900391231852</ean>
-    <quantity>20</quantity>
+    <quantity>18</quantity>
     <price>1855.95</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10215,7 +10215,7 @@
     <sku>SP010-23-600L</sku>
     <name>[OUTLET] Kątownik 375x100x600 (lewy)</name>
     <ean>5900391231852</ean>
-    <quantity>20</quantity>
+    <quantity>18</quantity>
     <price>1855.95</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10225,7 +10225,7 @@
     <sku>SP010-23-600L</sku>
     <name>[OUTLET] Kątownik 375x100x600 (lewy)</name>
     <ean>5900391231852</ean>
-    <quantity>20</quantity>
+    <quantity>18</quantity>
     <price>1855.95</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10235,7 +10235,7 @@
     <sku>SP010-23-600L</sku>
     <name>[OUTLET] Kątownik 375x100x600 (lewy)</name>
     <ean>5900391231852</ean>
-    <quantity>20</quantity>
+    <quantity>18</quantity>
     <price>1855.95</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10245,7 +10245,7 @@
     <sku>SP010-23-600L</sku>
     <name>[OUTLET] Kątownik 375x100x600 (lewy)</name>
     <ean>5900391231852</ean>
-    <quantity>20</quantity>
+    <quantity>18</quantity>
     <price>1855.95</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10255,7 +10255,7 @@
     <sku>SP010-23-600L</sku>
     <name>[OUTLET] Kątownik 375x100x600 (lewy)</name>
     <ean>5900391231852</ean>
-    <quantity>20</quantity>
+    <quantity>18</quantity>
     <price>1855.95</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10265,7 +10265,7 @@
     <sku>SP010-23-600L</sku>
     <name>[OUTLET] Kątownik 375x100x600 (lewy)</name>
     <ean>5900391231852</ean>
-    <quantity>20</quantity>
+    <quantity>18</quantity>
     <price>1855.95</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10275,7 +10275,7 @@
     <sku>SP010-23-600L</sku>
     <name>[OUTLET] Kątownik 375x100x600 (lewy)</name>
     <ean>5900391231852</ean>
-    <quantity>20</quantity>
+    <quantity>18</quantity>
     <price>1855.95</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10285,7 +10285,7 @@
     <sku>SP010-23-600L</sku>
     <name>[OUTLET] Kątownik 375x100x600 (lewy)</name>
     <ean>5900391231852</ean>
-    <quantity>20</quantity>
+    <quantity>18</quantity>
     <price>1855.95</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10295,7 +10295,7 @@
     <sku>SP010-23-800L</sku>
     <name>[OUTLET] Kątownik 375x100x800 (lewy)</name>
     <ean>5900391231876</ean>
-    <quantity>6</quantity>
+    <quantity>4</quantity>
     <price>2242.64</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10305,7 +10305,7 @@
     <sku>SP010-23-800L</sku>
     <name>[OUTLET] Kątownik 375x100x800 (lewy)</name>
     <ean>5900391231876</ean>
-    <quantity>6</quantity>
+    <quantity>4</quantity>
     <price>2242.64</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10315,7 +10315,7 @@
     <sku>SP010-23-800L</sku>
     <name>[OUTLET] Kątownik 375x100x800 (lewy)</name>
     <ean>5900391231876</ean>
-    <quantity>6</quantity>
+    <quantity>4</quantity>
     <price>2242.64</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10325,7 +10325,7 @@
     <sku>SP010-23-800L</sku>
     <name>[OUTLET] Kątownik 375x100x800 (lewy)</name>
     <ean>5900391231876</ean>
-    <quantity>6</quantity>
+    <quantity>4</quantity>
     <price>2242.64</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10335,7 +10335,7 @@
     <sku>SP010-23-800L</sku>
     <name>[OUTLET] Kątownik 375x100x800 (lewy)</name>
     <ean>5900391231876</ean>
-    <quantity>6</quantity>
+    <quantity>4</quantity>
     <price>2242.64</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10345,7 +10345,7 @@
     <sku>SP010-23-800L</sku>
     <name>[OUTLET] Kątownik 375x100x800 (lewy)</name>
     <ean>5900391231876</ean>
-    <quantity>6</quantity>
+    <quantity>4</quantity>
     <price>2242.64</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10355,7 +10355,7 @@
     <sku>SP010-23-800L</sku>
     <name>[OUTLET] Kątownik 375x100x800 (lewy)</name>
     <ean>5900391231876</ean>
-    <quantity>6</quantity>
+    <quantity>4</quantity>
     <price>2242.64</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10365,7 +10365,7 @@
     <sku>SP010-23-800L</sku>
     <name>[OUTLET] Kątownik 375x100x800 (lewy)</name>
     <ean>5900391231876</ean>
-    <quantity>6</quantity>
+    <quantity>4</quantity>
     <price>2242.64</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10375,7 +10375,7 @@
     <sku>SP010-23-800L</sku>
     <name>[OUTLET] Kątownik 375x100x800 (lewy)</name>
     <ean>5900391231876</ean>
-    <quantity>6</quantity>
+    <quantity>4</quantity>
     <price>2242.64</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10385,7 +10385,7 @@
     <sku>SP010-23-800L</sku>
     <name>[OUTLET] Kątownik 375x100x800 (lewy)</name>
     <ean>5900391231876</ean>
-    <quantity>6</quantity>
+    <quantity>4</quantity>
     <price>2242.64</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10395,7 +10395,7 @@
     <sku>SP010-23-800R</sku>
     <name>[OUTLET] Kątownik 375x100x800 (prawy)</name>
     <ean>5900391231883</ean>
-    <quantity>5</quantity>
+    <quantity>2</quantity>
     <price>2242.64</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10405,7 +10405,7 @@
     <sku>SP010-23-800R</sku>
     <name>[OUTLET] Kątownik 375x100x800 (prawy)</name>
     <ean>5900391231883</ean>
-    <quantity>5</quantity>
+    <quantity>2</quantity>
     <price>2242.64</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10415,7 +10415,7 @@
     <sku>SP010-23-800R</sku>
     <name>[OUTLET] Kątownik 375x100x800 (prawy)</name>
     <ean>5900391231883</ean>
-    <quantity>5</quantity>
+    <quantity>2</quantity>
     <price>2242.64</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10425,7 +10425,7 @@
     <sku>SP010-23-800R</sku>
     <name>[OUTLET] Kątownik 375x100x800 (prawy)</name>
     <ean>5900391231883</ean>
-    <quantity>5</quantity>
+    <quantity>2</quantity>
     <price>2242.64</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10435,7 +10435,7 @@
     <sku>SP010-23-800R</sku>
     <name>[OUTLET] Kątownik 375x100x800 (prawy)</name>
     <ean>5900391231883</ean>
-    <quantity>5</quantity>
+    <quantity>2</quantity>
     <price>2242.64</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10445,7 +10445,7 @@
     <sku>SP010-23-800R</sku>
     <name>[OUTLET] Kątownik 375x100x800 (prawy)</name>
     <ean>5900391231883</ean>
-    <quantity>5</quantity>
+    <quantity>2</quantity>
     <price>2242.64</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10455,7 +10455,7 @@
     <sku>SP010-23-800R</sku>
     <name>[OUTLET] Kątownik 375x100x800 (prawy)</name>
     <ean>5900391231883</ean>
-    <quantity>5</quantity>
+    <quantity>2</quantity>
     <price>2242.64</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10465,7 +10465,7 @@
     <sku>SP010-23-800R</sku>
     <name>[OUTLET] Kątownik 375x100x800 (prawy)</name>
     <ean>5900391231883</ean>
-    <quantity>5</quantity>
+    <quantity>2</quantity>
     <price>2242.64</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10475,7 +10475,7 @@
     <sku>SP010-23-800R</sku>
     <name>[OUTLET] Kątownik 375x100x800 (prawy)</name>
     <ean>5900391231883</ean>
-    <quantity>5</quantity>
+    <quantity>2</quantity>
     <price>2242.64</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10485,7 +10485,7 @@
     <sku>SP010-23-800R</sku>
     <name>[OUTLET] Kątownik 375x100x800 (prawy)</name>
     <ean>5900391231883</ean>
-    <quantity>5</quantity>
+    <quantity>2</quantity>
     <price>2242.64</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10495,7 +10495,7 @@
     <sku>SP010-30-002</sku>
     <name>[OUTLET] Kątownik 175x50x175 otwór/slot</name>
     <ean>5900391231920</ean>
-    <quantity>81</quantity>
+    <quantity>69</quantity>
     <price>270.08</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10505,7 +10505,7 @@
     <sku>SP010-30-002</sku>
     <name>[OUTLET] Kątownik 175x50x175 otwór/slot</name>
     <ean>5900391231920</ean>
-    <quantity>81</quantity>
+    <quantity>69</quantity>
     <price>270.08</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10515,7 +10515,7 @@
     <sku>SP010-30-002</sku>
     <name>[OUTLET] Kątownik 175x50x175 otwór/slot</name>
     <ean>5900391231920</ean>
-    <quantity>81</quantity>
+    <quantity>69</quantity>
     <price>270.08</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10525,7 +10525,7 @@
     <sku>SP010-30-002</sku>
     <name>[OUTLET] Kątownik 175x50x175 otwór/slot</name>
     <ean>5900391231920</ean>
-    <quantity>81</quantity>
+    <quantity>69</quantity>
     <price>270.08</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10535,7 +10535,7 @@
     <sku>SP010-30-002</sku>
     <name>[OUTLET] Kątownik 175x50x175 otwór/slot</name>
     <ean>5900391231920</ean>
-    <quantity>81</quantity>
+    <quantity>69</quantity>
     <price>270.08</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10545,7 +10545,7 @@
     <sku>SP010-30-002</sku>
     <name>[OUTLET] Kątownik 175x50x175 otwór/slot</name>
     <ean>5900391231920</ean>
-    <quantity>81</quantity>
+    <quantity>69</quantity>
     <price>270.08</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10555,7 +10555,7 @@
     <sku>SP010-30-002</sku>
     <name>[OUTLET] Kątownik 175x50x175 otwór/slot</name>
     <ean>5900391231920</ean>
-    <quantity>81</quantity>
+    <quantity>69</quantity>
     <price>270.08</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10565,7 +10565,7 @@
     <sku>SP010-30-002</sku>
     <name>[OUTLET] Kątownik 175x50x175 otwór/slot</name>
     <ean>5900391231920</ean>
-    <quantity>81</quantity>
+    <quantity>69</quantity>
     <price>270.08</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10575,7 +10575,7 @@
     <sku>SP010-30-002</sku>
     <name>[OUTLET] Kątownik 175x50x175 otwór/slot</name>
     <ean>5900391231920</ean>
-    <quantity>81</quantity>
+    <quantity>69</quantity>
     <price>270.08</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10585,7 +10585,7 @@
     <sku>SP010-30-002</sku>
     <name>[OUTLET] Kątownik 175x50x175 otwór/slot</name>
     <ean>5900391231920</ean>
-    <quantity>81</quantity>
+    <quantity>69</quantity>
     <price>270.08</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10595,7 +10595,7 @@
     <sku>SP010-30-005</sku>
     <name>[OUTLET] Kątownik 175x50x75mm otwór/slot</name>
     <ean>5900391231951</ean>
-    <quantity>145</quantity>
+    <quantity>137</quantity>
     <price>270.08</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10605,7 +10605,7 @@
     <sku>SP010-30-005</sku>
     <name>[OUTLET] Kątownik 175x50x75mm otwór/slot</name>
     <ean>5900391231951</ean>
-    <quantity>145</quantity>
+    <quantity>137</quantity>
     <price>270.08</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10615,7 +10615,7 @@
     <sku>SP010-30-005</sku>
     <name>[OUTLET] Kątownik 175x50x75mm otwór/slot</name>
     <ean>5900391231951</ean>
-    <quantity>145</quantity>
+    <quantity>137</quantity>
     <price>270.08</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10625,7 +10625,7 @@
     <sku>SP010-30-005</sku>
     <name>[OUTLET] Kątownik 175x50x75mm otwór/slot</name>
     <ean>5900391231951</ean>
-    <quantity>145</quantity>
+    <quantity>137</quantity>
     <price>270.08</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10635,7 +10635,7 @@
     <sku>SP010-30-005</sku>
     <name>[OUTLET] Kątownik 175x50x75mm otwór/slot</name>
     <ean>5900391231951</ean>
-    <quantity>145</quantity>
+    <quantity>137</quantity>
     <price>270.08</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10645,7 +10645,7 @@
     <sku>SP010-30-005</sku>
     <name>[OUTLET] Kątownik 175x50x75mm otwór/slot</name>
     <ean>5900391231951</ean>
-    <quantity>145</quantity>
+    <quantity>137</quantity>
     <price>270.08</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10655,7 +10655,7 @@
     <sku>SP010-30-005</sku>
     <name>[OUTLET] Kątownik 175x50x75mm otwór/slot</name>
     <ean>5900391231951</ean>
-    <quantity>145</quantity>
+    <quantity>137</quantity>
     <price>270.08</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10665,7 +10665,7 @@
     <sku>SP010-30-005</sku>
     <name>[OUTLET] Kątownik 175x50x75mm otwór/slot</name>
     <ean>5900391231951</ean>
-    <quantity>145</quantity>
+    <quantity>137</quantity>
     <price>270.08</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10675,7 +10675,7 @@
     <sku>SP010-30-005</sku>
     <name>[OUTLET] Kątownik 175x50x75mm otwór/slot</name>
     <ean>5900391231951</ean>
-    <quantity>145</quantity>
+    <quantity>137</quantity>
     <price>270.08</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10685,7 +10685,7 @@
     <sku>SP010-30-005</sku>
     <name>[OUTLET] Kątownik 175x50x75mm otwór/slot</name>
     <ean>5900391231951</ean>
-    <quantity>145</quantity>
+    <quantity>137</quantity>
     <price>270.08</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10735,7 +10735,7 @@
     <sku>SP010-50-014</sku>
     <name>Stoper 500x100x25 otwory/slot</name>
     <ean>5900391232217</ean>
-    <quantity>17</quantity>
+    <quantity>9</quantity>
     <price>540.37</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10745,7 +10745,7 @@
     <sku>SP010-50-014</sku>
     <name>Stoper 500x100x25 otwory/slot</name>
     <ean>5900391232217</ean>
-    <quantity>17</quantity>
+    <quantity>9</quantity>
     <price>540.37</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10755,7 +10755,7 @@
     <sku>SP010-50-014</sku>
     <name>Stoper 500x100x25 otwory/slot</name>
     <ean>5900391232217</ean>
-    <quantity>17</quantity>
+    <quantity>9</quantity>
     <price>540.37</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10765,7 +10765,7 @@
     <sku>SP010-50-014</sku>
     <name>Stoper 500x100x25 otwory/slot</name>
     <ean>5900391232217</ean>
-    <quantity>17</quantity>
+    <quantity>9</quantity>
     <price>540.37</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10775,7 +10775,7 @@
     <sku>SP010-90-003A</sku>
     <name>[OUTLET] Klucz imbusowy sześciokątny 150mm</name>
     <ean>5900391242988</ean>
-    <quantity>114</quantity>
+    <quantity>111</quantity>
     <price>70.29</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10795,7 +10795,7 @@
     <sku>NW9-53CS12-24-KPL</sku>
     <name>CUPSystem - zestaw 9/20 dysza kielich #12 [na elektrodę 2.4]</name>
     <ean>5900391000113</ean>
-    <quantity>41</quantity>
+    <quantity>33</quantity>
     <price>158.85</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10845,7 +10845,7 @@
     <sku>NW17-54CS12-24-KPL</sku>
     <name>CUPSystem - zestaw 17/18/26 dysza kielich #12 [na elektrodę 2.4]</name>
     <ean>5900391000212</ean>
-    <quantity>13</quantity>
+    <quantity>11</quantity>
     <price>185.62</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11155,7 +11155,7 @@
     <sku>080-10-430XT</sku>
     <name>Przyłbica SPARTUS Pro 430XT (filtr true color)</name>
     <ean>5900391001028</ean>
-    <quantity>35</quantity>
+    <quantity>19</quantity>
     <price>612.59</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11175,7 +11175,7 @@
     <sku>080-10-930XT</sku>
     <name>Przyłbica SPARTUS Pro 930XT (filtr true color)</name>
     <ean>5900391001035</ean>
-    <quantity>99</quantity>
+    <quantity>74</quantity>
     <price>634.46</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -12245,7 +12245,7 @@
     <sku>NW9-26D23-24-KPL</sku>
     <name>CUPSystem - zestaw 9/20 dysza kielich #14 [na elektrodę 2.4]</name>
     <ean>5900391243947</ean>
-    <quantity>153</quantity>
+    <quantity>148</quantity>
     <price>88.01</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -12255,7 +12255,7 @@
     <sku>NW9-29D26-24-KPL</sku>
     <name>CUPSystem - zestaw 9/20 dysza kielich #16 [na elektrodę 2.4]</name>
     <ean>5900391243961</ean>
-    <quantity>199</quantity>
+    <quantity>191</quantity>
     <price>88.01</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -12265,7 +12265,7 @@
     <sku>NW9-38D39-24-KPL</sku>
     <name>CUPSystem - zestaw 9/20 dysza kielich #24[na elektrodę 2.4]</name>
     <ean>5900391243985</ean>
-    <quantity>190</quantity>
+    <quantity>187</quantity>
     <price>102.73</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -12295,7 +12295,7 @@
     <sku>NW17-29D26-24-KPL</sku>
     <name>CUPSystem - zestaw 17/18/26 dysza kielich #16 [na elektrodę 2.4]</name>
     <ean>5900391244043</ean>
-    <quantity>171</quantity>
+    <quantity>162</quantity>
     <price>102.73</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -12535,7 +12535,7 @@
     <sku>NW17-32D32-24-KPL</sku>
     <name>QUARTZSystem - soczewka wersja krótka dysza kielich GUARD S #16 [na elektrodę 2.4mm]</name>
     <ean>5900391243909</ean>
-    <quantity>48</quantity>
+    <quantity>43</quantity>
     <price>176.51</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -12545,7 +12545,7 @@
     <sku>NW17-32D32-24-KPL</sku>
     <name>QUARTZSystem - soczewka wersja krótka dysza kielich GUARD S #16 [na elektrodę 2.4mm]</name>
     <ean>5900391243909</ean>
-    <quantity>48</quantity>
+    <quantity>43</quantity>
     <price>176.51</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -13195,7 +13195,7 @@
     <sku>SP070-30-050</sku>
     <name>Filtr przeciwgazowy A1 SPARTUS® 50</name>
     <ean>5900391244418</ean>
-    <quantity>10808</quantity>
+    <quantity>10804</quantity>
     <price>26.40</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -13205,7 +13205,7 @@
     <sku>SP070-30-050</sku>
     <name>Filtr przeciwgazowy A1 SPARTUS® 50</name>
     <ean>5900391244418</ean>
-    <quantity>10808</quantity>
+    <quantity>10804</quantity>
     <price>26.40</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -13215,7 +13215,7 @@
     <sku>SP070-30-050</sku>
     <name>Filtr przeciwgazowy A1 SPARTUS® 50</name>
     <ean>5900391244418</ean>
-    <quantity>10808</quantity>
+    <quantity>10804</quantity>
     <price>26.40</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -15225,7 +15225,7 @@
     <sku>M-308LSI-08-S100</sku>
     <name>Drut spawalniczy ER308LSi D100 1kg 0.8mm</name>
     <ean>5900391250785</ean>
-    <quantity>101</quantity>
+    <quantity>86</quantity>
     <price>52.89</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -15255,7 +15255,7 @@
     <sku>M-308LSI-08-S200</sku>
     <name>Drut spawalniczy ER308LSi D200 5kg 0.8mm</name>
     <ean>5900391250808</ean>
-    <quantity>403</quantity>
+    <quantity>402</quantity>
     <price>207.49</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -15265,7 +15265,7 @@
     <sku>M-308LSI-10-S200</sku>
     <name>Drut spawalniczy ER308LSi D200 5kg 1.0mm</name>
     <ean>5900391250815</ean>
-    <quantity>172</quantity>
+    <quantity>167</quantity>
     <price>205.63</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -15275,7 +15275,7 @@
     <sku>M-308LSI-10-S200</sku>
     <name>Drut spawalniczy ER308LSi D200 5kg 1.0mm</name>
     <ean>5900391250815</ean>
-    <quantity>172</quantity>
+    <quantity>167</quantity>
     <price>205.63</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -15305,7 +15305,7 @@
     <sku>M-308LSI-10-B300</sku>
     <name>Drut spawalniczy ER308LSi D300 15kg 1.0mm</name>
     <ean>5900391250846</ean>
-    <quantity>54</quantity>
+    <quantity>48</quantity>
     <price>593.72</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -15315,7 +15315,7 @@
     <sku>M-308LSI-10-B300</sku>
     <name>Drut spawalniczy ER308LSi D300 15kg 1.0mm</name>
     <ean>5900391250846</ean>
-    <quantity>54</quantity>
+    <quantity>48</quantity>
     <price>593.72</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -15325,7 +15325,7 @@
     <sku>M-308LSI-12-B300</sku>
     <name>Drut spawalniczy ER308LSi D300 15kg 1.2mm</name>
     <ean>5900391250853</ean>
-    <quantity>148</quantity>
+    <quantity>147</quantity>
     <price>593.72</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -15355,7 +15355,7 @@
     <sku>M-316LSI-08-S200</sku>
     <name>Drut spawalniczy ER316LSi D200 5kg 0.8mm</name>
     <ean>5900391250884</ean>
-    <quantity>279</quantity>
+    <quantity>278</quantity>
     <price>294.39</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -15375,7 +15375,7 @@
     <sku>M-316LSI-12-S200</sku>
     <name>Drut spawalniczy ER316LSi D200 5kg 1.2mm</name>
     <ean>5900391250907</ean>
-    <quantity>38</quantity>
+    <quantity>36</quantity>
     <price>294.39</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -15445,7 +15445,7 @@
     <sku>T-308LSI-16-100</sku>
     <name>Pręt spawalniczy ER308LSi 1.6mm 1kg</name>
     <ean>5900391250976</ean>
-    <quantity>333</quantity>
+    <quantity>332</quantity>
     <price>66.30</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -15545,7 +15545,7 @@
     <sku>T-316LSI-24-100</sku>
     <name>Pręt spawalniczy ER316LSi 2.4mm 1kg</name>
     <ean>5900391251072</ean>
-    <quantity>501</quantity>
+    <quantity>497</quantity>
     <price>88.79</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -15585,7 +15585,7 @@
     <sku>T-316LSI-24-500</sku>
     <name>Pręt spawalniczy ER316LSi 2.4mm 5kg</name>
     <ean>5900391251119</ean>
-    <quantity>196</quantity>
+    <quantity>195</quantity>
     <price>273.24</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -15905,7 +15905,7 @@
     <sku>NW53CS13B</sku>
     <name>Sitko - CUPSYSTEM Black #13</name>
     <ean>5900391252291</ean>
-    <quantity>40</quantity>
+    <quantity>30</quantity>
     <price>56.81</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -15935,7 +15935,7 @@
     <sku>SP050-90-005</sku>
     <name>Płyn chłodniczy do spawarek laserowych SPARTUS LaserFrost 5l</name>
     <ean>5900391252345</ean>
-    <quantity>34</quantity>
+    <quantity>32</quantity>
     <price>246.06</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -16055,7 +16055,7 @@
     <sku>M-ER70S-6-08-S100</sku>
     <name>Drut spawalniczy ER70S-6 [SG2] D100 1kg 0.8mm</name>
     <ean>5900391251799</ean>
-    <quantity>2894</quantity>
+    <quantity>2869</quantity>
     <price>31.28</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -16085,7 +16085,7 @@
     <sku>M-ER70S-6-12-S200</sku>
     <name>Drut spawalniczy ER70S-6 [SG2] D200 5kg 1.2mm</name>
     <ean>5900391251829</ean>
-    <quantity>3676</quantity>
+    <quantity>3666</quantity>
     <price>112.32</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -16255,7 +16255,7 @@
     <sku>SP130-20-005</sku>
     <name>Płyn chłodniczy SPARTUS MaxCoolant 5l</name>
     <ean>5900391253533</ean>
-    <quantity>95</quantity>
+    <quantity>93</quantity>
     <price>151.25</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -16985,7 +16985,7 @@
     <sku>080-09-NX47SN</sku>
     <name>Przyłbica do szlifowania SPARTUS Ultra NX47 z kanałem nawiewowym i wężem powietrznym</name>
     <ean>5900391253571</ean>
-    <quantity>29</quantity>
+    <quantity>28</quantity>
     <price>1017.41</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -18585,7 +18585,7 @@
     <sku>SP028-23-300LN</sku>
     <name>Kątownik oporowo-mocujący 275x100x300mm lewy azotowany</name>
     <ean>5900391257180</ean>
-    <quantity>2</quantity>
+    <quantity>1</quantity>
     <price>1422.63</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -18595,7 +18595,7 @@
     <sku>SP028-23-300LN</sku>
     <name>Kątownik oporowo-mocujący 275x100x300mm lewy azotowany</name>
     <ean>5900391257180</ean>
-    <quantity>2</quantity>
+    <quantity>1</quantity>
     <price>1422.63</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -18605,7 +18605,7 @@
     <sku>SP028-23-300LN</sku>
     <name>Kątownik oporowo-mocujący 275x100x300mm lewy azotowany</name>
     <ean>5900391257180</ean>
-    <quantity>2</quantity>
+    <quantity>1</quantity>
     <price>1422.63</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -18615,7 +18615,7 @@
     <sku>SP028-23-300LN</sku>
     <name>Kątownik oporowo-mocujący 275x100x300mm lewy azotowany</name>
     <ean>5900391257180</ean>
-    <quantity>2</quantity>
+    <quantity>1</quantity>
     <price>1422.63</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -18985,7 +18985,7 @@
     <sku>SP028-30-002N</sku>
     <name>Kątownik 175x50x175mm otwór/slot azotowany</name>
     <ean>5900391257326</ean>
-    <quantity>142</quantity>
+    <quantity>138</quantity>
     <price>260.44</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -18995,7 +18995,7 @@
     <sku>SP028-30-002N</sku>
     <name>Kątownik 175x50x175mm otwór/slot azotowany</name>
     <ean>5900391257326</ean>
-    <quantity>142</quantity>
+    <quantity>138</quantity>
     <price>260.44</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -19005,7 +19005,7 @@
     <sku>SP028-30-002N</sku>
     <name>Kątownik 175x50x175mm otwór/slot azotowany</name>
     <ean>5900391257326</ean>
-    <quantity>142</quantity>
+    <quantity>138</quantity>
     <price>260.44</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -19015,7 +19015,7 @@
     <sku>SP028-30-002N</sku>
     <name>Kątownik 175x50x175mm otwór/slot azotowany</name>
     <ean>5900391257326</ean>
-    <quantity>142</quantity>
+    <quantity>138</quantity>
     <price>260.44</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -19225,7 +19225,7 @@
     <sku>SP028-50-002N</sku>
     <name>Stoper uniwersalny 225x50x25mm azotowany</name>
     <ean>5900391257395</ean>
-    <quantity>106</quantity>
+    <quantity>100</quantity>
     <price>151.01</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -19235,7 +19235,7 @@
     <sku>SP028-50-002N</sku>
     <name>Stoper uniwersalny 225x50x25mm azotowany</name>
     <ean>5900391257395</ean>
-    <quantity>106</quantity>
+    <quantity>100</quantity>
     <price>151.01</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -19805,7 +19805,7 @@
     <sku>SP028-60-001</sku>
     <name>Trzpień szybkomocujący fi28x50mm</name>
     <ean>5900391257722</ean>
-    <quantity>1173</quantity>
+    <quantity>1151</quantity>
     <price>129.13</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -19815,7 +19815,7 @@
     <sku>SP028-60-001</sku>
     <name>Trzpień szybkomocujący fi28x50mm</name>
     <ean>5900391257722</ean>
-    <quantity>1173</quantity>
+    <quantity>1151</quantity>
     <price>129.13</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -20225,7 +20225,7 @@
     <sku>EASYCUT60-PAK-60H-4</sku>
     <name>EasyCUT 60 pakiet</name>
     <ean>5900391257968</ean>
-    <quantity>95</quantity>
+    <quantity>94</quantity>
     <price>4797.43</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -20515,7 +20515,7 @@
     <sku>XPROMIG150-15-500</sku>
     <name>Uchwyt ręczny MIG 150 5m seria SPARTUS XPro</name>
     <ean>5900391009826</ean>
-    <quantity>217</quantity>
+    <quantity>216</quantity>
     <price>348.61</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -20575,7 +20575,7 @@
     <sku>XPROMIG250-15-500</sku>
     <name>Uchwyt ręczny MIG 250 5m seria SPARTUS XPro</name>
     <ean>5900391009888</ean>
-    <quantity>330</quantity>
+    <quantity>328</quantity>
     <price>451.19</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -20695,7 +20695,7 @@
     <sku>XPROMIG350-PAK-36-3</sku>
     <name>XPro MIG 350 pakiet</name>
     <ean>5900391006436</ean>
-    <quantity>19</quantity>
+    <quantity>17</quantity>
     <price>7620.28</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -20905,7 +20905,7 @@
     <sku>XPROMIG350-PAK-36-3-26-4</sku>
     <name>XPro MIG 350 pakiet MIG TIG MMA</name>
     <ean>5900391010532</ean>
-    <quantity>19</quantity>
+    <quantity>17</quantity>
     <price>8326.00</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -20955,7 +20955,7 @@
     <sku>EASYCUT60-PAK-80H-6</sku>
     <name>EasyCUT 60 pakiet SP80H 6m</name>
     <ean>5900391010723</ean>
-    <quantity>95</quantity>
+    <quantity>94</quantity>
     <price>4797.43</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -21435,7 +21435,7 @@
     <sku>T-ER70S-6-16-100</sku>
     <name>Pręt spawalniczy ER70S-6 1.6mm 1kg</name>
     <ean>5900391008102</ean>
-    <quantity>376</quantity>
+    <quantity>366</quantity>
     <price>37.13</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -21445,7 +21445,7 @@
     <sku>T-ER70S-6-20-100</sku>
     <name>Pręt spawalniczy ER70S-6 2.0mm 1kg</name>
     <ean>5900391008119</ean>
-    <quantity>387</quantity>
+    <quantity>377</quantity>
     <price>37.13</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -21455,7 +21455,7 @@
     <sku>T-ER70S-6-24-100</sku>
     <name>Pręt spawalniczy ER70S-6 2.4mm 1kg</name>
     <ean>5900391008126</ean>
-    <quantity>376</quantity>
+    <quantity>366</quantity>
     <price>37.13</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
