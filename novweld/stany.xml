@@ -315,7 +315,7 @@
     <sku>50020</sku>
     <name>Tester przepływu gazu</name>
     <ean>5900391208502</ean>
-    <quantity>1079</quantity>
+    <quantity>1059</quantity>
     <price>25.84</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -345,7 +345,7 @@
     <sku>080-10-301GK</sku>
     <name>Przyłbica SPARTUS® Pro 301X (szara) z kaskiem i adapterem</name>
     <ean></ean>
-    <quantity>0</quantity>
+    <quantity>10</quantity>
     <price>743.90</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -4095,7 +4095,7 @@
     <sku>NW18CGG</sku>
     <name>Izolator teflonowy [do palnika 17/18/26] - krótka soczewka</name>
     <ean>5900391221501</ean>
-    <quantity>313</quantity>
+    <quantity>299</quantity>
     <price>25.12</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -4385,7 +4385,7 @@
     <sku>SPE15-11-300</sku>
     <name>Uchwyt ręczny MIG 150 3m seria SPARTUS Easy</name>
     <ean>5900391200537</ean>
-    <quantity>87</quantity>
+    <quantity>86</quantity>
     <price>163.94</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -7225,7 +7225,7 @@
     <sku>080-10-201K</sku>
     <name>Przyłbica SPARTUS Master 201X z kaskiem i adapterem</name>
     <ean></ean>
-    <quantity>0</quantity>
+    <quantity>10</quantity>
     <price>635.86</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -7235,7 +7235,7 @@
     <sku>080-10-401K</sku>
     <name>Przyłbica SPARTUS Pro 401X z kaskiem i adapterem</name>
     <ean></ean>
-    <quantity>0</quantity>
+    <quantity>10</quantity>
     <price>809.56</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -9115,7 +9115,7 @@
     <sku>080-10-330XTK</sku>
     <name>Przyłbica SPARTUS® Pro 330XT z filtrem true color - z kaskiem</name>
     <ean></ean>
-    <quantity>0</quantity>
+    <quantity>10</quantity>
     <price>765.78</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10945,7 +10945,7 @@
     <sku>54CD18</sku>
     <name>CUPSYSTEM dysza gazowa #18 (dysza gazowa + 2x sitko)</name>
     <ean>5900391243190</ean>
-    <quantity>177</quantity>
+    <quantity>172</quantity>
     <price>132.58</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10955,7 +10955,7 @@
     <sku>54CD18</sku>
     <name>CUPSYSTEM dysza gazowa #18 (dysza gazowa + 2x sitko)</name>
     <ean>5900391243190</ean>
-    <quantity>177</quantity>
+    <quantity>172</quantity>
     <price>132.58</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11085,7 +11085,7 @@
     <sku>080-10-130XTK</sku>
     <name>Przyłbica SPARTUS Easy 130XT (filtr true color) z kaskiem i adapterem</name>
     <ean></ean>
-    <quantity>0</quantity>
+    <quantity>10</quantity>
     <price>579.15</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11105,7 +11105,7 @@
     <sku>080-10-230XTK</sku>
     <name>Przyłbica SPARTUS® Master 230XT (filtr true color) z kaskiem i adapterem</name>
     <ean></ean>
-    <quantity>0</quantity>
+    <quantity>10</quantity>
     <price>676.90</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11125,7 +11125,7 @@
     <sku>080-10-430XTK</sku>
     <name>Przyłbica SPARTUS Pro 430XT (filtr true color) z kaskiem i adapterem</name>
     <ean></ean>
-    <quantity>0</quantity>
+    <quantity>10</quantity>
     <price>853.33</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11965,7 +11965,7 @@
     <sku>080-00-020K</sku>
     <name>Przyłbica SPARTUS® Easy FOX z kaskiem i adapterem</name>
     <ean></ean>
-    <quantity>0</quantity>
+    <quantity>10</quantity>
     <price>281.74</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -15485,7 +15485,7 @@
     <sku>T-316LSI-16-100</sku>
     <name>Pręt spawalniczy ER316LSi 1.6mm 1kg</name>
     <ean>5900391251058</ean>
-    <quantity>427</quantity>
+    <quantity>426</quantity>
     <price>88.79</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -15505,7 +15505,7 @@
     <sku>T-316LSI-24-100</sku>
     <name>Pręt spawalniczy ER316LSi 2.4mm 1kg</name>
     <ean>5900391251072</ean>
-    <quantity>497</quantity>
+    <quantity>496</quantity>
     <price>88.79</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -15545,7 +15545,7 @@
     <sku>T-316LSI-24-500</sku>
     <name>Pręt spawalniczy ER316LSi 2.4mm 5kg</name>
     <ean>5900391251119</ean>
-    <quantity>185</quantity>
+    <quantity>182</quantity>
     <price>273.24</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -15565,7 +15565,7 @@
     <sku>T-309LSI-16-100</sku>
     <name>Pręt spawalniczy ER309LSi 1.6mm 1kg</name>
     <ean>5900391251133</ean>
-    <quantity>163</quantity>
+    <quantity>162</quantity>
     <price>79.80</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -15935,7 +15935,7 @@
     <sku>54CD09</sku>
     <name>CUPSYSTEM dysza gazowa #9 (dysza gazowa + 2x sitko)</name>
     <ean>5900391252932</ean>
-    <quantity>0</quantity>
+    <quantity>1</quantity>
     <price>132.58</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -15945,7 +15945,7 @@
     <sku>54CD09</sku>
     <name>CUPSYSTEM dysza gazowa #9 (dysza gazowa + 2x sitko)</name>
     <ean>5900391252932</ean>
-    <quantity>0</quantity>
+    <quantity>1</quantity>
     <price>132.58</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -15955,7 +15955,7 @@
     <sku>54CD09</sku>
     <name>CUPSYSTEM dysza gazowa #9 (dysza gazowa + 2x sitko)</name>
     <ean>5900391252932</ean>
-    <quantity>0</quantity>
+    <quantity>1</quantity>
     <price>132.58</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -21415,7 +21415,7 @@
     <sku>T-ER70S-6-24-100</sku>
     <name>Pręt spawalniczy ER70S-6 2.4mm 1kg</name>
     <ean>5900391008126</ean>
-    <quantity>366</quantity>
+    <quantity>364</quantity>
     <price>37.13</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
