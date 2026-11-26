@@ -295,7 +295,7 @@
     <sku>50500</sku>
     <name>Filtr powietrza AT-1000 kpl.</name>
     <ean>5900391208519</ean>
-    <quantity>12</quantity>
+    <quantity>11</quantity>
     <price>718.75</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -545,7 +545,7 @@
     <sku>082-51-107</sku>
     <name>Osłona z poliwęglanu 51 × 107 mm</name>
     <ean>5900391235416</ean>
-    <quantity>720</quantity>
+    <quantity>420</quantity>
     <price>2.70</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -735,7 +735,7 @@
     <sku>082-101-112</sku>
     <name>Osłona z poliwęglanu 101 × 112 mm przeznaczona do przyłbicy SPARTUS® Easy (zewnętrzna)</name>
     <ean>5900391235201</ean>
-    <quantity>190</quantity>
+    <quantity>110</quantity>
     <price>4.34</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -2755,7 +2755,7 @@
     <sku>SP130-01-010</sku>
     <name>Pasta antyodpryskowa 340ml</name>
     <ean>5900391226049</ean>
-    <quantity>41</quantity>
+    <quantity>29</quantity>
     <price>32.25</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -2795,7 +2795,7 @@
     <sku>SP130-01-003</sku>
     <name>Płyn antyodpryskowy 20l</name>
     <ean>5900391226025</ean>
-    <quantity>25</quantity>
+    <quantity>21</quantity>
     <price>289.40</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -3555,7 +3555,7 @@
     <sku>SP-160A</sku>
     <name>Uchwyt elektrodowy SPARTUS® 160A</name>
     <ean>5900391239315</ean>
-    <quantity>48</quantity>
+    <quantity>44</quantity>
     <price>99.37</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -4095,7 +4095,7 @@
     <sku>NW18CGG</sku>
     <name>Izolator teflonowy [do palnika 17/18/26] - krótka soczewka</name>
     <ean>5900391221501</ean>
-    <quantity>223</quantity>
+    <quantity>143</quantity>
     <price>25.12</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -4125,7 +4125,7 @@
     <sku>EASYMIG210S-PAK-15-3</sku>
     <name>EasyMIG 210S pakiet</name>
     <ean>5900391242254</ean>
-    <quantity>22</quantity>
+    <quantity>18</quantity>
     <price>1799.66</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -4155,7 +4155,7 @@
     <sku>EASYTIG205EPULSEDC-PAK-17-4</sku>
     <name>EasyTIG 205P DC w pakiecie z uchwytem mini SPE 17 - 4m</name>
     <ean>5900391242544</ean>
-    <quantity>117</quantity>
+    <quantity>116</quantity>
     <price>2608.67</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -4345,7 +4345,7 @@
     <sku>SPP25-13-400</sku>
     <name>Uchwyt ręczny MIG 250 4m seria SPARTUS Pro</name>
     <ean>5900391200841</ean>
-    <quantity>45</quantity>
+    <quantity>42</quantity>
     <price>481.27</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -4385,7 +4385,7 @@
     <sku>SPE15-11-300</sku>
     <name>Uchwyt ręczny MIG 150 3m seria SPARTUS Easy</name>
     <ean>5900391200537</ean>
-    <quantity>83</quantity>
+    <quantity>81</quantity>
     <price>163.94</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -6645,7 +6645,7 @@
     <sku>EASYMIG200-PAK-15-3</sku>
     <name>EasyMIG 200 pakiet</name>
     <ean>5900391242377</ean>
-    <quantity>29</quantity>
+    <quantity>28</quantity>
     <price>1433.32</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -6725,7 +6725,7 @@
     <sku>080-10-901-ET</sku>
     <name>Osłona zewnętrzna filtra przyłbicy [transparentna]</name>
     <ean>5900391011829</ean>
-    <quantity>5694</quantity>
+    <quantity>5693</quantity>
     <price>19.96</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -7175,7 +7175,7 @@
     <sku>082-125-106</sku>
     <name>Osłona z poliwęglanu 125 × 106 mm</name>
     <ean>5900391235270</ean>
-    <quantity>475</quantity>
+    <quantity>415</quantity>
     <price>4.47</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -8715,7 +8715,7 @@
     <sku>SP010-90-001</sku>
     <name>Kamień do czyszczenia 200x50x25mm</name>
     <ean>5900391242964</ean>
-    <quantity>0</quantity>
+    <quantity>19</quantity>
     <price>71.18</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -8735,7 +8735,7 @@
     <sku>SP010-90-004</sku>
     <name>Szczotka nylonowa 30x80mm</name>
     <ean>5900391242995</ean>
-    <quantity>44</quantity>
+    <quantity>43</quantity>
     <price>48.22</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -8745,7 +8745,7 @@
     <sku>SP010-90-004</sku>
     <name>Szczotka nylonowa 30x80mm</name>
     <ean>5900391242995</ean>
-    <quantity>44</quantity>
+    <quantity>43</quantity>
     <price>48.22</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -10735,7 +10735,7 @@
     <sku>SP010-90-003A</sku>
     <name>[OUTLET] Klucz imbusowy sześciokątny 150mm</name>
     <ean>5900391242988</ean>
-    <quantity>111</quantity>
+    <quantity>110</quantity>
     <price>70.29</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11025,7 +11025,7 @@
     <sku>SP010-90-005</sku>
     <name>Płyn czyszczący do stołów spawalniczych 500ml</name>
     <ean>5900391102039</ean>
-    <quantity>40</quantity>
+    <quantity>30</quantity>
     <price>23.99</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11045,7 +11045,7 @@
     <sku>SP010-90-007</sku>
     <name>Płyn konserwujący do stołów spawalniczych 500ml</name>
     <ean>5900391102053</ean>
-    <quantity>44</quantity>
+    <quantity>34</quantity>
     <price>23.99</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -11135,7 +11135,7 @@
     <sku>080-10-930XT</sku>
     <name>Przyłbica SPARTUS Pro 930XT (filtr true color)</name>
     <ean>5900391001035</ean>
-    <quantity>41</quantity>
+    <quantity>32</quantity>
     <price>634.46</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -12205,7 +12205,7 @@
     <sku>NW9-26D23-24-KPL</sku>
     <name>CUPSystem - zestaw 9/20 dysza kielich #14 [na elektrodę 2.4]</name>
     <ean>5900391243947</ean>
-    <quantity>143</quantity>
+    <quantity>139</quantity>
     <price>88.01</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -12235,7 +12235,7 @@
     <sku>NW17-26D19-24-KPL</sku>
     <name>CUPSystem - zestaw 17/18/26 dysza kielich #12 [na elektrodę 2.4]</name>
     <ean>5900391244005</ean>
-    <quantity>186</quantity>
+    <quantity>173</quantity>
     <price>66.04</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -12245,7 +12245,7 @@
     <sku>NW17-26D23-24-KPL</sku>
     <name>CUPSystem - zestaw 17/18/26 dysza kielich #14 [na elektrodę 2.4]</name>
     <ean>5900391244029</ean>
-    <quantity>199</quantity>
+    <quantity>197</quantity>
     <price>66.04</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -12495,7 +12495,7 @@
     <sku>NW17-32D32-24-KPL</sku>
     <name>QUARTZSystem - soczewka wersja krótka dysza kielich GUARD S #16 [na elektrodę 2.4mm]</name>
     <ean>5900391243909</ean>
-    <quantity>43</quantity>
+    <quantity>40</quantity>
     <price>176.51</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -12505,7 +12505,7 @@
     <sku>NW17-32D32-24-KPL</sku>
     <name>QUARTZSystem - soczewka wersja krótka dysza kielich GUARD S #16 [na elektrodę 2.4mm]</name>
     <ean>5900391243909</ean>
-    <quantity>43</quantity>
+    <quantity>40</quantity>
     <price>176.51</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -14265,7 +14265,7 @@
     <sku>NW900-00-420</sku>
     <name>Adapter szpuli drutu dwuczęściowy</name>
     <ean></ean>
-    <quantity>803</quantity>
+    <quantity>801</quantity>
     <price>20.89</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -14275,7 +14275,7 @@
     <sku>NW900-00-421</sku>
     <name>Adapter szpuli drutu jednoczęściowy</name>
     <ean></ean>
-    <quantity>864</quantity>
+    <quantity>812</quantity>
     <price>20.89</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -14725,7 +14725,7 @@
     <sku>SP030-12-163PE</sku>
     <name>Ramię odciągowe Vortex Eco 160 - 3m, model stojący</name>
     <ean>5900391249338</ean>
-    <quantity>2</quantity>
+    <quantity>1</quantity>
     <price>3415.65</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -14765,7 +14765,7 @@
     <sku>SP030-05-303</sku>
     <name>Mobilny filtr dymu spawalniczego AirMaster Duo 3m</name>
     <ean>5900391249529</ean>
-    <quantity>10</quantity>
+    <quantity>0</quantity>
     <price>20536.23</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -15045,7 +15045,7 @@
     <sku>SP-TR-91</sku>
     <name>Wózek do urządzeń spawalniczych (ProTIG 2000 / 3000)</name>
     <ean></ean>
-    <quantity>70</quantity>
+    <quantity>69</quantity>
     <price>2111.18</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -15185,7 +15185,7 @@
     <sku>M-308LSI-08-S100</sku>
     <name>Drut spawalniczy ER308LSi D100 1kg 0.8mm</name>
     <ean>5900391250785</ean>
-    <quantity>52</quantity>
+    <quantity>49</quantity>
     <price>52.89</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -15245,7 +15245,7 @@
     <sku>M-308LSI-12-S200</sku>
     <name>Drut spawalniczy ER308LSi D200 5kg 1.2mm</name>
     <ean>5900391250822</ean>
-    <quantity>71</quantity>
+    <quantity>70</quantity>
     <price>195.98</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -15415,7 +15415,7 @@
     <sku>T-308LSI-20-100</sku>
     <name>Pręt spawalniczy ER308LSi 2.0mm 1kg</name>
     <ean>5900391250983</ean>
-    <quantity>339</quantity>
+    <quantity>338</quantity>
     <price>66.30</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -15445,7 +15445,7 @@
     <sku>T-308LSI-16-500</sku>
     <name>Pręt spawalniczy ER308LSi 1.6mm 5kg</name>
     <ean>5900391251010</ean>
-    <quantity>86</quantity>
+    <quantity>84</quantity>
     <price>186.34</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -15465,7 +15465,7 @@
     <sku>T-308LSI-24-500</sku>
     <name>Pręt spawalniczy ER308LSi 2.4mm 5kg</name>
     <ean>5900391251034</ean>
-    <quantity>49</quantity>
+    <quantity>27</quantity>
     <price>186.34</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -15475,7 +15475,7 @@
     <sku>T-308LSI-32-500</sku>
     <name>Pręt spawalniczy ER308LSi 3.2mm 5kg</name>
     <ean>5900391251041</ean>
-    <quantity>45</quantity>
+    <quantity>44</quantity>
     <price>186.34</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -15525,7 +15525,7 @@
     <sku>T-316LSI-16-500</sku>
     <name>Pręt spawalniczy ER316LSi 1.6mm 5kg</name>
     <ean>5900391251096</ean>
-    <quantity>279</quantity>
+    <quantity>276</quantity>
     <price>273.24</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -15535,7 +15535,7 @@
     <sku>T-316LSI-20-500</sku>
     <name>Pręt spawalniczy ER316LSi 2.0mm 5kg</name>
     <ean>5900391251102</ean>
-    <quantity>364</quantity>
+    <quantity>360</quantity>
     <price>273.24</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -15545,7 +15545,7 @@
     <sku>T-316LSI-24-500</sku>
     <name>Pręt spawalniczy ER316LSi 2.4mm 5kg</name>
     <ean>5900391251119</ean>
-    <quantity>173</quantity>
+    <quantity>147</quantity>
     <price>273.24</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -15895,7 +15895,7 @@
     <sku>SP050-90-005</sku>
     <name>Płyn chłodniczy do spawarek laserowych SPARTUS LaserFrost 5l</name>
     <ean>5900391252345</ean>
-    <quantity>204</quantity>
+    <quantity>190</quantity>
     <price>246.06</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -15995,7 +15995,7 @@
     <sku>T-ER70S-6-24-500</sku>
     <name>Pręt spawalniczy ER70S-6 2.4mm 5kg</name>
     <ean>5900391251881</ean>
-    <quantity>319</quantity>
+    <quantity>306</quantity>
     <price>107.93</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -16005,7 +16005,7 @@
     <sku>T-ER70S-6-32-500</sku>
     <name>Pręt spawalniczy ER70S-6 3.2mm 5kg</name>
     <ean>5900391251898</ean>
-    <quantity>298</quantity>
+    <quantity>279</quantity>
     <price>107.93</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -16015,7 +16015,7 @@
     <sku>M-ER70S-6-08-S100</sku>
     <name>Drut spawalniczy ER70S-6 [SG2] D100 1kg 0.8mm</name>
     <ean>5900391251799</ean>
-    <quantity>2788</quantity>
+    <quantity>2785</quantity>
     <price>31.28</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -16025,7 +16025,7 @@
     <sku>M-ER70S-6-08-S200</sku>
     <name>Drut spawalniczy ER70S-6 [SG2] D200 5kg 0.8mm</name>
     <ean>5900391251805</ean>
-    <quantity>4288</quantity>
+    <quantity>4163</quantity>
     <price>102.17</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -16065,7 +16065,7 @@
     <sku>M-ER70S-6-10-B300</sku>
     <name>Drut spawalniczy ER70S-6 [SG2] D300 15kg 1.0mm</name>
     <ean>5900391251843</ean>
-    <quantity>1913</quantity>
+    <quantity>1896</quantity>
     <price>245.05</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -16075,7 +16075,7 @@
     <sku>M-ER70S-6-12-B300</sku>
     <name>Drut spawalniczy ER70S-6 [SG2] D300 15kg 1.2mm</name>
     <ean>5900391251850</ean>
-    <quantity>1142</quantity>
+    <quantity>1122</quantity>
     <price>235.39</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -16215,7 +16215,7 @@
     <sku>SP130-20-005</sku>
     <name>Płyn chłodniczy SPARTUS MaxCoolant 5l</name>
     <ean>5900391253533</ean>
-    <quantity>80</quantity>
+    <quantity>79</quantity>
     <price>151.25</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -16395,7 +16395,7 @@
     <sku>M-309LSI-10-B300</sku>
     <name>Drut spawalniczy ER309LSi D300 15kg 1.0mm</name>
     <ean>5900391254714</ean>
-    <quantity>129</quantity>
+    <quantity>118</quantity>
     <price>738.55</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -16485,7 +16485,7 @@
     <sku>T-308LSI-12-500</sku>
     <name>Pręt spawalniczy ER308LSi 1.2mm 5kg</name>
     <ean>5900391254806</ean>
-    <quantity>65</quantity>
+    <quantity>63</quantity>
     <price>246.12</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -16505,7 +16505,7 @@
     <sku>T-309LSI-12-500</sku>
     <name>Pręt spawalniczy ER309LSi 1.2mm 5kg</name>
     <ean>5900391254820</ean>
-    <quantity>30</quantity>
+    <quantity>29</quantity>
     <price>294.39</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -16515,7 +16515,7 @@
     <sku>T-316LSI-10-500</sku>
     <name>Pręt spawalniczy ER316LSi 1.0mm 5kg</name>
     <ean>5900391254837</ean>
-    <quantity>208</quantity>
+    <quantity>203</quantity>
     <price>342.66</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -16525,7 +16525,7 @@
     <sku>T-316LSI-12-500</sku>
     <name>Pręt spawalniczy ER316LSi 1.2mm 5kg</name>
     <ean>5900391254844</ean>
-    <quantity>201</quantity>
+    <quantity>199</quantity>
     <price>342.66</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -16535,7 +16535,7 @@
     <sku>T-309LSI-16-500</sku>
     <name>Pręt spawalniczy ER309LSi 1.6mm 5kg</name>
     <ean>5900391254851</ean>
-    <quantity>63</quantity>
+    <quantity>62</quantity>
     <price>275.09</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -16715,7 +16715,7 @@
     <sku>EASYTIG200XPACDC-PAK-17-4</sku>
     <name>EasyTIG 200XP AC/DC w pakiecie z uchwytem mini SPE 17 - 4m</name>
     <ean>5900391256473</ean>
-    <quantity>25</quantity>
+    <quantity>14</quantity>
     <price>3484.81</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -16725,7 +16725,7 @@
     <sku>EASYTIG200XPACDC-PAK-17-8</sku>
     <name>EasyTIG 200XP AC/DC w pakiecie z uchwytem mini SPE 17 - 8m</name>
     <ean>5900391256480</ean>
-    <quantity>25</quantity>
+    <quantity>14</quantity>
     <price>3625.95</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -16735,7 +16735,7 @@
     <sku>EASYTIG200XPACDC</sku>
     <name>EasyTIG 200XP AC/DC</name>
     <ean>5900391256442</ean>
-    <quantity>25</quantity>
+    <quantity>14</quantity>
     <price>3188.41</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -16745,7 +16745,7 @@
     <sku>EASYTIG200XPACDC-PAK-17-10K-4</sku>
     <name>EasyTIG 200XP AC/DC w pakiecie z uchwytem mini SPE 17 H10k - 4m</name>
     <ean>5900391256459</ean>
-    <quantity>25</quantity>
+    <quantity>14</quantity>
     <price>3583.61</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -16755,7 +16755,7 @@
     <sku>EASYTIG200XPACDC-PAK-17-10K-8</sku>
     <name>EasyTIG 200XP AC/DC w pakiecie z uchwytem mini SPE 17 H10k - 8m</name>
     <ean>5900391256466</ean>
-    <quantity>25</quantity>
+    <quantity>14</quantity>
     <price>3724.75</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -18585,7 +18585,7 @@
     <sku>SP028-23-300RN</sku>
     <name>Kątownik oporowo-mocujący 275x100x300mm prawy azotowany</name>
     <ean>5900391257197</ean>
-    <quantity>0</quantity>
+    <quantity>2</quantity>
     <price>1422.63</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -18595,7 +18595,7 @@
     <sku>SP028-23-300RN</sku>
     <name>Kątownik oporowo-mocujący 275x100x300mm prawy azotowany</name>
     <ean>5900391257197</ean>
-    <quantity>0</quantity>
+    <quantity>2</quantity>
     <price>1422.63</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -18605,7 +18605,7 @@
     <sku>SP028-23-300RN</sku>
     <name>Kątownik oporowo-mocujący 275x100x300mm prawy azotowany</name>
     <ean>5900391257197</ean>
-    <quantity>0</quantity>
+    <quantity>2</quantity>
     <price>1422.63</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -18615,7 +18615,7 @@
     <sku>SP028-23-300RN</sku>
     <name>Kątownik oporowo-mocujący 275x100x300mm prawy azotowany</name>
     <ean>5900391257197</ean>
-    <quantity>0</quantity>
+    <quantity>2</quantity>
     <price>1422.63</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -18825,7 +18825,7 @@
     <sku>SP028-23-502RN</sku>
     <name>Kątownik oporowo-mocujący z regulowanym kątem obrotu 276x95x500mm prawy azotowany</name>
     <ean>5900391257296</ean>
-    <quantity>5</quantity>
+    <quantity>3</quantity>
     <price>2033.20</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -18835,7 +18835,7 @@
     <sku>SP028-23-502RN</sku>
     <name>Kątownik oporowo-mocujący z regulowanym kątem obrotu 276x95x500mm prawy azotowany</name>
     <ean>5900391257296</ean>
-    <quantity>5</quantity>
+    <quantity>3</quantity>
     <price>2033.20</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -18845,7 +18845,7 @@
     <sku>SP028-23-502RN</sku>
     <name>Kątownik oporowo-mocujący z regulowanym kątem obrotu 276x95x500mm prawy azotowany</name>
     <ean>5900391257296</ean>
-    <quantity>5</quantity>
+    <quantity>3</quantity>
     <price>2033.20</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -18855,7 +18855,7 @@
     <sku>SP028-23-502RN</sku>
     <name>Kątownik oporowo-mocujący z regulowanym kątem obrotu 276x95x500mm prawy azotowany</name>
     <ean>5900391257296</ean>
-    <quantity>5</quantity>
+    <quantity>3</quantity>
     <price>2033.20</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -18985,7 +18985,7 @@
     <sku>SP028-30-010N</sku>
     <name>Kątownik 175x50x75mm otwór/slot azotowany</name>
     <ean>5900391257333</ean>
-    <quantity>0</quantity>
+    <quantity>11</quantity>
     <price>194.78</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -18995,7 +18995,7 @@
     <sku>SP028-30-010N</sku>
     <name>Kątownik 175x50x75mm otwór/slot azotowany</name>
     <ean>5900391257333</ean>
-    <quantity>0</quantity>
+    <quantity>11</quantity>
     <price>194.78</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -19005,7 +19005,7 @@
     <sku>SP028-30-010N</sku>
     <name>Kątownik 175x50x75mm otwór/slot azotowany</name>
     <ean>5900391257333</ean>
-    <quantity>0</quantity>
+    <quantity>11</quantity>
     <price>194.78</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -19015,7 +19015,7 @@
     <sku>SP028-30-010N</sku>
     <name>Kątownik 175x50x75mm otwór/slot azotowany</name>
     <ean>5900391257333</ean>
-    <quantity>0</quantity>
+    <quantity>11</quantity>
     <price>194.78</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -19065,7 +19065,7 @@
     <sku>SP028-30-011N</sku>
     <name>Kątownik 200x50x175mm otwór/slot azotowany</name>
     <ean>5900391257357</ean>
-    <quantity>36</quantity>
+    <quantity>21</quantity>
     <price>347.98</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -19075,7 +19075,7 @@
     <sku>SP028-30-011N</sku>
     <name>Kątownik 200x50x175mm otwór/slot azotowany</name>
     <ean>5900391257357</ean>
-    <quantity>36</quantity>
+    <quantity>21</quantity>
     <price>347.98</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -19085,7 +19085,7 @@
     <sku>SP028-30-011N</sku>
     <name>Kątownik 200x50x175mm otwór/slot azotowany</name>
     <ean>5900391257357</ean>
-    <quantity>36</quantity>
+    <quantity>21</quantity>
     <price>347.98</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -19095,7 +19095,7 @@
     <sku>SP028-30-011N</sku>
     <name>Kątownik 200x50x175mm otwór/slot azotowany</name>
     <ean>5900391257357</ean>
-    <quantity>36</quantity>
+    <quantity>21</quantity>
     <price>347.98</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -19105,7 +19105,7 @@
     <sku>SP028-30-013N</sku>
     <name>Kątownik 175x50x275mm otwór/slot azotowany</name>
     <ean>5900391257364</ean>
-    <quantity>81</quantity>
+    <quantity>75</quantity>
     <price>347.98</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -19115,7 +19115,7 @@
     <sku>SP028-30-013N</sku>
     <name>Kątownik 175x50x275mm otwór/slot azotowany</name>
     <ean>5900391257364</ean>
-    <quantity>81</quantity>
+    <quantity>75</quantity>
     <price>347.98</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -19125,7 +19125,7 @@
     <sku>SP028-30-013N</sku>
     <name>Kątownik 175x50x275mm otwór/slot azotowany</name>
     <ean>5900391257364</ean>
-    <quantity>81</quantity>
+    <quantity>75</quantity>
     <price>347.98</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -19135,7 +19135,7 @@
     <sku>SP028-30-013N</sku>
     <name>Kątownik 175x50x275mm otwór/slot azotowany</name>
     <ean>5900391257364</ean>
-    <quantity>81</quantity>
+    <quantity>75</quantity>
     <price>347.98</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -19185,7 +19185,7 @@
     <sku>SP028-50-002N</sku>
     <name>Stoper uniwersalny 225x50x25mm azotowany</name>
     <ean>5900391257395</ean>
-    <quantity>94</quantity>
+    <quantity>90</quantity>
     <price>151.01</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -19195,7 +19195,7 @@
     <sku>SP028-50-002N</sku>
     <name>Stoper uniwersalny 225x50x25mm azotowany</name>
     <ean>5900391257395</ean>
-    <quantity>94</quantity>
+    <quantity>90</quantity>
     <price>151.01</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -19385,7 +19385,7 @@
     <sku>SP028-65-010N</sku>
     <name>Pryzma fi 60mm 135° azotowana</name>
     <ean>5900391257524</ean>
-    <quantity>24</quantity>
+    <quantity>20</quantity>
     <price>172.90</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -19395,7 +19395,7 @@
     <sku>SP028-65-010N</sku>
     <name>Pryzma fi 60mm 135° azotowana</name>
     <ean>5900391257524</ean>
-    <quantity>24</quantity>
+    <quantity>20</quantity>
     <price>172.90</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -19515,7 +19515,7 @@
     <sku>SP028-70-041N</sku>
     <name>Zacisk mocujący 220x350mm 180° azotowany</name>
     <ean>5900391257593</ean>
-    <quantity>0</quantity>
+    <quantity>40</quantity>
     <price>282.33</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -19525,7 +19525,7 @@
     <sku>SP028-70-041N</sku>
     <name>Zacisk mocujący 220x350mm 180° azotowany</name>
     <ean>5900391257593</ean>
-    <quantity>0</quantity>
+    <quantity>40</quantity>
     <price>282.33</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -19765,7 +19765,7 @@
     <sku>SP028-60-001</sku>
     <name>Trzpień szybkomocujący fi28x50mm</name>
     <ean>5900391257722</ean>
-    <quantity>1059</quantity>
+    <quantity>1021</quantity>
     <price>129.13</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -19775,7 +19775,7 @@
     <sku>SP028-60-001</sku>
     <name>Trzpień szybkomocujący fi28x50mm</name>
     <ean>5900391257722</ean>
-    <quantity>1059</quantity>
+    <quantity>1021</quantity>
     <price>129.13</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -20005,7 +20005,7 @@
     <sku>SP028-99-SET01N</sku>
     <name>Zestaw akcesoriów 01N</name>
     <ean></ean>
-    <quantity>0</quantity>
+    <quantity>10</quantity>
     <price>6008.38</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -20135,7 +20135,7 @@
     <sku>SP028-99-SET02N</sku>
     <name>Zestaw akcesoriów 02N</name>
     <ean></ean>
-    <quantity>0</quantity>
+    <quantity>10</quantity>
     <price>6205.59</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -20505,7 +20505,7 @@
     <sku>XPROMIG240-15-500</sku>
     <name>Uchwyt ręczny MIG 240 5m seria SPARTUS XPro</name>
     <ean>5900391009857</ean>
-    <quantity>201</quantity>
+    <quantity>192</quantity>
     <price>451.19</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -20595,7 +20595,7 @@
     <sku>XPROMIG501-15-500</sku>
     <name>Uchwyt ręczny MIG 501 5m seria SPARTUS XPro</name>
     <ean>5900391009949</ean>
-    <quantity>436</quantity>
+    <quantity>431</quantity>
     <price>779.48</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -20755,7 +20755,7 @@
     <sku>XPROCUT70CNC-PAK-80H-6</sku>
     <name>XPro CUT 70CNC pakiet</name>
     <ean>5900391006511</ean>
-    <quantity>7</quantity>
+    <quantity>6</quantity>
     <price>5644.29</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -20765,7 +20765,7 @@
     <sku>XPROCUT70CNC-PAK-80M-6</sku>
     <name>XPro CUT 70CNC pakiet z uchwytem SP80M 6m</name>
     <ean>5900391010211</ean>
-    <quantity>7</quantity>
+    <quantity>6</quantity>
     <price>6067.72</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -20775,7 +20775,7 @@
     <sku>XPROCUT110CNC-PAK-100M-6</sku>
     <name>XPro CUT 110CNC pakiet z uchwytem SP100M 6m</name>
     <ean>5900391010228</ean>
-    <quantity>23</quantity>
+    <quantity>21</quantity>
     <price>7620.28</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -20785,7 +20785,7 @@
     <sku>XPROCUT110CNC-PAK-100H-6</sku>
     <name>XPro CUT 110CNC pakiet</name>
     <ean>5900391006528</ean>
-    <quantity>23</quantity>
+    <quantity>21</quantity>
     <price>7055.71</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -21246,7 +21246,7 @@
     <name>CUPSystem NQ - zestaw 17/18/26 dysza kielich #10 [na elektrodę 2.4mm]</name>
     <ean>5900391011041</ean>
     <quantity>10</quantity>
-    <price>82.11</price>
+    <price>102.73</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
   </product>
@@ -21864,7 +21864,7 @@
     <product_id></product_id>
     <sku>XPROTIG220PACDC-PAK-170-4</sku>
     <name>XPro TIG 220P AC/DC w pakiecie z uchwytem mini SPP 170 - 4m</name>
-    <ean></ean>
+    <ean>5900391013465</ean>
     <quantity>20</quantity>
     <price>4938.58</price>
     <purchase_price></purchase_price>
@@ -21935,7 +21935,7 @@
     <sku>SP028-70-045N</sku>
     <name>Zacisk mocujący 180° z uchwytem 300 x 300mm azotowany</name>
     <ean></ean>
-    <quantity>334</quantity>
+    <quantity>284</quantity>
     <price>347.98</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
@@ -22054,7 +22054,7 @@
     <product_id></product_id>
     <sku>XPROTIG220PACDC-PAK-170-8</sku>
     <name>XPro TIG 220P AC/DC w pakiecie z uchwytem mini SPP 170 - 8m</name>
-    <ean></ean>
+    <ean>5900391013472</ean>
     <quantity>20</quantity>
     <price>5079.72</price>
     <purchase_price></purchase_price>
@@ -22064,7 +22064,7 @@
     <product_id></product_id>
     <sku>XPROTIG220PACDC</sku>
     <name>XPro TIG 220P AC/DC</name>
-    <ean></ean>
+    <ean>5900391013458</ean>
     <quantity>20</quantity>
     <price>4515.15</price>
     <purchase_price></purchase_price>
@@ -22074,7 +22074,7 @@
     <product_id></product_id>
     <sku>XPROTIG220PACDC-PAK-17-4</sku>
     <name>XPro TIG 220P AC/DC w pakiecie z uchwytem mini SPP17 - 4m</name>
-    <ean></ean>
+    <ean>5900391013489</ean>
     <quantity>20</quantity>
     <price>4938.58</price>
     <purchase_price></purchase_price>
@@ -22084,7 +22084,7 @@
     <product_id></product_id>
     <sku>XPROTIG220PACDC-PAK-17-8</sku>
     <name>XPro TIG 220P AC/DC w pakiecie z uchwytem mini SPP17 - 8m</name>
-    <ean></ean>
+    <ean>5900391013496</ean>
     <quantity>20</quantity>
     <price>5079.72</price>
     <purchase_price></purchase_price>
@@ -22094,7 +22094,7 @@
     <product_id></product_id>
     <sku>XPROTIG320PWACDC-PAK-18-4</sku>
     <name>XPro TIG 320PW AC/DC w pakiecie z uchwytem SPP 18 - 4m</name>
-    <ean></ean>
+    <ean>5900391013519</ean>
     <quantity>10</quantity>
     <price>14818.55</price>
     <purchase_price></purchase_price>
@@ -22104,7 +22104,7 @@
     <product_id></product_id>
     <sku>XPROTIG320PWACDC-PAK-18-8</sku>
     <name>XPro TIG 320PW AC/DC w pakiecie z uchwytem SPP 18 - 8m</name>
-    <ean></ean>
+    <ean>5900391013526</ean>
     <quantity>10</quantity>
     <price>15100.84</price>
     <purchase_price></purchase_price>
@@ -22114,7 +22114,7 @@
     <product_id></product_id>
     <sku>XPROTIG320PWACDC</sku>
     <name>XPro TIG 320PW AC/DC</name>
-    <ean></ean>
+    <ean>5900391013502</ean>
     <quantity>10</quantity>
     <price>14114.11</price>
     <purchase_price></purchase_price>
@@ -22124,7 +22124,7 @@
     <product_id></product_id>
     <sku>XPROTIG320PWACDC-PAK-300-4</sku>
     <name>XPro TIG 320PW AC/DC w pakiecie z uchwytem SPP 300 - 4m</name>
-    <ean></ean>
+    <ean>5900391013533</ean>
     <quantity>10</quantity>
     <price>14818.55</price>
     <purchase_price></purchase_price>
@@ -22154,7 +22154,7 @@
     <product_id></product_id>
     <sku>XPROTIG320PWACDC-PAK-300-8</sku>
     <name>XPro TIG 320PW AC/DC w pakiecie z uchwytem SPP 300 - 8m</name>
-    <ean></ean>
+    <ean>5900391013540</ean>
     <quantity>10</quantity>
     <price>15100.84</price>
     <purchase_price></purchase_price>
@@ -22237,6 +22237,56 @@
     <ean></ean>
     <quantity>10</quantity>
     <price>84684.65</price>
+    <purchase_price></purchase_price>
+    <tax_rate>23%</tax_rate>
+  </product>
+  <product>
+    <product_id></product_id>
+    <sku>XPRO200COMBO</sku>
+    <name>XPro 200 Combo</name>
+    <ean>5900391013410</ean>
+    <quantity>10</quantity>
+    <price>7479.14</price>
+    <purchase_price></purchase_price>
+    <tax_rate>23%</tax_rate>
+  </product>
+  <product>
+    <product_id></product_id>
+    <sku>XPRO200COMBO-PAK-24-3-17-4</sku>
+    <name>XPro 200 Combo w pakiecie z uchwytami: XPro MIG 240 - 3m i TIG mini SPP 17 - 4m</name>
+    <ean>5900391013434</ean>
+    <quantity>10</quantity>
+    <price>8326.00</price>
+    <purchase_price></purchase_price>
+    <tax_rate>23%</tax_rate>
+  </product>
+  <product>
+    <product_id></product_id>
+    <sku>XPRO200COMBO-PAK-24-3-17-8</sku>
+    <name>XPro 200 Combo w pakiecie z uchwytami: XPro MIG 240 - 3m i TIG mini SPP 17 - 8m</name>
+    <ean>5900391013441</ean>
+    <quantity>10</quantity>
+    <price>8467.14</price>
+    <purchase_price></purchase_price>
+    <tax_rate>23%</tax_rate>
+  </product>
+  <product>
+    <product_id></product_id>
+    <sku>XPRO200COMBO-PAK-24-3-170-4</sku>
+    <name>XPro 200 Combo w pakiecie z uchwytami: XPro MIG 240 - 3m i TIG mini SPP 170 - 4m</name>
+    <ean>5900391013403</ean>
+    <quantity>10</quantity>
+    <price>8326.00</price>
+    <purchase_price></purchase_price>
+    <tax_rate>23%</tax_rate>
+  </product>
+  <product>
+    <product_id></product_id>
+    <sku>XPRO200COMBO-PAK-24-3-170-8</sku>
+    <name>XPro 200 Combo w pakiecie z uchwytami: XPro MIG 240 - 3m i TIG mini SPP 170 - 8m</name>
+    <ean>5900391013427</ean>
+    <quantity>10</quantity>
+    <price>8467.14</price>
     <purchase_price></purchase_price>
     <tax_rate>23%</tax_rate>
   </product>
